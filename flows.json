@@ -8,14 +8,6 @@
         "env": []
     },
     {
-        "id": "bec709290ad11189",
-        "type": "tab",
-        "label": "Flow 1",
-        "disabled": false,
-        "info": "",
-        "env": []
-    },
-    {
         "id": "f075697e81a4e38d",
         "type": "subflow",
         "name": "MIHO005 Plug Monitor and Control",

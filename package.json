@@ -2,7 +2,10 @@
     "name": "energenie-ener314rt-home-assistant-mqtt",
     "description": "A Node-RED Project",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-contrib-energenie-ener314rt": "0.5.1",
+        "node-red-contrib-rpi-shutdown": "0.0.2"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flows.json",
