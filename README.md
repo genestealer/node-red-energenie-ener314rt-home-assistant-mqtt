@@ -26,3 +26,10 @@ I have marked the settings you will need edit for your config with "USER EDIT".
 ![image](https://user-images.githubusercontent.com/5207490/211171767-c9df86b3-85ff-4a16-b8ee-140e61d0cbe6.png)
 ![image](https://user-images.githubusercontent.com/5207490/211171778-405d2230-8911-4cea-b621-0a768cda8fdc.png)
 
+### To do
+
+#### Single Gang MiHome Light (MIHO008)
+#### Double Gang MiHome Light (MIHO009)
+#### Dimmer MiHome Light (MIHO076)
+#### Smart Plugs (MIHO002)
+
