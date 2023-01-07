@@ -3,8 +3,13 @@ Node-Red Config for Energenie ener314rt with Home Assistant MQTT Auto Discovery
 
 ### About
 I have marked the settings you will need edit for your config with "USER EDIT".
+Home Assistant will automaticlly add the devices, note the eTRVs may take 5 or more minutes to show.
+
+Note: If editing the Node-Red config, you may need to delete the device from Home Assistant for the changes to show.
+
 
 ### Dependencies
+* Home Assistant, with MQTT Discovery enabled.
 * [node-red-contrib-energenie-ener314r](https://github.com/Achronite/node-red-contrib-energenie-ener314rt) - Achronite
 * [See also Node-Red Add-In](https://flows.nodered.org/node/node-red-contrib-energenie-ener314rt) - Achronite
 
