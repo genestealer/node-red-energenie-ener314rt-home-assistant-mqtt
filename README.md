@@ -9,7 +9,7 @@ Note: If editing the Node-Red config, you may need to delete the device from Hom
 
 
 ### Dependencies
-* Home Assistant, with MQTT Discovery enabled.
+* Home Assistant, with [MQTT Discovery enabled](https://www.home-assistant.io/integrations/mqtt/)
 * [node-red-contrib-energenie-ener314r](https://github.com/Achronite/node-red-contrib-energenie-ener314rt) - Achronite
 * [See also Node-Red Add-In](https://flows.nodered.org/node/node-red-contrib-energenie-ener314rt) - Achronite
 
