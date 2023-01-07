@@ -1,4 +1,4 @@
-energenie-ener314rt-home-assistant-mqtt
+Node-Red Config for Energenie ener314rt with Home Assistant MQTT Auto Discovery
 =======================================
 
 ### About

@@ -1,6 +1,6 @@
 {
     "name": "energenie-ener314rt-home-assistant-mqtt",
-    "description": "A Node-RED Project",
+    "description": "Node-Red Config for Energenie ener314rt with Home Assistant MQTT Auto Discovery",
     "version": "0.0.1",
     "dependencies": {
         "node-red-contrib-energenie-ener314rt": "0.5.1",
