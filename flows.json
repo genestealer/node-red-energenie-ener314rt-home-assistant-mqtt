@@ -8,6 +8,30 @@
         "env": []
     },
     {
+        "id": "061b272d346ebd03",
+        "type": "tab",
+        "label": "Smart Monitor Plug (MIHO004)",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "f5c07ac875e326d6",
+        "type": "tab",
+        "label": "Smart Monitor Plug (MIHO004)",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "f9b614b65347025c",
+        "type": "tab",
+        "label": " Smart Plug+ (MIHO005)",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
         "id": "f075697e81a4e38d",
         "type": "subflow",
         "name": "MIHO005 Plug Monitor and Control",
@@ -239,29 +263,6 @@
         "h": 162
     },
     {
-        "id": "5112edb8c4151763",
-        "type": "group",
-        "z": "537eb81ac592d6ae",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "4d961fde847699bb",
-            "0282228cd430609b",
-            "497782fb8bf28a5e"
-        ],
-        "x": 34,
-        "y": 239,
-        "w": 2178,
-        "h": 334
-    },
-    {
         "id": "57c9286e0d5bee84",
         "type": "group",
         "z": "537eb81ac592d6ae",
@@ -300,31 +301,6 @@
         "h": 40
     },
     {
-        "id": "ea176ac851386d6e",
-        "type": "group",
-        "z": "537eb81ac592d6ae",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "6766125a6911b82f",
-            "53a09c1b2e26371d",
-            "8fa61f20ae12509e",
-            "b7595623148c9478",
-            "536976be74a81a6f"
-        ],
-        "x": 34,
-        "y": 639,
-        "w": 2238,
-        "h": 614
-    },
-    {
         "id": "a5de3889fbc07d90",
         "type": "group",
         "z": "537eb81ac592d6ae",
@@ -358,74 +334,15 @@
             "edea18ceaf6e05c2",
             "89732ff349aee7b8"
         ],
-        "x": 94,
-        "y": 2739,
+        "x": 54,
+        "y": 339,
         "w": 1552,
         "h": 442
     },
     {
-        "id": "2e76e37671a934e0",
-        "type": "group",
-        "z": "537eb81ac592d6ae",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "26a4d478f240fd15",
-            "4b2487e2e7cfa0a2",
-            "99f6dd3e81add433",
-            "5c343eb4cc9668f0",
-            "b43999f1833a7f6c",
-            "fa73fab3d77d8daa",
-            "018e61fa1f56ee1e",
-            "045aef6db868e9d5",
-            "0dc7ef642e108ea2",
-            "4c7c516e623f61fe",
-            "b866644ff66cac75",
-            "11520a859a0fedeb"
-        ],
-        "x": 34,
-        "y": 1299,
-        "w": 2278,
-        "h": 1248
-    },
-    {
-        "id": "b43999f1833a7f6c",
-        "type": "group",
-        "z": "537eb81ac592d6ae",
-        "g": "2e76e37671a934e0",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "255f879cc51130b6",
-            "3a38af998a677577",
-            "cf0cef5a7e10d03b",
-            "99369410a3413987",
-            "5afbdef9f808b931"
-        ],
-        "x": 894,
-        "y": 1679,
-        "w": 492,
-        "h": 202
-    },
-    {
         "id": "fa73fab3d77d8daa",
         "type": "group",
-        "z": "537eb81ac592d6ae",
-        "g": "2e76e37671a934e0",
+        "z": "061b272d346ebd03",
         "style": {
             "stroke": "#999999",
             "stroke-opacity": "1",
@@ -445,41 +362,15 @@
             "7f6f8e312914436c",
             "16340f7714e67b65"
         ],
-        "x": 74,
-        "y": 1379,
+        "x": 14,
+        "y": 59,
         "w": 712,
-        "h": 284.5
-    },
-    {
-        "id": "018e61fa1f56ee1e",
-        "type": "group",
-        "z": "537eb81ac592d6ae",
-        "g": "2e76e37671a934e0",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "0e63b171b14873f1",
-            "18636c74da0dfe6e",
-            "7d800d7548111c58",
-            "241e684d32ce5b64"
-        ],
-        "x": 1594,
-        "y": 1339,
-        "w": 692,
-        "h": 122
+        "h": 397
     },
     {
         "id": "045aef6db868e9d5",
         "type": "group",
-        "z": "537eb81ac592d6ae",
-        "g": "2e76e37671a934e0",
+        "z": "061b272d346ebd03",
         "style": {
             "stroke": "#999999",
             "stroke-opacity": "1",
@@ -505,19 +396,17 @@
             "943e1064f510b2a4",
             "f29f7f8628a8fa6e",
             "c9e8d0cc68ce9bf2",
-            "09303e100d6c84bb",
             "22f516cfc8a864eb"
         ],
-        "x": 1674,
-        "y": 1559,
+        "x": 174,
+        "y": 519,
         "w": 552,
-        "h": 762
+        "h": 702
     },
     {
-        "id": "0dc7ef642e108ea2",
+        "id": "e72e588ff1c8ae83",
         "type": "group",
-        "z": "537eb81ac592d6ae",
-        "g": "2e76e37671a934e0",
+        "z": "061b272d346ebd03",
         "style": {
             "stroke": "#999999",
             "stroke-opacity": "1",
@@ -528,125 +417,22 @@
             "color": "#a4a4a4"
         },
         "nodes": [
-            "f97e4fd104d66acc",
-            "f155d23535a2e226",
-            "743f673c2f069661",
-            "5bd487d809b900e4",
-            "06437078cd06684c",
-            "787bc97aae81112e"
+            "0e63b171b14873f1",
+            "18636c74da0dfe6e",
+            "241e684d32ce5b64",
+            "7f9a36f0ba9deaa3",
+            "7d800d7548111c58",
+            "f155d23535a2e226"
         ],
-        "x": 894,
-        "y": 1459,
-        "w": 472,
-        "h": 202
+        "x": 1694,
+        "y": 79,
+        "w": 652,
+        "h": 162
     },
     {
-        "id": "4c7c516e623f61fe",
+        "id": "f7d2523e9fcc649a",
         "type": "group",
-        "z": "537eb81ac592d6ae",
-        "g": "2e76e37671a934e0",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "45f505abf6949496",
-            "af2647e2212948a2",
-            "d12d0a2c61623d10",
-            "304a47a02d63c225",
-            "9f72ca99c409ecf7"
-        ],
-        "x": 894,
-        "y": 1899,
-        "w": 472,
-        "h": 182
-    },
-    {
-        "id": "b866644ff66cac75",
-        "type": "group",
-        "z": "537eb81ac592d6ae",
-        "g": "2e76e37671a934e0",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "dda63ccf41a87347",
-            "0e30c1199ff35990",
-            "4d842b8a2d4605ef",
-            "1d83c83e1aefc0e2",
-            "5b273f4574e1e063"
-        ],
-        "x": 894,
-        "y": 2099,
-        "w": 492,
-        "h": 202
-    },
-    {
-        "id": "11520a859a0fedeb",
-        "type": "group",
-        "z": "537eb81ac592d6ae",
-        "g": "2e76e37671a934e0",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "04f1e09fc050dd94",
-            "5d2f69626b6683da",
-            "50613d7a774d7f3e",
-            "ad6c980ebe98dd3c",
-            "fcfee4cd7f41bc55"
-        ],
-        "x": 894,
-        "y": 2339,
-        "w": 492,
-        "h": 182
-    },
-    {
-        "id": "8fa61f20ae12509e",
-        "type": "group",
-        "z": "537eb81ac592d6ae",
-        "g": "ea176ac851386d6e",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "7d073ecada5747d4",
-            "048759ea643eacfb",
-            "5ed8cbfcd963922f"
-        ],
-        "x": 1654,
-        "y": 699,
-        "w": 592,
-        "h": 122
-    },
-    {
-        "id": "0282228cd430609b",
-        "type": "group",
-        "z": "537eb81ac592d6ae",
-        "g": "5112edb8c4151763",
+        "z": "f5c07ac875e326d6",
         "style": {
             "stroke": "#999999",
             "stroke-opacity": "1",
@@ -659,89 +445,19 @@
         "nodes": [
             "9965ef4959ba011f",
             "9268589db08f7ec3",
-            "5afc17fcd76d53d5"
+            "5afc17fcd76d53d5",
+            "3342db22e8247c46",
+            "8f48efda55f6ac61"
         ],
-        "x": 1634,
-        "y": 299,
-        "w": 552,
-        "h": 122
-    },
-    {
-        "id": "b7595623148c9478",
-        "type": "group",
-        "z": "537eb81ac592d6ae",
-        "g": "ea176ac851386d6e",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "aff329637c1b5419",
-            "f9b9be4b9e1cf0bc"
-        ],
-        "x": 74,
-        "y": 719,
-        "w": 712,
-        "h": 82
-    },
-    {
-        "id": "536976be74a81a6f",
-        "type": "group",
-        "z": "537eb81ac592d6ae",
-        "g": "ea176ac851386d6e",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "27552c1876ecace0",
-            "9c574dedaae3266e",
-            "466213e5a7838e65",
-            "bd6bb52ed4b9535c"
-        ],
-        "x": 828,
-        "y": 699,
-        "w": 764,
-        "h": 528
-    },
-    {
-        "id": "497782fb8bf28a5e",
-        "type": "group",
-        "z": "537eb81ac592d6ae",
-        "g": "5112edb8c4151763",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "66a0ca5aeaaee7fd",
-            "f8842ccda840ba94"
-        ],
-        "x": 828,
-        "y": 299,
-        "w": 744,
-        "h": 248
+        "x": 804,
+        "y": 39,
+        "w": 602,
+        "h": 162
     },
     {
         "id": "466213e5a7838e65",
         "type": "group",
-        "z": "537eb81ac592d6ae",
-        "g": "536976be74a81a6f",
+        "z": "f9b614b65347025c",
         "style": {
             "stroke": "#999999",
             "stroke-opacity": "1",
@@ -756,40 +472,19 @@
             "25d4079da5b20a32",
             "897d41aed130b0e7",
             "e9115c9a4480a356",
-            "dcc750a105f878b9",
             "d67372c17b6b91ee",
-            "f4fedc380d1a6661"
+            "f4fedc380d1a6661",
+            "6229432f04945b55"
         ],
-        "x": 854,
-        "y": 1019,
-        "w": 712,
-        "h": 182
-    },
-    {
-        "id": "f8842ccda840ba94",
-        "type": "group",
-        "z": "537eb81ac592d6ae",
-        "g": "497782fb8bf28a5e",
-        "name": "",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "3342db22e8247c46",
-            "a26075197f86515e",
-            "3d449a6477c1b641",
-            "37b551c687aeb197"
-        ],
-        "x": 854,
-        "y": 359,
-        "w": 692,
-        "h": 162
+        "x": 794,
+        "y": 334,
+        "w": 652,
+        "h": 167
     },
     {
         "id": "bd6bb52ed4b9535c",
         "type": "group",
-        "z": "537eb81ac592d6ae",
-        "g": "536976be74a81a6f",
+        "z": "f9b614b65347025c",
         "style": {
             "stroke": "#999999",
             "stroke-opacity": "1",
@@ -804,134 +499,102 @@
             "37f62acf217785cd",
             "dadbe76ae213adcc",
             "3c57205d2a77b4a0",
-            "09747f10f9a9bea7",
             "1e380b75b8d61790",
-            "301bb66f90af5066"
+            "301bb66f90af5066",
+            "517e661563658566"
         ],
-        "x": 854,
-        "y": 819,
+        "x": 794,
+        "y": 174,
+        "w": 632,
+        "h": 147
+    },
+    {
+        "id": "da1b9b77ab11a273",
+        "type": "group",
+        "z": "f9b614b65347025c",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "38a4b9e675ef9b0f",
+            "e428c81cc49ef126",
+            "f267fd6bda3b9403",
+            "b95a1eb9606feb70",
+            "0d7a52e255cdf2d7",
+            "8d8ca8ae66d9e016",
+            "53a09c1b2e26371d",
+            "aff329637c1b5419",
+            "f9b9be4b9e1cf0bc"
+        ],
+        "x": 14,
+        "y": 59,
         "w": 712,
-        "h": 182
+        "h": 282
     },
     {
-        "id": "7d800d7548111c58",
-        "type": "junction",
-        "z": "537eb81ac592d6ae",
-        "g": "018e61fa1f56ee1e",
-        "x": 1960,
-        "y": 1420,
-        "wires": [
-            [
-                "0e63b171b14873f1"
-            ]
-        ]
-    },
-    {
-        "id": "f97e4fd104d66acc",
-        "type": "junction",
-        "z": "537eb81ac592d6ae",
-        "g": "0dc7ef642e108ea2",
-        "x": 1160,
-        "y": 1580,
-        "wires": [
-            [
-                "18636c74da0dfe6e"
-            ]
-        ]
-    },
-    {
-        "id": "301bb66f90af5066",
-        "type": "junction",
-        "z": "537eb81ac592d6ae",
-        "g": "bd6bb52ed4b9535c",
-        "x": 1360,
-        "y": 860,
-        "wires": [
-            [
-                "7d073ecada5747d4"
-            ]
-        ]
-    },
-    {
-        "id": "d67372c17b6b91ee",
-        "type": "junction",
-        "z": "537eb81ac592d6ae",
-        "g": "466213e5a7838e65",
-        "x": 1360,
-        "y": 1060,
-        "wires": [
-            [
-                "7d073ecada5747d4"
-            ]
-        ]
+        "id": "7ad9c5f766ebd082",
+        "type": "group",
+        "z": "f9b614b65347025c",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "7d073ecada5747d4",
+            "048759ea643eacfb",
+            "5ed8cbfcd963922f",
+            "86a3f5373d16945c",
+            "09747f10f9a9bea7"
+        ],
+        "x": 1544,
+        "y": 59,
+        "w": 642,
+        "h": 162
     },
     {
         "id": "f4c005a8c68ef5b1",
         "type": "junction",
-        "z": "537eb81ac592d6ae",
+        "z": "061b272d346ebd03",
         "g": "045aef6db868e9d5",
-        "x": 2180,
-        "y": 1640,
+        "x": 680,
+        "y": 560,
         "wires": [
             [
                 "06437078cd06684c",
                 "5afbdef9f808b931",
                 "5b273f4574e1e063",
                 "9f72ca99c409ecf7",
-                "fcfee4cd7f41bc55"
+                "fcfee4cd7f41bc55",
+                "8fc60a30c88c0ef9",
+                "b9e1db538b2c23f4",
+                "e80248c229e928c9",
+                "4345c0284d70f3de",
+                "621f444a414daabc",
+                "26d013a8d14dc131",
+                "e37676b8b5aea3b9"
             ]
         ]
     },
     {
-        "id": "45f505abf6949496",
+        "id": "d67372c17b6b91ee",
         "type": "junction",
-        "z": "537eb81ac592d6ae",
-        "g": "4c7c516e623f61fe",
-        "x": 1160,
-        "y": 2020,
+        "z": "f9b614b65347025c",
+        "g": "466213e5a7838e65",
+        "x": 1300,
+        "y": 360,
         "wires": [
-            [
-                "18636c74da0dfe6e"
-            ]
-        ]
-    },
-    {
-        "id": "255f879cc51130b6",
-        "type": "junction",
-        "z": "537eb81ac592d6ae",
-        "g": "b43999f1833a7f6c",
-        "x": 1160,
-        "y": 1800,
-        "wires": [
-            [
-                "18636c74da0dfe6e"
-            ]
-        ]
-    },
-    {
-        "id": "dda63ccf41a87347",
-        "type": "junction",
-        "z": "537eb81ac592d6ae",
-        "g": "b866644ff66cac75",
-        "x": 1160,
-        "y": 2220,
-        "wires": [
-            [
-                "18636c74da0dfe6e"
-            ]
-        ]
-    },
-    {
-        "id": "04f1e09fc050dd94",
-        "type": "junction",
-        "z": "537eb81ac592d6ae",
-        "g": "11520a859a0fedeb",
-        "x": 1160,
-        "y": 2460,
-        "wires": [
-            [
-                "18636c74da0dfe6e"
-            ]
+            []
         ]
     },
     {
@@ -970,10 +633,10 @@
     {
         "id": "cf09eae887391bc1",
         "type": "openThings-device",
-        "name": "Radiator Valve:5475",
+        "name": "Radiator Valve:4168",
         "productId": "3",
         "product": "Radiator Valve",
-        "deviceId": "5475",
+        "deviceId": "4168",
         "control": "Control & Monitor (Cached)"
     },
     {
@@ -1040,6 +703,78 @@
         "productId": "3",
         "product": "Radiator Valve",
         "deviceId": "5251",
+        "control": "Control & Monitor (Cached)"
+    },
+    {
+        "id": "b6bd7189b0279cc5",
+        "type": "openThings-device",
+        "name": "Radiator Valve:3463",
+        "productId": "3",
+        "product": "Radiator Valve",
+        "deviceId": "3463",
+        "control": "Control & Monitor (Cached)"
+    },
+    {
+        "id": "e09f66fe193571c6",
+        "type": "openThings-device",
+        "name": "Radiator Valve:4329",
+        "productId": "3",
+        "product": "Radiator Valve",
+        "deviceId": "4329",
+        "control": "Control & Monitor (Cached)"
+    },
+    {
+        "id": "da83621dd79ae388",
+        "type": "openThings-device",
+        "name": "Radiator Valve:4335",
+        "productId": "3",
+        "product": "Radiator Valve",
+        "deviceId": "4335",
+        "control": "Control & Monitor (Cached)"
+    },
+    {
+        "id": "cd48f129e1e4d8e7",
+        "type": "openThings-device",
+        "name": "Radiator Valve:4324",
+        "productId": "3",
+        "product": "Radiator Valve",
+        "deviceId": "4324",
+        "control": "Control & Monitor (Cached)"
+    },
+    {
+        "id": "e5310d357913c3dc",
+        "type": "openThings-device",
+        "name": "Radiator Valve:4168",
+        "productId": "3",
+        "product": "Radiator Valve",
+        "deviceId": "4168",
+        "control": "Control & Monitor (Cached)"
+    },
+    {
+        "id": "03f8fe03bec6f55a",
+        "type": "openThings-device",
+        "name": "Radiator Valve:2989",
+        "productId": "3",
+        "product": "Radiator Valve",
+        "deviceId": "2989",
+        "control": "Control & Monitor (Cached)"
+    },
+    {
+        "id": "c73827dd95a46815",
+        "type": "openThings-device",
+        "name": "Radiator Valve:5993",
+        "productId": "3",
+        "product": "Radiator Valve",
+        "deviceId": "5993",
+        "control": "Control & Monitor (Cached)"
+    },
+    {
+        "id": "b14fe5948412f3b5",
+        "type": "openThings-device",
+        "name": "Radiator Valve:5475",
+        "productId": "3",
+        "product": "Radiator Valve",
+        "deviceId": "5475",
         "control": "Control & Monitor (Cached)"
     },
     {
@@ -1225,7 +960,7 @@
         "type": "function",
         "z": "cdb62d5ce7ac8e79",
         "name": "Create MQTT discovery messages",
-        "func": "// Rev 1. Richard Huish 2023\n// Designed for Home Assistant automatic MQTT Discovery\n// https://www.home-assistant.io/integrations/mqtt/#mqtt-discovery\n\n// Change this to match the IP of your Raspberry Pi with ENER314-RT, used in Home Assistant for proving user with hyperlink.\nvar CONFIGURATION_VAR = \"http://192.168.10.35:1880/\";\n\nvar MODEL_NAME = \"eTRV (MIHO013)\";\nvar SHARED_NAME_PREFIX = \"Energenie \";\n// var IDENTIFIER_NAME_PREFIX = \"Energenie MQTT Gateway\";\nvar IDENTIFIERS_PREFIX = \"energenie_mqtt_gateway_\";\n\n\nvar MANUFACTURER_NAME = \"Energenie (via MQTT Raspberry Pi with ENER314-RT)\";\nvar VIA_DEVICE_NAME = \"MQTT Raspberry Pi with ENER314-RT\";\nvar UNIQUE_ID_SUFFIX = \"_energenie_mqtt\";\nvar EXPIRE_AFTER = \"400\"; // eTRV reports its temperature at the SET_REPORTING_INTERVAL (default 5 minutes)\nvar STATE_TOPIC = \"energenie_gateway/energeniemqtt_\" + msg.payload.deviceId + \"/state\";\n\n// Code reuse to save typing it out for each config.\nvar AVAILABILITY = [\n    {\n        topic: \"energenie_gateway/bridge/state\",\n        payload_available: \"online\",\n        payload_not_available: \"offline\"\n    }\n];\nvar DEVICE = {\n    name: msg.payload.deviceId,\n    identifiers: IDENTIFIERS_PREFIX + msg.payload.deviceId,\n    configuration_url: CONFIGURATION_VAR,\n    manufacturer: MANUFACTURER_NAME,\n    model: MODEL_NAME,\n    via_device: VIA_DEVICE_NAME\n};\n\n// Control and eTRV\nvar config1 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        // entity_category: \"none\",\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" TRV\",\n        unique_id: msg.payload.deviceId + \"_trv\",\n        temperature_unit: \"C\",\n\n        //Limit the climate modes to just heat (no fan, cool, etc)\n        // If this would ever chnage then the forced \"heat\" mode in the pre-node would need to be removed.\n        // Could add an off mode, which closes the valve. But this is not how energenie did it on their app.\n        // modes: [\"off\",\"heat\"],\n        // modes: [\"heat\"],\n        \n        modes: \"heat\",\n        mode_state_topic: STATE_TOPIC,\n        mode_state_template: \"{{ value_json.mode }}\", // Fake mode manually added\n\n        // The MQTT topic on which to listen for the current temperature. (int) NOTE: The VALVE_STATE must be set to 'Auto' for this to work.\n        current_temperature_topic: STATE_TOPIC,\n        current_temperature_template: \"{{ value_json.TEMPERATURE }}\",\n\n        // MQTT topic to subscribe for changes in the target temperature\n        temperature_state_topic: STATE_TOPIC,\n        temperature_state_template: \"{{ value_json.TARGET_TEMP }}\",\n\n        // The MQTT topic to publish commands to change the target temperature.\n        temperature_command_topic: \"energenie_gateway/energeniemqtt_\" + msg.payload.deviceId + \"/command\",\n        temperature_command_template: '{ \"command\":244, \"data\":{{value}}}', // command = 244 is for setting the target temperature, so I DON'T need to edit the passed data back from MQTT\n\n        // Temp Range as per manual\n        max_temp: 30,\n        min_temp: -4\n\n    },\n    topic: \"homeassistant/climate/energeniemqtt_\" + msg.payload.deviceId + \"/trv/config\"\n};\n\nvar config2 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        entity_category: \"diagnostic\",\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Battery Voltage\",\n        unique_id: msg.payload.deviceId + \"/battery_voltages\",\n        state_topic: STATE_TOPIC,\n        value_template: \"{{ value_json.VOLTAGE }}\",\n        unit_of_measurement: \"V\",\n        device_class: \"voltage\",\n        state_class: \"measurement\"\n    },\n    topic: \"homeassistant/sensor/energeniemqtt_\" + msg.payload.deviceId + \"/battery_voltages/config\"\n};\n\nvar config3 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        entity_category: \"diagnostic\",\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Battery Level\",\n        unique_id: msg.payload.deviceId + \"/battery_level\",\n        state_topic: STATE_TOPIC,\n        // (($volt - $low) / ($high - $low)) * 100;\n        value_template: \"{{ (((value_json.VOLTAGE - 2.2) / (3.2 - 2.2)) * 100) | round(0) }}\", // 3.1V nominally with new batteries \n\n        unit_of_measurement: \"%\",\n        device_class: \"battery\",\n        state_class: \"measurement\"\n    },\n    topic: \"homeassistant/sensor/energeniemqtt_\" + msg.payload.deviceId + \"/battery_level/config\"\n};\n\nvar config4 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        entity_category: \"diagnostic\",\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Valve Exercised Issues\",\n        unique_id: msg.payload.deviceId + \"/valve_exercised\",\n        state_topic: STATE_TOPIC,\n        value_template: \"{{ value_json.EXERCISE_VALVE }}\",\n        device_class: \"problem\",\n        // state_class: \"measurement\",\n        // icon: \"mdi:flash\",\n        payload_on: \"fail\", //payload format to match JSON from sensor\n        payload_off: \"success\" //payload format to match JSON from sensor\n    },\n    topic: \"homeassistant/binary_sensor/energeniemqtt_\" + msg.payload.deviceId + \"/valve_exercised/config\"\n\n};\n\nvar config5 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        entity_category: \"diagnostic\",\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Last Timestamp\",\n        unique_id: msg.payload.deviceId + \"/last_timestamp\",\n        state_topic: STATE_TOPIC,\n        value_template: \"{{ value_json.timestamp | timestamp_local}}\", // Timestamp of last update\n        device_class: \"TIMESTAMP\"\n    },\n    topic: \"homeassistant/sensor/energeniemqtt_\" + msg.payload.deviceId + \"/last_timestamp/config\"\n};\n\nvar config6 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        entity_category: \"diagnostic\",\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Voltage Timestamp\",\n        unique_id: msg.payload.deviceId + \"/voltage_timestamp\",\n        state_topic: STATE_TOPIC,\n        value_template: \"{{ value_json.VOLTAGE_TS | timestamp_local}}\", // Timestamp of last voltage update\n        // unit_of_measurement: \"N/A\",\n        device_class: \"timestamp\",\n        // state_class: \"none\"\n    },\n    topic: \"homeassistant/sensor/energeniemqtt_\" + msg.payload.deviceId + \"/voltage_timestamp/config\"\n};\n\nvar config7 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Valve Timestamp\",\n        unique_id: msg.payload.deviceId + \"/valve_timestamp\",\n        state_topic: STATE_TOPIC,\n        value_template: \"{{ value_json.VALVE_TS | timestamp_local}}\", // Timestamp of last valve update\n        // unit_of_measurement: \"N/A\",\n        device_class: \"timestamp\",\n        // state_class: \"none\",\n        entity_category: \"diagnostic\"\n    },\n    topic: \"homeassistant/sensor/energeniemqtt_\" + msg.payload.deviceId + \"/valve_timestamp/config\"\n};\n\nvar config8 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Diagnostics Timestamp\",\n        unique_id: msg.payload.deviceId + \"/diagnostics_timestamp\",\n        state_topic: STATE_TOPIC,\n        value_template: \"{{ value_json.DIAGNOSTICS_TS | timestamp_local }}\", // Timestamp of last diagnostics update\n        // unit_of_measurement: \"N/A\",\n        device_class: \"timestamp\",\n        // state_class: \"none\",\n        entity_category: \"diagnostic\"\n    },\n    topic: \"homeassistant/sensor/energeniemqtt_\" + msg.payload.deviceId + \"/diagnostics_timestamp/config\"\n};\n\nvar config9 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        retain: false,\n        name: msg.payload.deviceId + \" Identify\",\n        unique_id: msg.payload.deviceId + \"/identify\",\n        command_topic: \"energenie_gateway/energeniemqtt_\" + msg.payload.deviceId + \"/command\",\n        payload_press: '{\"command\":191}',\n        entity_category: \"config\",\n        icon: \"mdi:home-search\"\n    },\n    topic: \"homeassistant/button/energeniemqtt_\" + msg.payload.deviceId + \"/identify/config\"\n};\n\nvar config10 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        retain: false,\n        name: msg.payload.deviceId + \" Calibrate\",\n        unique_id: msg.payload.deviceId + \"/calibrate\",\n        command_topic: \"energenie_gateway/energeniemqtt_\" + msg.payload.deviceId + \"/command\",\n        payload_press: '{\"command\":163}',\n        device_class: \"restart\",\n        entity_category: \"config\"\n    },\n    topic: \"homeassistant/button/energeniemqtt_\" + msg.payload.deviceId + \"/calibrate/config\"\n};\n\nvar config11 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        retain: false,\n        name: msg.payload.deviceId + \" Request Diagnostics\",\n        unique_id: msg.payload.deviceId + \"/request_diagnostics\",\n        command_topic: \"energenie_gateway/energeniemqtt_\" + msg.payload.deviceId + \"/command\",\n        payload_press: '{\"command\":166}',\n        device_class: \"restart\",\n        entity_category: \"config\",\n        icon: \"mdi:doctor\" \n    },\n    topic: \"homeassistant/button/energeniemqtt_\" + msg.payload.deviceId + \"/request_diagnostics/config\"\n};\n\n\nvar config12 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        retain: false,\n        name: msg.payload.deviceId + \" Request Voltage\",\n        unique_id: msg.payload.deviceId + \"/request_voltage\",\n        command_topic: \"energenie_gateway/energeniemqtt_\" + msg.payload.deviceId + \"/command\",\n        payload_press: '{\"command\":226}',\n        device_class: \"restart\",\n        entity_category: \"config\",\n        icon: \"mdi:flash-triangle\" \n    },\n    topic: \"homeassistant/button/energeniemqtt_\" + msg.payload.deviceId + \"/request_voltage/config\"\n};\n\nvar config13 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        retain: false, \n        name: msg.payload.deviceId + \" Valve State Controls\",\n        unique_id: msg.payload.deviceId + \"/valve_state_controls\",\n        command_topic: \"energenie_gateway/energeniemqtt_\" + msg.payload.deviceId + \"/command\",\n        // state_topic: STATE_TOPIC, //Cant get this to work\n        // value_template: \"{{ value_json.VALVE_STATE }}\", //Cant get this to work, turns out VALVE_STATE is not returned by the valve, so we have to remember what we last set it too!\n        options: [\"Open\", \"Closed\", \"Automatic\"],\n        entity_category: \"config\"\n        // payload_press: '{\"command\":226}',\n        // device_class: \"restart\",\n        // entity_category: \"config\",\n        // icon: \"mdi:flash-triangle\"\n    },\n    topic: \"homeassistant/select/energeniemqtt_\" + msg.payload.deviceId + \"/valve_state_contols/config\"\n};\n\nvar config14 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: false,\n        name: msg.payload.deviceId + \" Low Power Mode\",\n        unique_id: msg.payload.deviceId + \"/low_power_mode\",\n        state_topic: STATE_TOPIC,\n        optimistic: false,\n        command_topic: \"energenie_gateway/energeniemqtt_\" + msg.payload.deviceId + \"/command\",\n        value_template: \"{{value_json.LOW_POWER_MODE}}\",\n        device_class: \"switch\",\n        state_on: \"True\", //payload format to match JSON from sensor\n        state_off: \"False\", //payload format to match JSON from sensor\n        payload_on: '{ \"command\":164, \"data\":1 }',\n        payload_off: '{ \"command\":164, \"data\":0 }',\n        entity_category: \"config\",\n        icon: \"mdi:sprout\"\n    },\n    topic: \"homeassistant/switch/energeniemqtt_\" + msg.payload.deviceId + \"/low_power_mode/config\"\n\n};\n\nvar config15 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Low Power Mode State\",\n        unique_id: msg.payload.deviceId + \"/low_power_mode_state\",\n        state_topic: STATE_TOPIC,\n        value_template: \"{{ value_json.LOW_POWER_MODE }}\",\n        // device_class: \"problem\",\n        // state_class: \"measurement\",\n        icon: \"mdi:sprout\",\n        entity_category: \"diagnostic\",\n        payload_on: \"True\", //payload format to match JSON from sensor\n        payload_off: \"False\", //payload format to match JSON from sensor\n    },\n    topic: \"homeassistant/binary_sensor/energeniemqtt_\" + msg.payload.deviceId + \"/low_power_mode_state/config\"\n};\n\nvar config16 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Errors\",\n        unique_id: msg.payload.deviceId + \"/errors\",\n        state_topic: STATE_TOPIC,\n        value_template: \"{{ value_json.ERRORS }}\",\n        // device_class: \"problem\",\n        // state_class: \"measurement\",\n        // icon: \"mdi:sprout\",\n        entity_category: \"diagnostic\"\n    },\n    topic: \"homeassistant/sensor/energeniemqtt_\" + msg.payload.deviceId + \"/errors/config\"\n};\n\nvar config17 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Error Text\",\n        unique_id: msg.payload.deviceId + \"/error_text\",\n        state_topic: STATE_TOPIC,\n        value_template: \"{{ value_json.ERROR_TEXT }}\",\n        entity_category: \"diagnostic\"\n        // payload_press: '{\"command\":226}',\n        // device_class: \"restart\",\n        // entity_category: \"config\",\n        // icon: \"mdi:flash-triangle\"\n    },\n    topic: \"homeassistant/sensor/energeniemqtt_\" + msg.payload.deviceId + \"/error_text/config\"\n};\n\n\nvar config18 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: false,\n        name: msg.payload.deviceId + \" Reporting Interval\",\n        unique_id: msg.payload.deviceId + \"/reporting_interval\",\n        command_topic: \"energenie_gateway/energeniemqtt_\" + msg.payload.deviceId + \"/command\",\n        // state_topic: STATE_TOPIC, // Valve never returns this value, so you have to work optimistically.\n        min: 300,\n        max: 3600,\n        unit_of_measurement: \"s\",\n        command_template: '{ \"command\":210, \"data\":{{value}}}',\n        // device_class: \"restart\",\n        entity_category: \"config\",\n        icon: \"mdi:timer-edit-outline\"\n    },\n    topic: \"homeassistant/number/energeniemqtt_\" + msg.payload.deviceId + \"/set_reporting_interval/config\"\n};\n\nreturn [config1, config2, config3, config4, config5, config6, config7, config8, config9, config10, config11, config12, config13, config14, config15, config16, config17, config18]; \n\n\n// This one does not work!\n// turns out VALVE_STATE is not returned by the valve, so we have to remember what we last set it too!\n// var config14 = {\n//     payload: {\n//         // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n//         availability: AVAILABILITY,\n//         device: DEVICE,\n//         // expire_after: EXPIRE_AFTER, // never expire\n//         retain: true,\n//         name: msg.payload.deviceId + \" Valve State Info\",\n//         unique_id: msg.payload.deviceId + \"/valve_state_info\",\n//         state_topic: STATE_TOPIC,\n//         value_template: \"{{ value_json.VALVE_STATE }}\",\n//         // unit_of_measurement: \"N/A\",\n//         // device_class: \"none\",\n//         // state_class: \"none\",\n//         entity_category: \"diagnostic\"\n//         // icon: \"mdi:current-dc\"\n//     },\n//     topic: \"homeassistant/sensor/energeniemqtt_\" + msg.payload.deviceId + \"/valve_state_info/config\"\n// };\n\n\n// // Need to get working: https://www.home-assistant.io/integrations/device_trigger.mqtt/\n// var config10 = {\n//     payload: {\n//         // availability_mode: \"all\",\n//         availability: [\n//             {\n//                 topic: \"energenie_gateway/bridge/state\",\n//                 payload_available: \"online\",\n//                 payload_not_available: \"offline\"\n//             }\n//         ],\n//         device: {\n//             name: msg.payload.deviceId,\n//             identifiers: IDENTIFIERS_PREFIX + msg.payload.deviceId,\n//             configuration_url: CONFIGURATION_VAR,\n//             manufacturer: MANUFACTURER_NAME,\n//             model: MODEL_NAME,\n//             via_device: VIA_DEVICE_NAME\n//         },\n// //         // entity_category: \"none\",\n//         // expire_after: EXPIRE_AFTER, // never expire\n//         // retain: false,\n//         // name: msg.payload.deviceId + \" Identify\",\n//         // unique_id: msg.payload.deviceId + \"/identify\",\n//         // state_topic: STATE_TOPIC,\n//         // value_template: \"{{ value_json.EXERCISE_VALVE}}\",\n//         // entity_category: \"config\",\n//         // device_class: \"None\"\n//         // // state_class: \"measurement\",\n//         // // icon: \"mdi:flash\"\n//         automation_type: \n\n\n//     },\n//     topic: \"homeassistant/device_automation/energeniemqtt_\" + msg.payload.deviceId + \"/id_button/config\"\n\n// };",
+        "func": "// Rev 1. Richard Huish 2023\n// Designed for Home Assistant automatic MQTT Discovery\n// https://www.home-assistant.io/integrations/mqtt/#mqtt-discovery\n\n// Change this to match the IP of your Raspberry Pi with ENER314-RT, used in Home Assistant for proving user with hyperlink.\nvar CONFIGURATION_VAR = \"http://192.168.10.35:1880/\";\n\nvar MODEL_NAME = \"eTRV (MIHO013)\";\nvar SHARED_NAME_PREFIX = \"Energenie \";\n// var IDENTIFIER_NAME_PREFIX = \"Energenie MQTT Gateway\";\nvar IDENTIFIERS_PREFIX = \"energenie_mqtt_gateway_\";\n\n\nvar MANUFACTURER_NAME = \"Energenie (via MQTT Raspberry Pi with ENER314-RT)\";\nvar VIA_DEVICE_NAME = \"MQTT Raspberry Pi with ENER314-RT\";\nvar UNIQUE_ID_SUFFIX = \"_energenie_mqtt\";\nvar EXPIRE_AFTER = \"400\"; // eTRV reports its temperature at the SET_REPORTING_INTERVAL (default 5 minutes)\nvar STATE_TOPIC = \"energenie_gateway/energeniemqtt_\" + msg.payload.deviceId + \"/state\";\n\n// Code reuse to save typing it out for each config.\nvar AVAILABILITY = [\n    {\n        topic: \"energenie_gateway/bridge/state\",\n        payload_available: \"online\",\n        payload_not_available: \"offline\"\n    }\n];\nvar DEVICE = {\n    name: msg.payload.deviceId,\n    identifiers: IDENTIFIERS_PREFIX + msg.payload.deviceId,\n    configuration_url: CONFIGURATION_VAR,\n    manufacturer: MANUFACTURER_NAME,\n    model: MODEL_NAME,\n    via_device: VIA_DEVICE_NAME\n};\n\n// Control and eTRV\nvar config1 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        // entity_category: \"none\",\n        // expire_after: EXPIRE_AFTER, // never expire\n        // retain: true,\n        name: msg.payload.deviceId + \" Radiator\",\n        unique_id: msg.payload.deviceId + \"_trv\",\n        temperature_unit: \"C\",\n\n        //Limit the climate modes to just heat (no fan, cool, etc)\n        // If this would ever chnage then the forced \"heat\" mode in the pre-node would need to be removed.\n        // Could add an off mode, which closes the valve. But this is not how energenie did it on their app.\n        // modes: [\"off\",\"heat\"],\n        // modes: [\"heat\"],\n        \n        modes: \"heat\",\n        mode_state_topic: STATE_TOPIC,\n        mode_state_template: \"{{ value_json.mode }}\", // Fake mode manually added\n\n        // The MQTT topic on which to listen for the current temperature. (int) NOTE: The VALVE_STATE must be set to 'Auto' for this to work.\n        current_temperature_topic: STATE_TOPIC,\n        current_temperature_template: \"{{ value_json.TEMPERATURE }}\",\n\n        // MQTT topic to subscribe for changes in the target temperature\n        temperature_state_topic: STATE_TOPIC,\n        temperature_state_template: \"{{ value_json.TARGET_TEMP }}\",\n\n        // The MQTT topic to publish commands to change the target temperature.\n        temperature_command_topic: \"energenie_gateway/energeniemqtt_\" + msg.payload.deviceId + \"/command\",\n        temperature_command_template: '{ \"command\":244, \"data\":{{value}}}', // command = 244 is for setting the target temperature, so I DON'T need to edit the passed data back from MQTT\n\n        // Temp Range as per manual\n        max_temp: 30,\n        min_temp: -4\n\n    },\n    topic: \"homeassistant/climate/energeniemqtt_\" + msg.payload.deviceId + \"/trv/config\"\n};\n\nvar config2 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        entity_category: \"diagnostic\",\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Battery Voltage\",\n        unique_id: msg.payload.deviceId + \"/battery_voltages\",\n        state_topic: STATE_TOPIC,\n        value_template: \"{{ value_json.VOLTAGE }}\",\n        unit_of_measurement: \"V\",\n        device_class: \"voltage\",\n        state_class: \"measurement\"\n    },\n    topic: \"homeassistant/sensor/energeniemqtt_\" + msg.payload.deviceId + \"/battery_voltages/config\"\n};\n\nvar config3 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        entity_category: \"diagnostic\",\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Battery Level\",\n        unique_id: msg.payload.deviceId + \"/battery_level\",\n        state_topic: STATE_TOPIC,\n        // (($volt - $low) / ($high - $low)) * 100;\n        value_template: \"{{ (((value_json.VOLTAGE - 2.2) / (3.2 - 2.2)) * 100) | round(0) }}\", // 3.1V nominally with new batteries \n\n        unit_of_measurement: \"%\",\n        device_class: \"battery\",\n        state_class: \"measurement\"\n    },\n    topic: \"homeassistant/sensor/energeniemqtt_\" + msg.payload.deviceId + \"/battery_level/config\"\n};\n\nvar config4 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        entity_category: \"diagnostic\",\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Valve Exercised Issues\",\n        unique_id: msg.payload.deviceId + \"/valve_exercised\",\n        state_topic: STATE_TOPIC,\n        value_template: \"{{ value_json.EXERCISE_VALVE }}\",\n        device_class: \"problem\",\n        // state_class: \"measurement\",\n        // icon: \"mdi:flash\",\n        payload_on: \"fail\", //payload format to match JSON from sensor\n        payload_off: \"success\" //payload format to match JSON from sensor\n    },\n    topic: \"homeassistant/binary_sensor/energeniemqtt_\" + msg.payload.deviceId + \"/valve_exercised/config\"\n\n};\n\nvar config5 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        entity_category: \"diagnostic\",\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Last Timestamp\",\n        unique_id: msg.payload.deviceId + \"/last_timestamp\",\n        state_topic: STATE_TOPIC,\n        value_template: \"{{ value_json.timestamp | timestamp_local}}\", // Timestamp of last update\n        device_class: \"TIMESTAMP\"\n    },\n    topic: \"homeassistant/sensor/energeniemqtt_\" + msg.payload.deviceId + \"/last_timestamp/config\"\n};\n\nvar config6 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        entity_category: \"diagnostic\",\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Voltage Timestamp\",\n        unique_id: msg.payload.deviceId + \"/voltage_timestamp\",\n        state_topic: STATE_TOPIC,\n        value_template: \"{{ value_json.VOLTAGE_TS | timestamp_local}}\", // Timestamp of last voltage update\n        // unit_of_measurement: \"N/A\",\n        device_class: \"timestamp\",\n        // state_class: \"none\"\n    },\n    topic: \"homeassistant/sensor/energeniemqtt_\" + msg.payload.deviceId + \"/voltage_timestamp/config\"\n};\n\nvar config7 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Valve Timestamp\",\n        unique_id: msg.payload.deviceId + \"/valve_timestamp\",\n        state_topic: STATE_TOPIC,\n        value_template: \"{{ value_json.VALVE_TS | timestamp_local}}\", // Timestamp of last valve update\n        // unit_of_measurement: \"N/A\",\n        device_class: \"timestamp\",\n        // state_class: \"none\",\n        entity_category: \"diagnostic\"\n    },\n    topic: \"homeassistant/sensor/energeniemqtt_\" + msg.payload.deviceId + \"/valve_timestamp/config\"\n};\n\nvar config8 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Diagnostics Timestamp\",\n        unique_id: msg.payload.deviceId + \"/diagnostics_timestamp\",\n        state_topic: STATE_TOPIC,\n        value_template: \"{{ value_json.DIAGNOSTICS_TS | timestamp_local }}\", // Timestamp of last diagnostics update\n        // unit_of_measurement: \"N/A\",\n        device_class: \"timestamp\",\n        // state_class: \"none\",\n        entity_category: \"diagnostic\"\n    },\n    topic: \"homeassistant/sensor/energeniemqtt_\" + msg.payload.deviceId + \"/diagnostics_timestamp/config\"\n};\n\nvar config9 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        retain: false,\n        name: msg.payload.deviceId + \" Identify\",\n        unique_id: msg.payload.deviceId + \"/identify\",\n        command_topic: \"energenie_gateway/energeniemqtt_\" + msg.payload.deviceId + \"/command\",\n        payload_press: '{\"command\":191}',\n        entity_category: \"config\",\n        icon: \"mdi:home-search\"\n    },\n    topic: \"homeassistant/button/energeniemqtt_\" + msg.payload.deviceId + \"/identify/config\"\n};\n\nvar config10 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        retain: false,\n        name: msg.payload.deviceId + \" Calibrate\",\n        unique_id: msg.payload.deviceId + \"/calibrate\",\n        command_topic: \"energenie_gateway/energeniemqtt_\" + msg.payload.deviceId + \"/command\",\n        payload_press: '{\"command\":163}',\n        device_class: \"restart\",\n        entity_category: \"config\"\n    },\n    topic: \"homeassistant/button/energeniemqtt_\" + msg.payload.deviceId + \"/calibrate/config\"\n};\n\nvar config11 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        retain: false,\n        name: msg.payload.deviceId + \" Request Diagnostics\",\n        unique_id: msg.payload.deviceId + \"/request_diagnostics\",\n        command_topic: \"energenie_gateway/energeniemqtt_\" + msg.payload.deviceId + \"/command\",\n        payload_press: '{\"command\":166}',\n        device_class: \"restart\",\n        entity_category: \"config\",\n        icon: \"mdi:doctor\" \n    },\n    topic: \"homeassistant/button/energeniemqtt_\" + msg.payload.deviceId + \"/request_diagnostics/config\"\n};\n\n\nvar config12 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        retain: false,\n        name: msg.payload.deviceId + \" Request Voltage\",\n        unique_id: msg.payload.deviceId + \"/request_voltage\",\n        command_topic: \"energenie_gateway/energeniemqtt_\" + msg.payload.deviceId + \"/command\",\n        payload_press: '{\"command\":226}',\n        device_class: \"restart\",\n        entity_category: \"config\",\n        icon: \"mdi:flash-triangle\" \n    },\n    topic: \"homeassistant/button/energeniemqtt_\" + msg.payload.deviceId + \"/request_voltage/config\"\n};\n\nvar config13 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        retain: false, \n        name: msg.payload.deviceId + \" Valve State Controls\",\n        unique_id: msg.payload.deviceId + \"/valve_state_controls\",\n        command_topic: \"energenie_gateway/energeniemqtt_\" + msg.payload.deviceId + \"/command\",\n        // state_topic: STATE_TOPIC, //Cant get this to work\n        // value_template: \"{{ value_json.VALVE_STATE }}\", //Cant get this to work, turns out VALVE_STATE is not returned by the valve, so we have to remember what we last set it too!\n        options: [\"Open\", \"Closed\", \"Automatic\"],\n        entity_category: \"config\"\n        // payload_press: '{\"command\":226}',\n        // device_class: \"restart\",\n        // entity_category: \"config\",\n        // icon: \"mdi:flash-triangle\"\n    },\n    topic: \"homeassistant/select/energeniemqtt_\" + msg.payload.deviceId + \"/valve_state_contols/config\"\n};\n\nvar config14 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: false,\n        name: msg.payload.deviceId + \" Low Power Mode\",\n        unique_id: msg.payload.deviceId + \"/low_power_mode\",\n        state_topic: STATE_TOPIC,\n        optimistic: false,\n        command_topic: \"energenie_gateway/energeniemqtt_\" + msg.payload.deviceId + \"/command\",\n        value_template: \"{{value_json.LOW_POWER_MODE}}\",\n        device_class: \"switch\",\n        state_on: \"True\", //payload format to match JSON from sensor\n        state_off: \"False\", //payload format to match JSON from sensor\n        payload_on: '{ \"command\":164, \"data\":1 }',\n        payload_off: '{ \"command\":164, \"data\":0 }',\n        entity_category: \"config\",\n        icon: \"mdi:sprout\"\n    },\n    topic: \"homeassistant/switch/energeniemqtt_\" + msg.payload.deviceId + \"/low_power_mode/config\"\n\n};\n\nvar config15 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Low Power Mode State\",\n        unique_id: msg.payload.deviceId + \"/low_power_mode_state\",\n        state_topic: STATE_TOPIC,\n        value_template: \"{{ value_json.LOW_POWER_MODE }}\",\n        // device_class: \"problem\",\n        // state_class: \"measurement\",\n        icon: \"mdi:sprout\",\n        entity_category: \"diagnostic\",\n        payload_on: \"True\", //payload format to match JSON from sensor\n        payload_off: \"False\", //payload format to match JSON from sensor\n    },\n    topic: \"homeassistant/binary_sensor/energeniemqtt_\" + msg.payload.deviceId + \"/low_power_mode_state/config\"\n};\n\nvar config16 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Errors\",\n        unique_id: msg.payload.deviceId + \"/errors\",\n        state_topic: STATE_TOPIC,\n        value_template: \"{{ value_json.ERRORS }}\",\n        // device_class: \"problem\",\n        // state_class: \"measurement\",\n        // icon: \"mdi:sprout\",\n        entity_category: \"diagnostic\"\n    },\n    topic: \"homeassistant/sensor/energeniemqtt_\" + msg.payload.deviceId + \"/errors/config\"\n};\n\nvar config17 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Error Text\",\n        unique_id: msg.payload.deviceId + \"/error_text\",\n        state_topic: STATE_TOPIC,\n        value_template: \"{{ value_json.ERROR_TEXT }}\",\n        entity_category: \"diagnostic\"\n        // payload_press: '{\"command\":226}',\n        // device_class: \"restart\",\n        // entity_category: \"config\",\n        // icon: \"mdi:flash-triangle\"\n    },\n    topic: \"homeassistant/sensor/energeniemqtt_\" + msg.payload.deviceId + \"/error_text/config\"\n};\n\n\nvar config18 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: false,\n        name: msg.payload.deviceId + \" Reporting Interval\",\n        unique_id: msg.payload.deviceId + \"/reporting_interval\",\n        command_topic: \"energenie_gateway/energeniemqtt_\" + msg.payload.deviceId + \"/command\",\n        // state_topic: STATE_TOPIC, // Valve never returns this value, so you have to work optimistically.\n        min: 300,\n        max: 3600,\n        unit_of_measurement: \"s\",\n        command_template: '{ \"command\":210, \"data\":{{value}}}',\n        // device_class: \"restart\",\n        entity_category: \"config\",\n        icon: \"mdi:timer-edit-outline\"\n    },\n    topic: \"homeassistant/number/energeniemqtt_\" + msg.payload.deviceId + \"/set_reporting_interval/config\"\n};\n\nreturn [config1, config2, config3, config4, config5, config6, config7, config8, config9, config10, config11, config12, config13, config14, config15, config16, config17, config18]; \n\n\n// This one does not work!\n// turns out VALVE_STATE is not returned by the valve, so we have to remember what we last set it too!\n// var config14 = {\n//     payload: {\n//         // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n//         availability: AVAILABILITY,\n//         device: DEVICE,\n//         // expire_after: EXPIRE_AFTER, // never expire\n//         retain: true,\n//         name: msg.payload.deviceId + \" Valve State Info\",\n//         unique_id: msg.payload.deviceId + \"/valve_state_info\",\n//         state_topic: STATE_TOPIC,\n//         value_template: \"{{ value_json.VALVE_STATE }}\",\n//         // unit_of_measurement: \"N/A\",\n//         // device_class: \"none\",\n//         // state_class: \"none\",\n//         entity_category: \"diagnostic\"\n//         // icon: \"mdi:current-dc\"\n//     },\n//     topic: \"homeassistant/sensor/energeniemqtt_\" + msg.payload.deviceId + \"/valve_state_info/config\"\n// };\n\n\n// // Need to get working: https://www.home-assistant.io/integrations/device_trigger.mqtt/\n// var config10 = {\n//     payload: {\n//         // availability_mode: \"all\",\n//         availability: [\n//             {\n//                 topic: \"energenie_gateway/bridge/state\",\n//                 payload_available: \"online\",\n//                 payload_not_available: \"offline\"\n//             }\n//         ],\n//         device: {\n//             name: msg.payload.deviceId,\n//             identifiers: IDENTIFIERS_PREFIX + msg.payload.deviceId,\n//             configuration_url: CONFIGURATION_VAR,\n//             manufacturer: MANUFACTURER_NAME,\n//             model: MODEL_NAME,\n//             via_device: VIA_DEVICE_NAME\n//         },\n// //         // entity_category: \"none\",\n//         // expire_after: EXPIRE_AFTER, // never expire\n//         // retain: false,\n//         // name: msg.payload.deviceId + \" Identify\",\n//         // unique_id: msg.payload.deviceId + \"/identify\",\n//         // state_topic: STATE_TOPIC,\n//         // value_template: \"{{ value_json.EXERCISE_VALVE}}\",\n//         // entity_category: \"config\",\n//         // device_class: \"None\"\n//         // // state_class: \"measurement\",\n//         // // icon: \"mdi:flash\"\n//         automation_type: \n\n\n//     },\n//     topic: \"homeassistant/device_automation/energeniemqtt_\" + msg.payload.deviceId + \"/id_button/config\"\n\n// };",
         "outputs": 18,
         "noerr": 0,
         "initialize": "",
@@ -1335,318 +1070,6 @@
         ]
     },
     {
-        "id": "28824b357224a926",
-        "type": "openThings-monitor",
-        "z": "537eb81ac592d6ae",
-        "g": "bd6bb52ed4b9535c",
-        "name": "",
-        "device": "23f31f81a5be8aed",
-        "board": "88fbf5a17def056c",
-        "x": 1170,
-        "y": 900,
-        "wires": [
-            [
-                "09747f10f9a9bea7",
-                "301bb66f90af5066"
-            ]
-        ],
-        "outputLabels": [
-            "Sensor Data"
-        ]
-    },
-    {
-        "id": "37f62acf217785cd",
-        "type": "openThings-switch",
-        "z": "537eb81ac592d6ae",
-        "g": "bd6bb52ed4b9535c",
-        "name": "",
-        "device": "23f31f81a5be8aed",
-        "board": "88fbf5a17def056c",
-        "retry": true,
-        "x": 1170,
-        "y": 960,
-        "wires": [
-            [
-                "09747f10f9a9bea7",
-                "301bb66f90af5066"
-            ]
-        ]
-    },
-    {
-        "id": "dadbe76ae213adcc",
-        "type": "inject",
-        "z": "537eb81ac592d6ae",
-        "g": "bd6bb52ed4b9535c",
-        "name": "On",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "true",
-        "payloadType": "bool",
-        "x": 950,
-        "y": 900,
-        "wires": [
-            [
-                "37f62acf217785cd"
-            ]
-        ]
-    },
-    {
-        "id": "3c57205d2a77b4a0",
-        "type": "inject",
-        "z": "537eb81ac592d6ae",
-        "g": "bd6bb52ed4b9535c",
-        "name": "Off",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "false",
-        "payloadType": "bool",
-        "x": 950,
-        "y": 940,
-        "wires": [
-            [
-                "37f62acf217785cd"
-            ]
-        ]
-    },
-    {
-        "id": "09747f10f9a9bea7",
-        "type": "debug",
-        "z": "537eb81ac592d6ae",
-        "g": "bd6bb52ed4b9535c",
-        "name": "",
-        "active": false,
-        "tosidebar": true,
-        "console": true,
-        "tostatus": true,
-        "complete": "payload",
-        "targetType": "msg",
-        "statusVal": "payload",
-        "statusType": "auto",
-        "x": 1440,
-        "y": 900,
-        "wires": []
-    },
-    {
-        "id": "38a4b9e675ef9b0f",
-        "type": "debug",
-        "z": "537eb81ac592d6ae",
-        "name": "MQTT IN",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "payload",
-        "targetType": "msg",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 500,
-        "y": 860,
-        "wires": []
-    },
-    {
-        "id": "e428c81cc49ef126",
-        "type": "switch",
-        "z": "537eb81ac592d6ae",
-        "name": "Select energeniemqtt_xxxx Plug",
-        "property": "topic",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "cont",
-                "v": "energeniemqtt_5623",
-                "vt": "str"
-            },
-            {
-                "t": "cont",
-                "v": "energeniemqtt_6187",
-                "vt": "str"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 2,
-        "x": 570,
-        "y": 960,
-        "wires": [
-            [
-                "37f62acf217785cd"
-            ],
-            [
-                "25d4079da5b20a32"
-            ]
-        ]
-    },
-    {
-        "id": "295d1acbb4387108",
-        "type": "openThings-monitor",
-        "z": "537eb81ac592d6ae",
-        "g": "466213e5a7838e65",
-        "name": "",
-        "device": "0f31bc6adcafaa43",
-        "board": "88fbf5a17def056c",
-        "x": 1170,
-        "y": 1100,
-        "wires": [
-            [
-                "dcc750a105f878b9",
-                "d67372c17b6b91ee"
-            ]
-        ],
-        "outputLabels": [
-            "Sensor Data"
-        ]
-    },
-    {
-        "id": "25d4079da5b20a32",
-        "type": "openThings-switch",
-        "z": "537eb81ac592d6ae",
-        "g": "466213e5a7838e65",
-        "name": "",
-        "device": "0f31bc6adcafaa43",
-        "board": "88fbf5a17def056c",
-        "retry": true,
-        "x": 1170,
-        "y": 1160,
-        "wires": [
-            [
-                "dcc750a105f878b9",
-                "d67372c17b6b91ee"
-            ]
-        ]
-    },
-    {
-        "id": "897d41aed130b0e7",
-        "type": "inject",
-        "z": "537eb81ac592d6ae",
-        "g": "466213e5a7838e65",
-        "name": "On",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "true",
-        "payloadType": "bool",
-        "x": 950,
-        "y": 1120,
-        "wires": [
-            [
-                "25d4079da5b20a32"
-            ]
-        ]
-    },
-    {
-        "id": "e9115c9a4480a356",
-        "type": "inject",
-        "z": "537eb81ac592d6ae",
-        "g": "466213e5a7838e65",
-        "name": "Off",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "false",
-        "payloadType": "bool",
-        "x": 950,
-        "y": 1160,
-        "wires": [
-            [
-                "25d4079da5b20a32"
-            ]
-        ]
-    },
-    {
-        "id": "dcc750a105f878b9",
-        "type": "debug",
-        "z": "537eb81ac592d6ae",
-        "g": "466213e5a7838e65",
-        "name": "",
-        "active": false,
-        "tosidebar": true,
-        "console": true,
-        "tostatus": true,
-        "complete": "payload",
-        "targetType": "msg",
-        "statusVal": "payload",
-        "statusType": "auto",
-        "x": 1440,
-        "y": 1100,
-        "wires": []
-    },
-    {
-        "id": "3342db22e8247c46",
-        "type": "debug",
-        "z": "537eb81ac592d6ae",
-        "g": "f8842ccda840ba94",
-        "name": "",
-        "active": false,
-        "tosidebar": true,
-        "console": true,
-        "tostatus": true,
-        "complete": "payload",
-        "targetType": "msg",
-        "statusVal": "payload",
-        "statusType": "auto",
-        "x": 1420,
-        "y": 480,
-        "wires": []
-    },
-    {
-        "id": "7d073ecada5747d4",
-        "type": "subflow:f075697e81a4e38d",
-        "z": "537eb81ac592d6ae",
-        "g": "8fa61f20ae12509e",
-        "name": "",
-        "x": 1820,
-        "y": 780,
-        "wires": [
-            [
-                "048759ea643eacfb"
-            ]
-        ]
-    },
-    {
-        "id": "9965ef4959ba011f",
-        "type": "subflow:833a40a2676dab42",
-        "z": "537eb81ac592d6ae",
-        "g": "0282228cd430609b",
-        "name": "",
-        "x": 1780,
-        "y": 380,
-        "wires": [
-            [
-                "9268589db08f7ec3"
-            ]
-        ]
-    },
-    {
         "id": "7207a0429a928361",
         "type": "comment",
         "z": "537eb81ac592d6ae",
@@ -1654,82 +1077,6 @@
         "info": "",
         "x": 330,
         "y": 20,
-        "wires": []
-    },
-    {
-        "id": "a380876d88962b29",
-        "type": "switch",
-        "z": "537eb81ac592d6ae",
-        "g": "fa73fab3d77d8daa",
-        "name": "Select energeniemqtt_xxxx eTRV ",
-        "property": "topic",
-        "propertyType": "msg",
-        "rules": [
-            {
-                "t": "cont",
-                "v": "energeniemqtt_3233",
-                "vt": "str"
-            },
-            {
-                "t": "cont",
-                "v": "energeniemqtt_5251",
-                "vt": "str"
-            },
-            {
-                "t": "cont",
-                "v": "energeniemqtt_5475",
-                "vt": "str"
-            },
-            {
-                "t": "cont",
-                "v": "energeniemqtt_3449",
-                "vt": "str"
-            },
-            {
-                "t": "cont",
-                "v": "energeniemqtt_5318",
-                "vt": "str"
-            }
-        ],
-        "checkall": "true",
-        "repair": false,
-        "outputs": 5,
-        "x": 540,
-        "y": 1600,
-        "wires": [
-            [
-                "06437078cd06684c"
-            ],
-            [
-                "9f72ca99c409ecf7"
-            ],
-            [
-                "fcfee4cd7f41bc55"
-            ],
-            [
-                "5afbdef9f808b931"
-            ],
-            [
-                "5b273f4574e1e063"
-            ]
-        ]
-    },
-    {
-        "id": "7d792a741cd70d6c",
-        "type": "debug",
-        "z": "537eb81ac592d6ae",
-        "g": "fa73fab3d77d8daa",
-        "name": "MQTT IN",
-        "active": false,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "payload",
-        "targetType": "msg",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 540,
-        "y": 1500,
         "wires": []
     },
     {
@@ -1741,8 +1088,8 @@
         "zone": "1",
         "switchNum": 1,
         "board": "88fbf5a17def056c",
-        "x": 730,
-        "y": 2920,
+        "x": 690,
+        "y": 520,
         "wires": [
             []
         ],
@@ -1766,8 +1113,8 @@
         "topic": "",
         "payload": "true",
         "payloadType": "bool",
-        "x": 430,
-        "y": 2880,
+        "x": 390,
+        "y": 480,
         "wires": [
             [
                 "db52f7a86ff3fedd"
@@ -1792,8 +1139,8 @@
         "topic": "",
         "payload": "false",
         "payloadType": "bool",
-        "x": 430,
-        "y": 2920,
+        "x": 390,
+        "y": 520,
         "wires": [
             [
                 "db52f7a86ff3fedd"
@@ -1809,8 +1156,8 @@
         "zone": "1",
         "switchNum": "2",
         "board": "88fbf5a17def056c",
-        "x": 730,
-        "y": 3000,
+        "x": 690,
+        "y": 600,
         "wires": [
             []
         ],
@@ -1834,8 +1181,8 @@
         "topic": "",
         "payload": "true",
         "payloadType": "bool",
-        "x": 430,
-        "y": 2960,
+        "x": 390,
+        "y": 560,
         "wires": [
             [
                 "c46934dffc3bcb2d"
@@ -1860,8 +1207,8 @@
         "topic": "",
         "payload": "false",
         "payloadType": "bool",
-        "x": 430,
-        "y": 3000,
+        "x": 390,
+        "y": 600,
         "wires": [
             [
                 "c46934dffc3bcb2d"
@@ -1877,8 +1224,8 @@
         "zone": "1",
         "switchNum": 1,
         "board": "88fbf5a17def056c",
-        "x": 680,
-        "y": 3140,
+        "x": 640,
+        "y": 740,
         "wires": [
             []
         ],
@@ -1902,8 +1249,8 @@
         "topic": "",
         "payload": "true",
         "payloadType": "bool",
-        "x": 430,
-        "y": 3100,
+        "x": 390,
+        "y": 700,
         "wires": [
             [
                 "4398775347ed8679"
@@ -1928,8 +1275,8 @@
         "topic": "",
         "payload": "false",
         "payloadType": "bool",
-        "x": 430,
-        "y": 3140,
+        "x": 390,
+        "y": 740,
         "wires": [
             [
                 "4398775347ed8679"
@@ -1948,8 +1295,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1480,
-        "y": 2920,
+        "x": 1440,
+        "y": 520,
         "wires": [
             [],
             [],
@@ -1969,8 +1316,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1430,
-        "y": 3040,
+        "x": 1390,
+        "y": 640,
         "wires": [
             []
         ]
@@ -1987,8 +1334,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1450,
-        "y": 3000,
+        "x": 1410,
+        "y": 600,
         "wires": [
             []
         ]
@@ -2005,8 +1352,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1430,
-        "y": 3080,
+        "x": 1390,
+        "y": 680,
         "wires": [
             []
         ]
@@ -2029,8 +1376,8 @@
         "drop": false,
         "allowrate": false,
         "outputs": 1,
-        "x": 1210,
-        "y": 3000,
+        "x": 1170,
+        "y": 600,
         "wires": [
             [
                 "1f14589732fae5c6",
@@ -2056,8 +1403,8 @@
         "drop": false,
         "allowrate": false,
         "outputs": 1,
-        "x": 1210,
-        "y": 2920,
+        "x": 1170,
+        "y": 520,
         "wires": [
             [
                 "d989ab87daa5443f",
@@ -2083,8 +1430,8 @@
         "drop": false,
         "allowrate": false,
         "outputs": 1,
-        "x": 1210,
-        "y": 3040,
+        "x": 1170,
+        "y": 640,
         "wires": [
             [
                 "e0f4df05ab1bef7e",
@@ -2110,65 +1457,13 @@
         "drop": false,
         "allowrate": false,
         "outputs": 1,
-        "x": 1210,
-        "y": 3080,
+        "x": 1170,
+        "y": 680,
         "wires": [
             [
                 "3b7b181075c1ef3b"
             ]
         ]
-    },
-    {
-        "id": "9268589db08f7ec3",
-        "type": "mqtt out",
-        "z": "537eb81ac592d6ae",
-        "g": "0282228cd430609b",
-        "name": "Publish MQTT Messages",
-        "topic": "",
-        "qos": "2",
-        "retain": "true",
-        "respTopic": "",
-        "contentType": "",
-        "userProps": "",
-        "correl": "",
-        "expiry": "",
-        "broker": "8d7ee635c95c5781",
-        "x": 2050,
-        "y": 380,
-        "wires": []
-    },
-    {
-        "id": "4d961fde847699bb",
-        "type": "comment",
-        "z": "537eb81ac592d6ae",
-        "g": "5112edb8c4151763",
-        "name": "Smart Monitor Plug (MIHO004)",
-        "info": "",
-        "x": 190,
-        "y": 280,
-        "wires": []
-    },
-    {
-        "id": "6766125a6911b82f",
-        "type": "comment",
-        "z": "537eb81ac592d6ae",
-        "g": "ea176ac851386d6e",
-        "name": " Smart Plug+ (MIHO005)",
-        "info": "",
-        "x": 170,
-        "y": 680,
-        "wires": []
-    },
-    {
-        "id": "26a4d478f240fd15",
-        "type": "comment",
-        "z": "537eb81ac592d6ae",
-        "g": "2e76e37671a934e0",
-        "name": "Smart Radiator Valve (MIHO013)",
-        "info": "",
-        "x": 190,
-        "y": 1340,
-        "wires": []
     },
     {
         "id": "edea18ceaf6e05c2",
@@ -2177,646 +1472,8 @@
         "g": "a5de3889fbc07d90",
         "name": "Double Gang MiHome Light (MIHO009)",
         "info": "",
-        "x": 270,
-        "y": 2780,
-        "wires": []
-    },
-    {
-        "id": "f267fd6bda3b9403",
-        "type": "change",
-        "z": "537eb81ac592d6ae",
-        "name": "Reformat: String to Boolen",
-        "rules": [
-            {
-                "t": "change",
-                "p": "payload",
-                "pt": "msg",
-                "from": "false",
-                "fromt": "str",
-                "to": "false",
-                "tot": "bool"
-            },
-            {
-                "t": "change",
-                "p": "payload",
-                "pt": "msg",
-                "from": "true",
-                "fromt": "str",
-                "to": "true",
-                "tot": "bool"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 260,
-        "y": 960,
-        "wires": [
-            [
-                "e428c81cc49ef126"
-            ]
-        ]
-    },
-    {
-        "id": "0e63b171b14873f1",
-        "type": "mqtt out",
-        "z": "537eb81ac592d6ae",
-        "g": "018e61fa1f56ee1e",
-        "name": "Publish MQTT Messages",
-        "topic": "",
-        "qos": "2",
-        "retain": "true",
-        "respTopic": "",
-        "contentType": "",
-        "userProps": "",
-        "correl": "",
-        "expiry": "",
-        "broker": "8d7ee635c95c5781",
-        "x": 2150,
-        "y": 1420,
-        "wires": []
-    },
-    {
-        "id": "048759ea643eacfb",
-        "type": "mqtt out",
-        "z": "537eb81ac592d6ae",
-        "g": "8fa61f20ae12509e",
-        "name": "Publish MQTT Messages",
-        "topic": "",
-        "qos": "2",
-        "retain": "true",
-        "respTopic": "",
-        "contentType": "",
-        "userProps": "",
-        "correl": "",
-        "expiry": "",
-        "broker": "8d7ee635c95c5781",
-        "x": 2110,
-        "y": 780,
-        "wires": []
-    },
-    {
-        "id": "4b2487e2e7cfa0a2",
-        "type": "comment",
-        "z": "537eb81ac592d6ae",
-        "g": "2e76e37671a934e0",
-        "name": "Note: There is a 5 min delay before the TRV will get the message ",
-        "info": "",
-        "x": 590,
-        "y": 1340,
-        "wires": []
-    },
-    {
-        "id": "43b3bf1c0f3c6a18",
-        "type": "mqtt in",
-        "z": "537eb81ac592d6ae",
-        "g": "fa73fab3d77d8daa",
-        "name": "",
-        "topic": "energenie_gateway/+/command",
-        "qos": "2",
-        "datatype": "auto-detect",
-        "broker": "8d7ee635c95c5781",
-        "nl": false,
-        "rap": true,
-        "rh": 0,
-        "inputs": 0,
         "x": 230,
-        "y": 1500,
-        "wires": [
-            [
-                "7d792a741cd70d6c",
-                "c533a8bb7273e019"
-            ]
-        ]
-    },
-    {
-        "id": "09303e100d6c84bb",
-        "type": "inject",
-        "z": "537eb81ac592d6ae",
-        "g": "045aef6db868e9d5",
-        "name": "Demo Data 3294",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "{\"deviceId\":3934,\"mfrId\":4,\"productId\":3,\"timestamp\":1659455555,\"TEMPERATURE\":30,\"TARGET_C\":10,\"VOLTAGE\":2,\"VOLTAGE_TS\":1659455166,\"DIAGNOSTICS\":0,\"DIAGNOSTICS_TS\":1659453625,\"LOW_POWER_MODE\":false}",
-        "payloadType": "json",
-        "x": 1800,
-        "y": 2280,
-        "wires": [
-            [
-                "18636c74da0dfe6e"
-            ]
-        ]
-    },
-    {
-        "id": "18636c74da0dfe6e",
-        "type": "subflow:cdb62d5ce7ac8e79",
-        "z": "537eb81ac592d6ae",
-        "g": "018e61fa1f56ee1e",
-        "name": "",
-        "x": 1730,
-        "y": 1420,
-        "wires": [
-            [
-                "7d800d7548111c58"
-            ]
-        ]
-    },
-    {
-        "id": "f155d23535a2e226",
-        "type": "debug",
-        "z": "537eb81ac592d6ae",
-        "g": "0dc7ef642e108ea2",
-        "name": "1",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "payload",
-        "targetType": "msg",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1270,
-        "y": 1540,
-        "wires": []
-    },
-    {
-        "id": "29a81328d008fb5e",
-        "type": "inject",
-        "z": "537eb81ac592d6ae",
-        "g": "045aef6db868e9d5",
-        "name": "Set Temp {\"command\":244,\"data\":29}",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "{\"command\":244,\"data\":29}",
-        "payloadType": "json",
-        "x": 1870,
-        "y": 2060,
-        "wires": [
-            [
-                "f4c005a8c68ef5b1"
-            ]
-        ]
-    },
-    {
-        "id": "11343262e93d1cf7",
-        "type": "inject",
-        "z": "537eb81ac592d6ae",
-        "g": "045aef6db868e9d5",
-        "name": "REQUEST_DIAGNOTICS",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "{\"command\":166}",
-        "payloadType": "json",
-        "x": 1830,
-        "y": 1680,
-        "wires": [
-            [
-                "f4c005a8c68ef5b1"
-            ]
-        ]
-    },
-    {
-        "id": "01a73f4f44b838f8",
-        "type": "inject",
-        "z": "537eb81ac592d6ae",
-        "g": "045aef6db868e9d5",
-        "name": "EXERCISE_VALVE",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "{\"command\":163}",
-        "payloadType": "json",
-        "x": 1810,
-        "y": 1780,
-        "wires": [
-            [
-                "f4c005a8c68ef5b1"
-            ]
-        ]
-    },
-    {
-        "id": "c4e7618d0c8de6d4",
-        "type": "inject",
-        "z": "537eb81ac592d6ae",
-        "g": "045aef6db868e9d5",
-        "name": "SET_VALVE_STATE Open",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "{\"command\":165,\"data\":0}",
-        "payloadType": "json",
-        "x": 1830,
-        "y": 1840,
-        "wires": [
-            [
-                "f4c005a8c68ef5b1"
-            ]
-        ]
-    },
-    {
-        "id": "9aa0bd5c8e0df7d8",
-        "type": "inject",
-        "z": "537eb81ac592d6ae",
-        "g": "045aef6db868e9d5",
-        "name": "SET_VALVE_STATE Closed",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "{\"command\":165,\"data\":1}",
-        "payloadType": "json",
-        "x": 1840,
-        "y": 1880,
-        "wires": [
-            [
-                "f4c005a8c68ef5b1"
-            ]
-        ]
-    },
-    {
-        "id": "bbd9c96a9241fa71",
-        "type": "inject",
-        "z": "537eb81ac592d6ae",
-        "g": "045aef6db868e9d5",
-        "name": "SET_VALVE_STATE Auto (default)",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "{\"command\":165,\"data\":2}",
-        "payloadType": "json",
-        "x": 1860,
-        "y": 1920,
-        "wires": [
-            [
-                "f4c005a8c68ef5b1"
-            ]
-        ]
-    },
-    {
-        "id": "c44615c857eeef7d",
-        "type": "inject",
-        "z": "537eb81ac592d6ae",
-        "g": "045aef6db868e9d5",
-        "name": "IDENTIFY",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "{\"command\":191}",
-        "payloadType": "json",
-        "x": 1780,
-        "y": 1640,
-        "wires": [
-            [
-                "f4c005a8c68ef5b1"
-            ]
-        ]
-    },
-    {
-        "id": "f10e0c7ad4c4a76e",
-        "type": "inject",
-        "z": "537eb81ac592d6ae",
-        "g": "045aef6db868e9d5",
-        "name": "SET_REPORTING_INTERVAL 300-3600 seconds (default 300)",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "{\"command\":210,\"data\":300}",
-        "payloadType": "json",
-        "x": 1950,
-        "y": 2000,
-        "wires": [
-            [
-                "f4c005a8c68ef5b1"
-            ]
-        ]
-    },
-    {
-        "id": "4d3ec33dddf3365a",
-        "type": "inject",
-        "z": "537eb81ac592d6ae",
-        "g": "045aef6db868e9d5",
-        "name": "REQUEST_VOLTAGE",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "{\"command\":226}",
-        "payloadType": "json",
-        "x": 1820,
-        "y": 1720,
-        "wires": [
-            [
-                "f4c005a8c68ef5b1"
-            ]
-        ]
-    },
-    {
-        "id": "c0ea2d7fca78a8d4",
-        "type": "inject",
-        "z": "537eb81ac592d6ae",
-        "g": "045aef6db868e9d5",
-        "name": "SET_LOW_POWER_MODE On",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "{\"command\":164,\"data\":1}",
-        "payloadType": "json",
-        "x": 1850,
-        "y": 2180,
-        "wires": [
-            [
-                "f4c005a8c68ef5b1"
-            ]
-        ]
-    },
-    {
-        "id": "180ee6c43e1db209",
-        "type": "inject",
-        "z": "537eb81ac592d6ae",
-        "g": "045aef6db868e9d5",
-        "name": "SET_LOW_POWER_MODE Off (default)",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "{\"command\":164,\"data\":0}",
-        "payloadType": "json",
-        "x": 1880,
-        "y": 2220,
-        "wires": [
-            [
-                "f4c005a8c68ef5b1"
-            ]
-        ]
-    },
-    {
-        "id": "743f673c2f069661",
-        "type": "comment",
-        "z": "537eb81ac592d6ae",
-        "g": "0dc7ef642e108ea2",
-        "name": "3233",
-        "info": "",
-        "x": 970,
-        "y": 1500,
-        "wires": []
-    },
-    {
-        "id": "af2647e2212948a2",
-        "type": "debug",
-        "z": "537eb81ac592d6ae",
-        "g": "4c7c516e623f61fe",
-        "name": "2",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "payload",
-        "targetType": "msg",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1270,
-        "y": 1980,
-        "wires": []
-    },
-    {
-        "id": "d12d0a2c61623d10",
-        "type": "comment",
-        "z": "537eb81ac592d6ae",
-        "g": "4c7c516e623f61fe",
-        "name": "5251",
-        "info": "",
-        "x": 970,
-        "y": 1940,
-        "wires": []
-    },
-    {
-        "id": "304a47a02d63c225",
-        "type": "inject",
-        "z": "537eb81ac592d6ae",
-        "g": "4c7c516e623f61fe",
-        "name": "Demo Data",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "{\"deviceId\":5251,\"mfrId\":4,\"productId\":3,\"timestamp\":1673047147,\"TEMPERATURE\":21.3,\"command\":166,\"retries\":9,\"TARGET_C\":24,\"VOLTAGE\":2.64,\"VOLTAGE_TS\":1673035499,\"EXERCISE_VALVE\":\"success\",\"VALVE_TS\":1673031994,\"DIAGNOSTICS\":0,\"DIAGNOSTICS_TS\":1673045930,\"LOW_POWER_MODE\":false}",
-        "payloadType": "json",
-        "x": 1010,
-        "y": 2040,
-        "wires": [
-            [
-                "45f505abf6949496"
-            ]
-        ]
-    },
-    {
-        "id": "5bd487d809b900e4",
-        "type": "inject",
-        "z": "537eb81ac592d6ae",
-        "g": "0dc7ef642e108ea2",
-        "name": "Demo Data",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "{\"deviceId\":3233,\"mfrId\":4,\"productId\":3,\"timestamp\":1673047147,\"TEMPERATURE\":21.3,\"command\":166,\"retries\":9,\"TARGET_C\":24,\"VOLTAGE\":2.64,\"VOLTAGE_TS\":1673035499,\"EXERCISE_VALVE\":\"success\",\"VALVE_TS\":1673031994,\"DIAGNOSTICS\":0,\"DIAGNOSTICS_TS\":1673045930,\"LOW_POWER_MODE\":false}",
-        "payloadType": "json",
-        "x": 1010,
-        "y": 1600,
-        "wires": [
-            [
-                "f97e4fd104d66acc"
-            ]
-        ]
-    },
-    {
-        "id": "f29f7f8628a8fa6e",
-        "type": "comment",
-        "z": "537eb81ac592d6ae",
-        "g": "045aef6db868e9d5",
-        "name": "",
-        "info": "Temp chnage data\n{\"deviceId\":3233,\"mfrId\":4,\"productId\":3,\"timestamp\":1673036408,\"TEMPERATURE\":21.4,\"command\":244,\"retries\":9,\"TARGET_C\":25,\"VOLTAGE\":2.64,\"VOLTAGE_TS\":1673035499,\"EXERCISE_VALVE\":\"success\",\"VALVE_TS\":1673031994,\"DIAGNOSTICS\":512,\"DIAGNOSTICS_TS\":1673031994,\"LOW_POWER_MODE\":false}\n\n\nroutine data\n{\"deviceId\":5251,\"mfrId\":4,\"productId\":3,\"timestamp\":1673036122,\"TEMPERATURE\":22.8,\"command\":191,\"retries\":6,\"TARGET_C\":29,\"VOLTAGE\":2.83,\"VOLTAGE_TS\":1672965826}",
-        "x": 2140,
-        "y": 2180,
-        "wires": []
-    },
-    {
-        "id": "c533a8bb7273e019",
-        "type": "change",
-        "z": "537eb81ac592d6ae",
-        "g": "fa73fab3d77d8daa",
-        "name": "Reformat Valve State Control",
-        "rules": [
-            {
-                "t": "change",
-                "p": "payload",
-                "pt": "msg",
-                "from": "Open",
-                "fromt": "str",
-                "to": "{ \"command\":165, \"data\":0 }",
-                "tot": "json"
-            },
-            {
-                "t": "change",
-                "p": "payload",
-                "pt": "msg",
-                "from": "Closed",
-                "fromt": "str",
-                "to": "{ \"command\":165, \"data\":1 }",
-                "tot": "json"
-            },
-            {
-                "t": "change",
-                "p": "payload",
-                "pt": "msg",
-                "from": "Automatic",
-                "fromt": "str",
-                "to": "{ \"command\":165, \"data\":2 }",
-                "tot": "json"
-            }
-        ],
-        "action": "",
-        "property": "",
-        "from": "",
-        "to": "",
-        "reg": false,
-        "x": 240,
-        "y": 1600,
-        "wires": [
-            [
-                "a380876d88962b29"
-            ]
-        ]
-    },
-    {
-        "id": "c9e8d0cc68ce9bf2",
-        "type": "comment",
-        "z": "537eb81ac592d6ae",
-        "g": "045aef6db868e9d5",
-        "name": "error messages",
-        "info": "https://github.com/Achronite/node-red-contrib-energenie-ener314rt/blob/eb31e1ebfa30ae120de5ebe6d3e8b93f8ae775ab/C/achronite/openThings.c\n\n           case 0x74: // TEMPERATURE\n                        // Seems that TEMPERATURE (0x74) received as type OTR_INT=1, and it should be OTR_FLOAT=2 from the eTRV, so override and return a float instead\n                        sprintf(OTrecord, \",\\\"%s\\\":%.1f\", OTrecs[i].paramName, OTrecs[i].retFloat);\n                        break;\n                    case 0x26: // eTRV DIAGNOSTICS, sent as binary\n                        // adapted from gpbenton MQTT code\n                        if (OTrecs[i].retInt != 0){\n                            // at least 1 flag is set\n                            if (OTrecs[i].retInt & 0x0001) sprintf(OTrecord,\",\\\"Message\\\":\\\"Motor current below expectation\\\"\");\n                            if (OTrecs[i].retInt & 0x0002) sprintf(OTrecord,\",\\\"Message\\\":\\\"Motor current always high\");\n                            if (OTrecs[i].retInt & 0x0004) sprintf(OTrecord,\",\\\"Message\\\":\\\"Motor taking too long\");\n                            if (OTrecs[i].retInt & 0x0008) sprintf(OTrecord,\",\\\"Message\\\":\\\"Discrepancy between air and pipe sensors\");\n                            if (OTrecs[i].retInt & 0x0010) sprintf(OTrecord,\",\\\"Message\\\":\\\"Air sensor out of expected range\");\n                            if (OTrecs[i].retInt & 0x0020) sprintf(OTrecord,\",\\\"Message\\\":\\\"Pipe sensor out of expected range\");\n                            if (OTrecs[i].retInt & 0x0040) sprintf(OTrecord,\",\\\"Message\\\":\\\"Low power mode is enabled\");\n                            if (OTrecs[i].retInt & 0x0080) sprintf(OTrecord,\",\\\"Message\\\":\\\"No target temperature has been set by host\");\n                            if (OTrecs[i].retInt & 0x0100) sprintf(OTrecord,\",\\\"Message\\\":\\\"Valve may be sticking\");\n                            if (OTrecs[i].retInt & 0x0200) sprintf(OTrecord,\",\\\"Message\\\":\\\"Valve exercise was successful\");\n                            if (OTrecs[i].retInt & 0x0400) sprintf(OTrecord,\",\\\"Message\\\":\\\"Valve exercise was unsuccessful\");\n                            if (OTrecs[i].retInt & 0x0800) sprintf(OTrecord,\",\\\"Message\\\":\\\"Driver micro has suffered a watchdog reset and needs data refresh\");\n                            if (OTrecs[i].retInt & 0x1000) sprintf(OTrecord,\",\\\"Message\\\":\\\"Driver micro has suffered a noise reset and needs data refresh\");\n                            if (OTrecs[i].retInt & 0x2000) sprintf(OTrecord,\",\\\"Message\\\":\\\"Battery voltage has fallen below 2p2V and valve has been opened\");\n                            if (OTrecs[i].retInt & 0x4000) sprintf(OTrecord,\",\\\"Message\\\":\\\"Request for heat messaging is enabled\");\n                            if (OTrecs[i].retInt & 0x8000) sprintf(OTrecord,\",\\\"Message\\\":\\\"Request for heat\");",
-        "x": 2120,
-        "y": 2220,
-        "wires": []
-    },
-    {
-        "id": "1e380b75b8d61790",
-        "type": "comment",
-        "z": "537eb81ac592d6ae",
-        "g": "bd6bb52ed4b9535c",
-        "name": "5623",
-        "info": "",
-        "x": 1130,
-        "y": 860,
-        "wires": []
-    },
-    {
-        "id": "f4fedc380d1a6661",
-        "type": "comment",
-        "z": "537eb81ac592d6ae",
-        "g": "466213e5a7838e65",
-        "name": "6187",
-        "info": "",
-        "x": 1130,
-        "y": 1060,
+        "y": 380,
         "wires": []
     },
     {
@@ -2903,30 +1560,1302 @@
         "wires": []
     },
     {
-        "id": "3d449a6477c1b641",
+        "id": "89732ff349aee7b8",
         "type": "comment",
         "z": "537eb81ac592d6ae",
-        "g": "f8842ccda840ba94",
-        "name": "1215",
-        "info": "Comment only for visual help",
-        "x": 1110,
-        "y": 440,
+        "g": "a5de3889fbc07d90",
+        "name": "Incomplete",
+        "info": "",
+        "x": 520,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "77ed5f63338f8d1a",
+        "type": "comment",
+        "z": "061b272d346ebd03",
+        "name": "3463",
+        "info": "",
+        "x": 1410,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "4345c0284d70f3de",
+        "type": "openThings-trv",
+        "z": "061b272d346ebd03",
+        "name": "eTRV",
+        "device": "b6bd7189b0279cc5",
+        "board": "88fbf5a17def056c",
+        "x": 1250,
+        "y": 540,
+        "wires": [
+            [
+                "c6b093a86c04ba16"
+            ]
+        ]
+    },
+    {
+        "id": "63d96b05917c4891",
+        "type": "comment",
+        "z": "061b272d346ebd03",
+        "name": "5993",
+        "info": "",
+        "x": 1410,
+        "y": 600,
+        "wires": []
+    },
+    {
+        "id": "e80248c229e928c9",
+        "type": "openThings-trv",
+        "z": "061b272d346ebd03",
+        "name": "eTRV",
+        "device": "c73827dd95a46815",
+        "board": "88fbf5a17def056c",
+        "x": 1250,
+        "y": 600,
+        "wires": [
+            [
+                "f514c3862752c9b4"
+            ]
+        ]
+    },
+    {
+        "id": "32ae8339baac927f",
+        "type": "comment",
+        "z": "061b272d346ebd03",
+        "name": "2989",
+        "info": "",
+        "x": 1410,
+        "y": 660,
+        "wires": []
+    },
+    {
+        "id": "b9e1db538b2c23f4",
+        "type": "openThings-trv",
+        "z": "061b272d346ebd03",
+        "name": "eTRV",
+        "device": "03f8fe03bec6f55a",
+        "board": "88fbf5a17def056c",
+        "x": 1250,
+        "y": 660,
+        "wires": [
+            [
+                "e9a3b8357c9c38d9"
+            ]
+        ]
+    },
+    {
+        "id": "6ea369c24c18ccd3",
+        "type": "comment",
+        "z": "061b272d346ebd03",
+        "name": "4329",
+        "info": "",
+        "x": 1410,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "8fc60a30c88c0ef9",
+        "type": "openThings-trv",
+        "z": "061b272d346ebd03",
+        "name": "eTRV",
+        "device": "e09f66fe193571c6",
+        "board": "88fbf5a17def056c",
+        "x": 1250,
+        "y": 720,
+        "wires": [
+            [
+                "ea365cc86077b7a5"
+            ]
+        ]
+    },
+    {
+        "id": "fa39242094324119",
+        "type": "comment",
+        "z": "061b272d346ebd03",
+        "name": "4324",
+        "info": "",
+        "x": 1410,
+        "y": 840,
+        "wires": []
+    },
+    {
+        "id": "621f444a414daabc",
+        "type": "openThings-trv",
+        "z": "061b272d346ebd03",
+        "name": "eTRV",
+        "device": "cd48f129e1e4d8e7",
+        "board": "88fbf5a17def056c",
+        "x": 1250,
+        "y": 840,
+        "wires": [
+            [
+                "43e6d8381ecb9331"
+            ]
+        ]
+    },
+    {
+        "id": "151906f30c58b319",
+        "type": "comment",
+        "z": "061b272d346ebd03",
+        "name": "4335",
+        "info": "",
+        "x": 1410,
+        "y": 900,
+        "wires": []
+    },
+    {
+        "id": "26d013a8d14dc131",
+        "type": "openThings-trv",
+        "z": "061b272d346ebd03",
+        "name": "eTRV",
+        "device": "da83621dd79ae388",
+        "board": "88fbf5a17def056c",
+        "x": 1250,
+        "y": 900,
+        "wires": [
+            [
+                "5cf2f55df6742476"
+            ]
+        ]
+    },
+    {
+        "id": "26a4d478f240fd15",
+        "type": "comment",
+        "z": "061b272d346ebd03",
+        "name": "Smart Radiator Valve (MIHO013)",
+        "info": "",
+        "x": 130,
+        "y": 20,
+        "wires": []
+    },
+    {
+        "id": "4b2487e2e7cfa0a2",
+        "type": "comment",
+        "z": "061b272d346ebd03",
+        "name": "Note: There is a 5 min delay before the TRV will get the message ",
+        "info": "",
+        "x": 510,
+        "y": 20,
+        "wires": []
+    },
+    {
+        "id": "99f6dd3e81add433",
+        "type": "comment",
+        "z": "061b272d346ebd03",
+        "name": "USER EDIT: Device IDs for eTRVs",
+        "info": "",
+        "x": 1340,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "cf0cef5a7e10d03b",
+        "type": "comment",
+        "z": "061b272d346ebd03",
+        "name": "3449",
+        "info": "",
+        "x": 1410,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "5afbdef9f808b931",
+        "type": "openThings-trv",
+        "z": "061b272d346ebd03",
+        "name": "eTRV",
+        "device": "a438a26cd10184b3",
+        "board": "88fbf5a17def056c",
+        "x": 1250,
+        "y": 420,
+        "wires": [
+            [
+                "ae3247f6c34b39e8"
+            ]
+        ]
+    },
+    {
+        "id": "a380876d88962b29",
+        "type": "switch",
+        "z": "061b272d346ebd03",
+        "g": "fa73fab3d77d8daa",
+        "name": "Select energeniemqtt_xxxx eTRV ",
+        "property": "topic",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "cont",
+                "v": "energeniemqtt_3233",
+                "vt": "str"
+            },
+            {
+                "t": "cont",
+                "v": "energeniemqtt_5251",
+                "vt": "str"
+            },
+            {
+                "t": "cont",
+                "v": "energeniemqtt_5475",
+                "vt": "str"
+            },
+            {
+                "t": "cont",
+                "v": "energeniemqtt_3449",
+                "vt": "str"
+            },
+            {
+                "t": "cont",
+                "v": "energeniemqtt_5318",
+                "vt": "str"
+            },
+            {
+                "t": "cont",
+                "v": "energeniemqtt_3463",
+                "vt": "str"
+            },
+            {
+                "t": "cont",
+                "v": "energeniemqtt_5993",
+                "vt": "str"
+            },
+            {
+                "t": "cont",
+                "v": "energeniemqtt_2989",
+                "vt": "str"
+            },
+            {
+                "t": "cont",
+                "v": "energeniemqtt_4329",
+                "vt": "str"
+            },
+            {
+                "t": "cont",
+                "v": "energeniemqtt_4168",
+                "vt": "str"
+            },
+            {
+                "t": "cont",
+                "v": "energeniemqtt_4324",
+                "vt": "str"
+            },
+            {
+                "t": "cont",
+                "v": "energeniemqtt_4335",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 12,
+        "x": 520,
+        "y": 340,
+        "wires": [
+            [
+                "06437078cd06684c"
+            ],
+            [
+                "9f72ca99c409ecf7"
+            ],
+            [
+                "fcfee4cd7f41bc55"
+            ],
+            [
+                "5afbdef9f808b931"
+            ],
+            [
+                "5b273f4574e1e063"
+            ],
+            [
+                "4345c0284d70f3de"
+            ],
+            [
+                "e80248c229e928c9"
+            ],
+            [
+                "b9e1db538b2c23f4"
+            ],
+            [
+                "8fc60a30c88c0ef9"
+            ],
+            [
+                "e37676b8b5aea3b9"
+            ],
+            [
+                "621f444a414daabc"
+            ],
+            [
+                "26d013a8d14dc131"
+            ]
+        ]
+    },
+    {
+        "id": "7d792a741cd70d6c",
+        "type": "debug",
+        "z": "061b272d346ebd03",
+        "g": "fa73fab3d77d8daa",
+        "name": "MQTT IN",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 440,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "43b3bf1c0f3c6a18",
+        "type": "mqtt in",
+        "z": "061b272d346ebd03",
+        "g": "fa73fab3d77d8daa",
+        "name": "",
+        "topic": "energenie_gateway/+/command",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "8d7ee635c95c5781",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 170,
+        "y": 180,
+        "wires": [
+            [
+                "7d792a741cd70d6c",
+                "c533a8bb7273e019"
+            ]
+        ]
+    },
+    {
+        "id": "c533a8bb7273e019",
+        "type": "change",
+        "z": "061b272d346ebd03",
+        "g": "fa73fab3d77d8daa",
+        "name": "Reformat Valve State Control",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "Open",
+                "fromt": "str",
+                "to": "{ \"command\":165, \"data\":0 }",
+                "tot": "json"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "Closed",
+                "fromt": "str",
+                "to": "{ \"command\":165, \"data\":1 }",
+                "tot": "json"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "Automatic",
+                "fromt": "str",
+                "to": "{ \"command\":165, \"data\":2 }",
+                "tot": "json"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 220,
+        "y": 340,
+        "wires": [
+            [
+                "a380876d88962b29"
+            ]
+        ]
+    },
+    {
+        "id": "39e666ee8d7e9ca7",
+        "type": "comment",
+        "z": "061b272d346ebd03",
+        "g": "fa73fab3d77d8daa",
+        "name": "Incoming MQTT \"COMMAND\" messages",
+        "info": "",
+        "x": 200,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "cc454d1be9e24b72",
+        "type": "comment",
+        "z": "061b272d346ebd03",
+        "g": "fa73fab3d77d8daa",
+        "name": "Switch select eTRV",
+        "info": "",
+        "x": 470,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "7f6f8e312914436c",
+        "type": "comment",
+        "z": "061b272d346ebd03",
+        "g": "fa73fab3d77d8daa",
+        "name": "USER EDIT: MQTT gateway",
+        "info": "",
+        "x": 160,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "16340f7714e67b65",
+        "type": "comment",
+        "z": "061b272d346ebd03",
+        "g": "fa73fab3d77d8daa",
+        "name": "USER EDIT: Edit switch node and add new as needed",
+        "info": "",
+        "x": 500,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "0e63b171b14873f1",
+        "type": "mqtt out",
+        "z": "061b272d346ebd03",
+        "g": "e72e588ff1c8ae83",
+        "name": "Publish MQTT Messages",
+        "topic": "",
+        "qos": "2",
+        "retain": "true",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "8d7ee635c95c5781",
+        "x": 2210,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "18636c74da0dfe6e",
+        "type": "subflow:cdb62d5ce7ac8e79",
+        "z": "061b272d346ebd03",
+        "g": "e72e588ff1c8ae83",
+        "name": "",
+        "x": 1910,
+        "y": 160,
+        "wires": [
+            [
+                "0e63b171b14873f1"
+            ]
+        ]
+    },
+    {
+        "id": "241e684d32ce5b64",
+        "type": "comment",
+        "z": "061b272d346ebd03",
+        "g": "e72e588ff1c8ae83",
+        "name": "USER EDIT: Rasberry Pi IP in Sub-Flow",
+        "info": "",
+        "x": 1950,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "f155d23535a2e226",
+        "type": "debug",
+        "z": "061b272d346ebd03",
+        "g": "e72e588ff1c8ae83",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1870,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "743f673c2f069661",
+        "type": "comment",
+        "z": "061b272d346ebd03",
+        "name": "3233",
+        "info": "",
+        "x": 1410,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "06437078cd06684c",
+        "type": "openThings-trv",
+        "z": "061b272d346ebd03",
+        "name": "eTRV",
+        "device": "71e70e5d03cfbecf",
+        "board": "88fbf5a17def056c",
+        "x": 1250,
+        "y": 240,
+        "wires": [
+            [
+                "ac290362f0b3ae94"
+            ]
+        ]
+    },
+    {
+        "id": "d12d0a2c61623d10",
+        "type": "comment",
+        "z": "061b272d346ebd03",
+        "name": "5251",
+        "info": "",
+        "x": 1410,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "9f72ca99c409ecf7",
+        "type": "openThings-trv",
+        "z": "061b272d346ebd03",
+        "name": "eTRV",
+        "device": "4d9cd9aa20ea4eeb",
+        "board": "88fbf5a17def056c",
+        "x": 1250,
+        "y": 300,
+        "wires": [
+            [
+                "5a7c28adf647c227"
+            ]
+        ]
+    },
+    {
+        "id": "4d842b8a2d4605ef",
+        "type": "comment",
+        "z": "061b272d346ebd03",
+        "name": "5318",
+        "info": "",
+        "x": 1410,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "5b273f4574e1e063",
+        "type": "openThings-trv",
+        "z": "061b272d346ebd03",
+        "name": "eTRV",
+        "device": "cc25050701e608f8",
+        "board": "88fbf5a17def056c",
+        "x": 1250,
+        "y": 480,
+        "wires": [
+            [
+                "962037e38eb37e96"
+            ]
+        ]
+    },
+    {
+        "id": "50613d7a774d7f3e",
+        "type": "comment",
+        "z": "061b272d346ebd03",
+        "name": "5475",
+        "info": "",
+        "x": 1410,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "fcfee4cd7f41bc55",
+        "type": "openThings-trv",
+        "z": "061b272d346ebd03",
+        "name": "eTRV",
+        "device": "b14fe5948412f3b5",
+        "board": "88fbf5a17def056c",
+        "x": 1250,
+        "y": 360,
+        "wires": [
+            [
+                "e2c1e92ee0a39936"
+            ]
+        ]
+    },
+    {
+        "id": "c72f3bd381142b95",
+        "type": "inject",
+        "z": "061b272d346ebd03",
+        "name": "EXERCISE_VALVE",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "{\"command\":163}",
+        "payloadType": "json",
+        "x": 890,
+        "y": 1000,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "29a81328d008fb5e",
+        "type": "inject",
+        "z": "061b272d346ebd03",
+        "g": "045aef6db868e9d5",
+        "name": "Set Temp {\"command\":244,\"data\":29}",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "{\"command\":244,\"data\":29}",
+        "payloadType": "json",
+        "x": 370,
+        "y": 1020,
+        "wires": [
+            [
+                "f4c005a8c68ef5b1"
+            ]
+        ]
+    },
+    {
+        "id": "11343262e93d1cf7",
+        "type": "inject",
+        "z": "061b272d346ebd03",
+        "g": "045aef6db868e9d5",
+        "name": "REQUEST_DIAGNOTICS",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "{\"command\":166}",
+        "payloadType": "json",
+        "x": 330,
+        "y": 640,
+        "wires": [
+            [
+                "f4c005a8c68ef5b1"
+            ]
+        ]
+    },
+    {
+        "id": "01a73f4f44b838f8",
+        "type": "inject",
+        "z": "061b272d346ebd03",
+        "g": "045aef6db868e9d5",
+        "name": "EXERCISE_VALVE",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "{\"command\":163}",
+        "payloadType": "json",
+        "x": 310,
+        "y": 740,
+        "wires": [
+            [
+                "f4c005a8c68ef5b1"
+            ]
+        ]
+    },
+    {
+        "id": "c4e7618d0c8de6d4",
+        "type": "inject",
+        "z": "061b272d346ebd03",
+        "g": "045aef6db868e9d5",
+        "name": "SET_VALVE_STATE Open",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "{\"command\":165,\"data\":0}",
+        "payloadType": "json",
+        "x": 330,
+        "y": 800,
+        "wires": [
+            [
+                "f4c005a8c68ef5b1"
+            ]
+        ]
+    },
+    {
+        "id": "9aa0bd5c8e0df7d8",
+        "type": "inject",
+        "z": "061b272d346ebd03",
+        "g": "045aef6db868e9d5",
+        "name": "SET_VALVE_STATE Closed",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "{\"command\":165,\"data\":1}",
+        "payloadType": "json",
+        "x": 340,
+        "y": 840,
+        "wires": [
+            [
+                "f4c005a8c68ef5b1"
+            ]
+        ]
+    },
+    {
+        "id": "bbd9c96a9241fa71",
+        "type": "inject",
+        "z": "061b272d346ebd03",
+        "g": "045aef6db868e9d5",
+        "name": "SET_VALVE_STATE Auto (default)",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "{\"command\":165,\"data\":2}",
+        "payloadType": "json",
+        "x": 360,
+        "y": 880,
+        "wires": [
+            [
+                "f4c005a8c68ef5b1"
+            ]
+        ]
+    },
+    {
+        "id": "c44615c857eeef7d",
+        "type": "inject",
+        "z": "061b272d346ebd03",
+        "g": "045aef6db868e9d5",
+        "name": "IDENTIFY",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "{\"command\":191}",
+        "payloadType": "json",
+        "x": 280,
+        "y": 600,
+        "wires": [
+            [
+                "f4c005a8c68ef5b1"
+            ]
+        ]
+    },
+    {
+        "id": "f10e0c7ad4c4a76e",
+        "type": "inject",
+        "z": "061b272d346ebd03",
+        "g": "045aef6db868e9d5",
+        "name": "SET_REPORTING_INTERVAL 300-3600 seconds (default 300)",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "{\"command\":210,\"data\":300}",
+        "payloadType": "json",
+        "x": 450,
+        "y": 960,
+        "wires": [
+            [
+                "f4c005a8c68ef5b1"
+            ]
+        ]
+    },
+    {
+        "id": "4d3ec33dddf3365a",
+        "type": "inject",
+        "z": "061b272d346ebd03",
+        "g": "045aef6db868e9d5",
+        "name": "REQUEST_VOLTAGE",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "{\"command\":226}",
+        "payloadType": "json",
+        "x": 320,
+        "y": 680,
+        "wires": [
+            [
+                "f4c005a8c68ef5b1"
+            ]
+        ]
+    },
+    {
+        "id": "c0ea2d7fca78a8d4",
+        "type": "inject",
+        "z": "061b272d346ebd03",
+        "g": "045aef6db868e9d5",
+        "name": "SET_LOW_POWER_MODE On",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "{\"command\":164,\"data\":1}",
+        "payloadType": "json",
+        "x": 350,
+        "y": 1140,
+        "wires": [
+            [
+                "f4c005a8c68ef5b1"
+            ]
+        ]
+    },
+    {
+        "id": "180ee6c43e1db209",
+        "type": "inject",
+        "z": "061b272d346ebd03",
+        "g": "045aef6db868e9d5",
+        "name": "SET_LOW_POWER_MODE Off (default)",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "{\"command\":164,\"data\":0}",
+        "payloadType": "json",
+        "x": 380,
+        "y": 1180,
+        "wires": [
+            [
+                "f4c005a8c68ef5b1"
+            ]
+        ]
+    },
+    {
+        "id": "943e1064f510b2a4",
+        "type": "comment",
+        "z": "061b272d346ebd03",
+        "g": "045aef6db868e9d5",
+        "name": "Debug eTRV commands",
+        "info": "",
+        "x": 310,
+        "y": 560,
+        "wires": []
+    },
+    {
+        "id": "f29f7f8628a8fa6e",
+        "type": "comment",
+        "z": "061b272d346ebd03",
+        "g": "045aef6db868e9d5",
+        "name": "",
+        "info": "Temp chnage data\n{\"deviceId\":3233,\"mfrId\":4,\"productId\":3,\"timestamp\":1673036408,\"TEMPERATURE\":21.4,\"command\":244,\"retries\":9,\"TARGET_C\":25,\"VOLTAGE\":2.64,\"VOLTAGE_TS\":1673035499,\"EXERCISE_VALVE\":\"success\",\"VALVE_TS\":1673031994,\"DIAGNOSTICS\":512,\"DIAGNOSTICS_TS\":1673031994,\"LOW_POWER_MODE\":false}\n\n\nroutine data\n{\"deviceId\":5251,\"mfrId\":4,\"productId\":3,\"timestamp\":1673036122,\"TEMPERATURE\":22.8,\"command\":191,\"retries\":6,\"TARGET_C\":29,\"VOLTAGE\":2.83,\"VOLTAGE_TS\":1672965826}",
+        "x": 640,
+        "y": 1140,
+        "wires": []
+    },
+    {
+        "id": "c9e8d0cc68ce9bf2",
+        "type": "comment",
+        "z": "061b272d346ebd03",
+        "g": "045aef6db868e9d5",
+        "name": "error messages",
+        "info": "https://github.com/Achronite/node-red-contrib-energenie-ener314rt/blob/eb31e1ebfa30ae120de5ebe6d3e8b93f8ae775ab/C/achronite/openThings.c\n\n           case 0x74: // TEMPERATURE\n                        // Seems that TEMPERATURE (0x74) received as type OTR_INT=1, and it should be OTR_FLOAT=2 from the eTRV, so override and return a float instead\n                        sprintf(OTrecord, \",\\\"%s\\\":%.1f\", OTrecs[i].paramName, OTrecs[i].retFloat);\n                        break;\n                    case 0x26: // eTRV DIAGNOSTICS, sent as binary\n                        // adapted from gpbenton MQTT code\n                        if (OTrecs[i].retInt != 0){\n                            // at least 1 flag is set\n                            if (OTrecs[i].retInt & 0x0001) sprintf(OTrecord,\",\\\"Message\\\":\\\"Motor current below expectation\\\"\");\n                            if (OTrecs[i].retInt & 0x0002) sprintf(OTrecord,\",\\\"Message\\\":\\\"Motor current always high\");\n                            if (OTrecs[i].retInt & 0x0004) sprintf(OTrecord,\",\\\"Message\\\":\\\"Motor taking too long\");\n                            if (OTrecs[i].retInt & 0x0008) sprintf(OTrecord,\",\\\"Message\\\":\\\"Discrepancy between air and pipe sensors\");\n                            if (OTrecs[i].retInt & 0x0010) sprintf(OTrecord,\",\\\"Message\\\":\\\"Air sensor out of expected range\");\n                            if (OTrecs[i].retInt & 0x0020) sprintf(OTrecord,\",\\\"Message\\\":\\\"Pipe sensor out of expected range\");\n                            if (OTrecs[i].retInt & 0x0040) sprintf(OTrecord,\",\\\"Message\\\":\\\"Low power mode is enabled\");\n                            if (OTrecs[i].retInt & 0x0080) sprintf(OTrecord,\",\\\"Message\\\":\\\"No target temperature has been set by host\");\n                            if (OTrecs[i].retInt & 0x0100) sprintf(OTrecord,\",\\\"Message\\\":\\\"Valve may be sticking\");\n                            if (OTrecs[i].retInt & 0x0200) sprintf(OTrecord,\",\\\"Message\\\":\\\"Valve exercise was successful\");\n                            if (OTrecs[i].retInt & 0x0400) sprintf(OTrecord,\",\\\"Message\\\":\\\"Valve exercise was unsuccessful\");\n                            if (OTrecs[i].retInt & 0x0800) sprintf(OTrecord,\",\\\"Message\\\":\\\"Driver micro has suffered a watchdog reset and needs data refresh\");\n                            if (OTrecs[i].retInt & 0x1000) sprintf(OTrecord,\",\\\"Message\\\":\\\"Driver micro has suffered a noise reset and needs data refresh\");\n                            if (OTrecs[i].retInt & 0x2000) sprintf(OTrecord,\",\\\"Message\\\":\\\"Battery voltage has fallen below 2p2V and valve has been opened\");\n                            if (OTrecs[i].retInt & 0x4000) sprintf(OTrecord,\",\\\"Message\\\":\\\"Request for heat messaging is enabled\");\n                            if (OTrecs[i].retInt & 0x8000) sprintf(OTrecord,\",\\\"Message\\\":\\\"Request for heat\");",
+        "x": 620,
+        "y": 1180,
+        "wires": []
+    },
+    {
+        "id": "22f516cfc8a864eb",
+        "type": "inject",
+        "z": "061b272d346ebd03",
+        "g": "045aef6db868e9d5",
+        "name": "Set Temp {\"command\":244,\"data\":7}",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "{\"command\":244,\"data\":7}",
+        "payloadType": "json",
+        "x": 360,
+        "y": 1060,
+        "wires": [
+            [
+                "f4c005a8c68ef5b1"
+            ]
+        ]
+    },
+    {
+        "id": "697a83dfad3973a2",
+        "type": "comment",
+        "z": "061b272d346ebd03",
+        "name": "4168",
+        "info": "",
+        "x": 1410,
+        "y": 780,
+        "wires": []
+    },
+    {
+        "id": "e37676b8b5aea3b9",
+        "type": "openThings-trv",
+        "z": "061b272d346ebd03",
+        "name": "eTRV",
+        "device": "e5310d357913c3dc",
+        "board": "88fbf5a17def056c",
+        "x": 1250,
+        "y": 780,
+        "wires": [
+            [
+                "9a1de7de60563c1e"
+            ]
+        ]
+    },
+    {
+        "id": "5a7c28adf647c227",
+        "type": "link out",
+        "z": "061b272d346ebd03",
+        "name": "link out 1",
+        "mode": "link",
+        "links": [
+            "7f9a36f0ba9deaa3"
+        ],
+        "x": 1335,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "7f9a36f0ba9deaa3",
+        "type": "link in",
+        "z": "061b272d346ebd03",
+        "g": "e72e588ff1c8ae83",
+        "name": "link in 1",
+        "links": [
+            "5a7c28adf647c227",
+            "ac290362f0b3ae94",
+            "e2c1e92ee0a39936",
+            "ae3247f6c34b39e8",
+            "962037e38eb37e96",
+            "c6b093a86c04ba16",
+            "f514c3862752c9b4",
+            "e9a3b8357c9c38d9",
+            "ea365cc86077b7a5",
+            "9a1de7de60563c1e",
+            "43e6d8381ecb9331",
+            "5cf2f55df6742476"
+        ],
+        "x": 1735,
+        "y": 160,
+        "wires": [
+            [
+                "18636c74da0dfe6e",
+                "f155d23535a2e226"
+            ]
+        ]
+    },
+    {
+        "id": "ac290362f0b3ae94",
+        "type": "link out",
+        "z": "061b272d346ebd03",
+        "name": "link out 2",
+        "mode": "link",
+        "links": [
+            "7f9a36f0ba9deaa3"
+        ],
+        "x": 1335,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "e2c1e92ee0a39936",
+        "type": "link out",
+        "z": "061b272d346ebd03",
+        "name": "link out 3",
+        "mode": "link",
+        "links": [
+            "7f9a36f0ba9deaa3"
+        ],
+        "x": 1335,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "ae3247f6c34b39e8",
+        "type": "link out",
+        "z": "061b272d346ebd03",
+        "name": "link out 4",
+        "mode": "link",
+        "links": [
+            "7f9a36f0ba9deaa3"
+        ],
+        "x": 1335,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "962037e38eb37e96",
+        "type": "link out",
+        "z": "061b272d346ebd03",
+        "name": "link out 5",
+        "mode": "link",
+        "links": [
+            "7f9a36f0ba9deaa3"
+        ],
+        "x": 1335,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "c6b093a86c04ba16",
+        "type": "link out",
+        "z": "061b272d346ebd03",
+        "name": "link out 6",
+        "mode": "link",
+        "links": [
+            "7f9a36f0ba9deaa3"
+        ],
+        "x": 1335,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "f514c3862752c9b4",
+        "type": "link out",
+        "z": "061b272d346ebd03",
+        "name": "link out 7",
+        "mode": "link",
+        "links": [
+            "7f9a36f0ba9deaa3"
+        ],
+        "x": 1335,
+        "y": 600,
+        "wires": []
+    },
+    {
+        "id": "e9a3b8357c9c38d9",
+        "type": "link out",
+        "z": "061b272d346ebd03",
+        "name": "link out 8",
+        "mode": "link",
+        "links": [
+            "7f9a36f0ba9deaa3"
+        ],
+        "x": 1335,
+        "y": 660,
+        "wires": []
+    },
+    {
+        "id": "ea365cc86077b7a5",
+        "type": "link out",
+        "z": "061b272d346ebd03",
+        "name": "link out 9",
+        "mode": "link",
+        "links": [
+            "7f9a36f0ba9deaa3"
+        ],
+        "x": 1335,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "9a1de7de60563c1e",
+        "type": "link out",
+        "z": "061b272d346ebd03",
+        "name": "link out 10",
+        "mode": "link",
+        "links": [
+            "7f9a36f0ba9deaa3"
+        ],
+        "x": 1335,
+        "y": 780,
+        "wires": []
+    },
+    {
+        "id": "43e6d8381ecb9331",
+        "type": "link out",
+        "z": "061b272d346ebd03",
+        "name": "link out 11",
+        "mode": "link",
+        "links": [
+            "7f9a36f0ba9deaa3"
+        ],
+        "x": 1335,
+        "y": 840,
+        "wires": []
+    },
+    {
+        "id": "5cf2f55df6742476",
+        "type": "link out",
+        "z": "061b272d346ebd03",
+        "name": "link out 12",
+        "mode": "link",
+        "links": [
+            "7f9a36f0ba9deaa3"
+        ],
+        "x": 1335,
+        "y": 900,
+        "wires": []
+    },
+    {
+        "id": "4d961fde847699bb",
+        "type": "comment",
+        "z": "f5c07ac875e326d6",
+        "name": "Smart Monitor Plug (MIHO004)",
+        "info": "",
+        "x": 130,
+        "y": 20,
+        "wires": []
+    },
+    {
+        "id": "9965ef4959ba011f",
+        "type": "subflow:833a40a2676dab42",
+        "z": "f5c07ac875e326d6",
+        "g": "f7d2523e9fcc649a",
+        "name": "",
+        "x": 1000,
+        "y": 120,
+        "wires": [
+            [
+                "9268589db08f7ec3"
+            ]
+        ]
+    },
+    {
+        "id": "9268589db08f7ec3",
+        "type": "mqtt out",
+        "z": "f5c07ac875e326d6",
+        "g": "f7d2523e9fcc649a",
+        "name": "Publish MQTT Messages",
+        "topic": "",
+        "qos": "2",
+        "retain": "true",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "8d7ee635c95c5781",
+        "x": 1270,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "5afc17fcd76d53d5",
+        "type": "comment",
+        "z": "f5c07ac875e326d6",
+        "g": "f7d2523e9fcc649a",
+        "name": "USER EDIT: Rasberry Pi IP in Sub-Flow",
+        "info": "",
+        "x": 1030,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "66a0ca5aeaaee7fd",
+        "type": "comment",
+        "z": "f5c07ac875e326d6",
+        "name": "USER EDIT: Edit/Add device IDs for Monitor Plugs",
+        "info": "",
+        "x": 210,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "3342db22e8247c46",
+        "type": "debug",
+        "z": "f5c07ac875e326d6",
+        "g": "f7d2523e9fcc649a",
+        "name": "",
+        "active": false,
+        "tosidebar": true,
+        "console": true,
+        "tostatus": true,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "payload",
+        "statusType": "auto",
+        "x": 980,
+        "y": 160,
         "wires": []
     },
     {
         "id": "a26075197f86515e",
         "type": "openThings-monitor",
-        "z": "537eb81ac592d6ae",
-        "g": "f8842ccda840ba94",
+        "z": "f5c07ac875e326d6",
         "name": "",
         "device": "2c19ae9da8c2824c",
         "board": "88fbf5a17def056c",
-        "x": 1150,
-        "y": 480,
+        "x": 110,
+        "y": 140,
         "wires": [
             [
-                "3342db22e8247c46",
-                "9965ef4959ba011f"
+                "a2e5beb75952881a"
             ]
         ],
         "outputLabels": [
@@ -2934,20 +2863,142 @@
         ]
     },
     {
-        "id": "27552c1876ecace0",
+        "id": "3d449a6477c1b641",
         "type": "comment",
-        "z": "537eb81ac592d6ae",
-        "g": "536976be74a81a6f",
-        "name": "USER EDIT: Device IDs for Monitor Plugs",
-        "info": "",
-        "x": 1020,
-        "y": 740,
+        "z": "f5c07ac875e326d6",
+        "name": "1215",
+        "info": "Comment only for visual help",
+        "x": 310,
+        "y": 140,
         "wires": []
+    },
+    {
+        "id": "a2e5beb75952881a",
+        "type": "link out",
+        "z": "f5c07ac875e326d6",
+        "name": "link out 13",
+        "mode": "link",
+        "links": [
+            "8f48efda55f6ac61"
+        ],
+        "x": 235,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "8f48efda55f6ac61",
+        "type": "link in",
+        "z": "f5c07ac875e326d6",
+        "g": "f7d2523e9fcc649a",
+        "name": "link in 2",
+        "links": [
+            "a2e5beb75952881a"
+        ],
+        "x": 845,
+        "y": 120,
+        "wires": [
+            [
+                "9965ef4959ba011f",
+                "3342db22e8247c46"
+            ]
+        ]
+    },
+    {
+        "id": "38a4b9e675ef9b0f",
+        "type": "debug",
+        "z": "f9b614b65347025c",
+        "g": "da1b9b77ab11a273",
+        "name": "MQTT IN",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 440,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "e428c81cc49ef126",
+        "type": "switch",
+        "z": "f9b614b65347025c",
+        "g": "da1b9b77ab11a273",
+        "name": "Select energeniemqtt_xxxx Plug",
+        "property": "topic",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "cont",
+                "v": "energeniemqtt_5623",
+                "vt": "str"
+            },
+            {
+                "t": "cont",
+                "v": "energeniemqtt_6187",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 510,
+        "y": 300,
+        "wires": [
+            [
+                "37f62acf217785cd"
+            ],
+            [
+                "25d4079da5b20a32"
+            ]
+        ]
+    },
+    {
+        "id": "f267fd6bda3b9403",
+        "type": "change",
+        "z": "f9b614b65347025c",
+        "g": "da1b9b77ab11a273",
+        "name": "Reformat: String to Boolen",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "false",
+                "fromt": "str",
+                "to": "false",
+                "tot": "bool"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "true",
+                "fromt": "str",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 200,
+        "y": 300,
+        "wires": [
+            [
+                "e428c81cc49ef126"
+            ]
+        ]
     },
     {
         "id": "b95a1eb9606feb70",
         "type": "mqtt in",
-        "z": "537eb81ac592d6ae",
+        "z": "f9b614b65347025c",
+        "g": "da1b9b77ab11a273",
         "name": "",
         "topic": "energenie_gateway/+/set",
         "qos": "2",
@@ -2957,8 +3008,8 @@
         "rap": true,
         "rh": 0,
         "inputs": 0,
-        "x": 230,
-        "y": 860,
+        "x": 170,
+        "y": 200,
         "wires": [
             [
                 "38a4b9e675ef9b0f",
@@ -2969,510 +3020,393 @@
     {
         "id": "0d7a52e255cdf2d7",
         "type": "comment",
-        "z": "537eb81ac592d6ae",
+        "z": "f9b614b65347025c",
+        "g": "da1b9b77ab11a273",
         "name": "Incoming MQTT \"SET\" messages",
         "info": "",
-        "x": 250,
-        "y": 820,
-        "wires": []
-    },
-    {
-        "id": "37b551c687aeb197",
-        "type": "comment",
-        "z": "537eb81ac592d6ae",
-        "g": "f8842ccda840ba94",
-        "name": "Duplicate and edit this group, one group for each plug",
-        "info": "",
-        "x": 1080,
-        "y": 400,
-        "wires": []
-    },
-    {
-        "id": "aff329637c1b5419",
-        "type": "comment",
-        "z": "537eb81ac592d6ae",
-        "g": "b7595623148c9478",
-        "name": "USER EDIT: Edit switch node and add new as needed",
-        "info": "",
-        "x": 560,
-        "y": 760,
+        "x": 190,
+        "y": 160,
         "wires": []
     },
     {
         "id": "8d8ca8ae66d9e016",
         "type": "comment",
-        "z": "537eb81ac592d6ae",
+        "z": "f9b614b65347025c",
+        "g": "da1b9b77ab11a273",
         "name": "This changes the \"true/false\" string to boolean",
         "info": " Incoming data from MQTT is passed through a change node to change the \"false\" string to boolean formats prior to be passed to the openThings switch node.",
-        "x": 310,
-        "y": 920,
+        "x": 250,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "6766125a6911b82f",
+        "type": "comment",
+        "z": "f9b614b65347025c",
+        "name": " Smart Plug+ (MIHO005)",
+        "info": "",
+        "x": 110,
+        "y": 20,
         "wires": []
     },
     {
         "id": "53a09c1b2e26371d",
         "type": "comment",
-        "z": "537eb81ac592d6ae",
-        "g": "ea176ac851386d6e",
+        "z": "f9b614b65347025c",
+        "g": "da1b9b77ab11a273",
         "name": "Switch select Plug",
         "info": "",
-        "x": 610,
-        "y": 920,
+        "x": 550,
+        "y": 260,
         "wires": []
     },
     {
-        "id": "9c574dedaae3266e",
-        "type": "comment",
-        "z": "537eb81ac592d6ae",
-        "g": "536976be74a81a6f",
-        "name": "Duplicate and edit the groups, one group for each plug",
-        "info": "",
-        "x": 1060,
-        "y": 780,
+        "id": "7d073ecada5747d4",
+        "type": "subflow:f075697e81a4e38d",
+        "z": "f9b614b65347025c",
+        "g": "7ad9c5f766ebd082",
+        "name": "",
+        "x": 1760,
+        "y": 140,
+        "wires": [
+            [
+                "048759ea643eacfb"
+            ]
+        ]
+    },
+    {
+        "id": "048759ea643eacfb",
+        "type": "mqtt out",
+        "z": "f9b614b65347025c",
+        "g": "7ad9c5f766ebd082",
+        "name": "Publish MQTT Messages",
+        "topic": "",
+        "qos": "2",
+        "retain": "true",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "8d7ee635c95c5781",
+        "x": 2050,
+        "y": 140,
         "wires": []
     },
     {
         "id": "5ed8cbfcd963922f",
         "type": "comment",
-        "z": "537eb81ac592d6ae",
-        "g": "8fa61f20ae12509e",
-        "name": "USER EDIT: Rasberry Pi IP in Sub-Flow",
-        "info": "",
-        "x": 1830,
-        "y": 740,
-        "wires": []
-    },
-    {
-        "id": "5afc17fcd76d53d5",
-        "type": "comment",
-        "z": "537eb81ac592d6ae",
-        "g": "0282228cd430609b",
-        "name": "USER EDIT: Rasberry Pi IP in Sub-Flow",
-        "info": "",
-        "x": 1810,
-        "y": 340,
-        "wires": []
-    },
-    {
-        "id": "66a0ca5aeaaee7fd",
-        "type": "comment",
-        "z": "537eb81ac592d6ae",
-        "g": "497782fb8bf28a5e",
-        "name": "USER EDIT: Edit/Add device IDs for Monitor Plugs",
-        "info": "",
-        "x": 1050,
-        "y": 340,
-        "wires": []
-    },
-    {
-        "id": "16340f7714e67b65",
-        "type": "comment",
-        "z": "537eb81ac592d6ae",
-        "g": "fa73fab3d77d8daa",
-        "name": "USER EDIT: Edit switch node and add new as needed",
-        "info": "",
-        "x": 560,
-        "y": 1420,
-        "wires": []
-    },
-    {
-        "id": "7f6f8e312914436c",
-        "type": "comment",
-        "z": "537eb81ac592d6ae",
-        "g": "fa73fab3d77d8daa",
-        "name": "USER EDIT: MQTT gateway",
-        "info": "",
-        "x": 220,
-        "y": 1420,
-        "wires": []
-    },
-    {
-        "id": "39e666ee8d7e9ca7",
-        "type": "comment",
-        "z": "537eb81ac592d6ae",
-        "g": "fa73fab3d77d8daa",
-        "name": "Incoming MQTT \"COMMAND\" messages",
-        "info": "",
-        "x": 260,
-        "y": 1460,
-        "wires": []
-    },
-    {
-        "id": "cc454d1be9e24b72",
-        "type": "comment",
-        "z": "537eb81ac592d6ae",
-        "g": "fa73fab3d77d8daa",
-        "name": "Switch select eTRV",
-        "info": "",
-        "x": 590,
-        "y": 1540,
-        "wires": []
-    },
-    {
-        "id": "99f6dd3e81add433",
-        "type": "comment",
-        "z": "537eb81ac592d6ae",
-        "g": "2e76e37671a934e0",
-        "name": "USER EDIT: Device IDs for eTRVs",
-        "info": "",
-        "x": 1020,
-        "y": 1380,
-        "wires": []
-    },
-    {
-        "id": "5c343eb4cc9668f0",
-        "type": "comment",
-        "z": "537eb81ac592d6ae",
-        "g": "2e76e37671a934e0",
-        "name": "Duplicate and edit the groups, one group for each eTRV",
-        "info": "",
-        "x": 1080,
-        "y": 1420,
-        "wires": []
-    },
-    {
-        "id": "943e1064f510b2a4",
-        "type": "comment",
-        "z": "537eb81ac592d6ae",
-        "g": "045aef6db868e9d5",
-        "name": "Debug eTRV commands",
-        "info": "",
-        "x": 1810,
-        "y": 1600,
-        "wires": []
-    },
-    {
-        "id": "241e684d32ce5b64",
-        "type": "comment",
-        "z": "537eb81ac592d6ae",
-        "g": "018e61fa1f56ee1e",
+        "z": "f9b614b65347025c",
+        "g": "7ad9c5f766ebd082",
         "name": "USER EDIT: Rasberry Pi IP in Sub-Flow",
         "info": "",
         "x": 1770,
-        "y": 1380,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "aff329637c1b5419",
+        "type": "comment",
+        "z": "f9b614b65347025c",
+        "g": "da1b9b77ab11a273",
+        "name": "USER EDIT: Edit switch node and add new as needed",
+        "info": "",
+        "x": 500,
+        "y": 100,
         "wires": []
     },
     {
         "id": "f9b9be4b9e1cf0bc",
         "type": "comment",
-        "z": "537eb81ac592d6ae",
-        "g": "b7595623148c9478",
+        "z": "f9b614b65347025c",
+        "g": "da1b9b77ab11a273",
         "name": "USER EDIT: MQTT gateway",
         "info": "",
-        "x": 220,
-        "y": 760,
+        "x": 160,
+        "y": 100,
         "wires": []
     },
     {
-        "id": "89732ff349aee7b8",
+        "id": "27552c1876ecace0",
         "type": "comment",
-        "z": "537eb81ac592d6ae",
-        "g": "a5de3889fbc07d90",
-        "name": "Incomplete",
+        "z": "f9b614b65347025c",
+        "name": "USER EDIT: Device IDs for Monitor Plugs",
         "info": "",
-        "x": 560,
-        "y": 2800,
+        "x": 960,
+        "y": 80,
         "wires": []
     },
     {
-        "id": "3a38af998a677577",
+        "id": "9c574dedaae3266e",
+        "type": "comment",
+        "z": "f9b614b65347025c",
+        "name": "Duplicate and edit the groups, one group for each plug",
+        "info": "",
+        "x": 1000,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "295d1acbb4387108",
+        "type": "openThings-monitor",
+        "z": "f9b614b65347025c",
+        "g": "466213e5a7838e65",
+        "name": "",
+        "device": "0f31bc6adcafaa43",
+        "board": "88fbf5a17def056c",
+        "x": 1110,
+        "y": 400,
+        "wires": [
+            [
+                "6229432f04945b55"
+            ]
+        ],
+        "outputLabels": [
+            "Sensor Data"
+        ]
+    },
+    {
+        "id": "25d4079da5b20a32",
+        "type": "openThings-switch",
+        "z": "f9b614b65347025c",
+        "g": "466213e5a7838e65",
+        "name": "",
+        "device": "0f31bc6adcafaa43",
+        "board": "88fbf5a17def056c",
+        "retry": true,
+        "x": 1110,
+        "y": 460,
+        "wires": [
+            [
+                "6229432f04945b55"
+            ]
+        ]
+    },
+    {
+        "id": "897d41aed130b0e7",
+        "type": "inject",
+        "z": "f9b614b65347025c",
+        "g": "466213e5a7838e65",
+        "name": "On",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 890,
+        "y": 400,
+        "wires": [
+            [
+                "25d4079da5b20a32"
+            ]
+        ]
+    },
+    {
+        "id": "e9115c9a4480a356",
+        "type": "inject",
+        "z": "f9b614b65347025c",
+        "g": "466213e5a7838e65",
+        "name": "Off",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "false",
+        "payloadType": "bool",
+        "x": 890,
+        "y": 440,
+        "wires": [
+            [
+                "25d4079da5b20a32"
+            ]
+        ]
+    },
+    {
+        "id": "f4fedc380d1a6661",
+        "type": "comment",
+        "z": "f9b614b65347025c",
+        "g": "466213e5a7838e65",
+        "name": "6187",
+        "info": "",
+        "x": 1370,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "28824b357224a926",
+        "type": "openThings-monitor",
+        "z": "f9b614b65347025c",
+        "g": "bd6bb52ed4b9535c",
+        "name": "",
+        "device": "23f31f81a5be8aed",
+        "board": "88fbf5a17def056c",
+        "x": 1090,
+        "y": 220,
+        "wires": [
+            [
+                "517e661563658566"
+            ]
+        ],
+        "outputLabels": [
+            "Sensor Data"
+        ]
+    },
+    {
+        "id": "37f62acf217785cd",
+        "type": "openThings-switch",
+        "z": "f9b614b65347025c",
+        "g": "bd6bb52ed4b9535c",
+        "name": "",
+        "device": "23f31f81a5be8aed",
+        "board": "88fbf5a17def056c",
+        "retry": true,
+        "x": 1090,
+        "y": 280,
+        "wires": [
+            [
+                "517e661563658566"
+            ]
+        ]
+    },
+    {
+        "id": "dadbe76ae213adcc",
+        "type": "inject",
+        "z": "f9b614b65347025c",
+        "g": "bd6bb52ed4b9535c",
+        "name": "On",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 890,
+        "y": 220,
+        "wires": [
+            [
+                "37f62acf217785cd"
+            ]
+        ]
+    },
+    {
+        "id": "3c57205d2a77b4a0",
+        "type": "inject",
+        "z": "f9b614b65347025c",
+        "g": "bd6bb52ed4b9535c",
+        "name": "Off",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "false",
+        "payloadType": "bool",
+        "x": 890,
+        "y": 260,
+        "wires": [
+            [
+                "37f62acf217785cd"
+            ]
+        ]
+    },
+    {
+        "id": "1e380b75b8d61790",
+        "type": "comment",
+        "z": "f9b614b65347025c",
+        "g": "bd6bb52ed4b9535c",
+        "name": "5623",
+        "info": "",
+        "x": 1350,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "517e661563658566",
+        "type": "link out",
+        "z": "f9b614b65347025c",
+        "g": "bd6bb52ed4b9535c",
+        "name": "link out 14",
+        "mode": "link",
+        "links": [
+            "86a3f5373d16945c"
+        ],
+        "x": 1265,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "86a3f5373d16945c",
+        "type": "link in",
+        "z": "f9b614b65347025c",
+        "g": "7ad9c5f766ebd082",
+        "name": "link in 3",
+        "links": [
+            "517e661563658566",
+            "6229432f04945b55"
+        ],
+        "x": 1585,
+        "y": 140,
+        "wires": [
+            [
+                "7d073ecada5747d4",
+                "09747f10f9a9bea7"
+            ]
+        ]
+    },
+    {
+        "id": "6229432f04945b55",
+        "type": "link out",
+        "z": "f9b614b65347025c",
+        "g": "466213e5a7838e65",
+        "name": "link out 15",
+        "mode": "link",
+        "links": [
+            "86a3f5373d16945c"
+        ],
+        "x": 1295,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "09747f10f9a9bea7",
         "type": "debug",
-        "z": "537eb81ac592d6ae",
-        "g": "b43999f1833a7f6c",
-        "name": "4",
-        "active": true,
+        "z": "f9b614b65347025c",
+        "g": "7ad9c5f766ebd082",
+        "name": "",
+        "active": false,
         "tosidebar": true,
-        "console": false,
-        "tostatus": false,
+        "console": true,
+        "tostatus": true,
         "complete": "payload",
         "targetType": "msg",
-        "statusVal": "",
+        "statusVal": "payload",
         "statusType": "auto",
-        "x": 1290,
-        "y": 1760,
+        "x": 1700,
+        "y": 180,
         "wires": []
-    },
-    {
-        "id": "cf0cef5a7e10d03b",
-        "type": "comment",
-        "z": "537eb81ac592d6ae",
-        "g": "b43999f1833a7f6c",
-        "name": "3449",
-        "info": "",
-        "x": 970,
-        "y": 1720,
-        "wires": []
-    },
-    {
-        "id": "99369410a3413987",
-        "type": "inject",
-        "z": "537eb81ac592d6ae",
-        "g": "b43999f1833a7f6c",
-        "name": "Demo Data",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "{\"deviceId\":3449,\"mfrId\":4,\"productId\":3,\"timestamp\":1673047147,\"TEMPERATURE\":21.3,\"command\":166,\"retries\":9,\"TARGET_C\":24,\"VOLTAGE\":2.64,\"VOLTAGE_TS\":1673035499,\"EXERCISE_VALVE\":\"success\",\"VALVE_TS\":1673031994,\"DIAGNOSTICS\":0,\"DIAGNOSTICS_TS\":1673045930,\"LOW_POWER_MODE\":false}",
-        "payloadType": "json",
-        "x": 1010,
-        "y": 1840,
-        "wires": [
-            [
-                "255f879cc51130b6"
-            ]
-        ]
-    },
-    {
-        "id": "0e30c1199ff35990",
-        "type": "debug",
-        "z": "537eb81ac592d6ae",
-        "g": "b866644ff66cac75",
-        "name": "5",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "payload",
-        "targetType": "msg",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1290,
-        "y": 2180,
-        "wires": []
-    },
-    {
-        "id": "4d842b8a2d4605ef",
-        "type": "comment",
-        "z": "537eb81ac592d6ae",
-        "g": "b866644ff66cac75",
-        "name": "5318",
-        "info": "",
-        "x": 970,
-        "y": 2140,
-        "wires": []
-    },
-    {
-        "id": "1d83c83e1aefc0e2",
-        "type": "inject",
-        "z": "537eb81ac592d6ae",
-        "g": "b866644ff66cac75",
-        "name": "Demo Data",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "{\"deviceId\":5318,\"mfrId\":4,\"productId\":3,\"timestamp\":1673047147,\"TEMPERATURE\":21.3,\"command\":166,\"retries\":9,\"TARGET_C\":24,\"VOLTAGE\":2.64,\"VOLTAGE_TS\":1673035499,\"EXERCISE_VALVE\":\"success\",\"VALVE_TS\":1673031994,\"DIAGNOSTICS\":0,\"DIAGNOSTICS_TS\":1673045930,\"LOW_POWER_MODE\":false}",
-        "payloadType": "json",
-        "x": 1010,
-        "y": 2260,
-        "wires": [
-            [
-                "dda63ccf41a87347"
-            ]
-        ]
-    },
-    {
-        "id": "5d2f69626b6683da",
-        "type": "debug",
-        "z": "537eb81ac592d6ae",
-        "g": "11520a859a0fedeb",
-        "name": "3",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "payload",
-        "targetType": "msg",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1290,
-        "y": 2420,
-        "wires": []
-    },
-    {
-        "id": "50613d7a774d7f3e",
-        "type": "comment",
-        "z": "537eb81ac592d6ae",
-        "g": "11520a859a0fedeb",
-        "name": "5475",
-        "info": "",
-        "x": 970,
-        "y": 2380,
-        "wires": []
-    },
-    {
-        "id": "ad6c980ebe98dd3c",
-        "type": "inject",
-        "z": "537eb81ac592d6ae",
-        "g": "11520a859a0fedeb",
-        "name": "Demo Data",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "{\"deviceId\":5475,\"mfrId\":4,\"productId\":3,\"timestamp\":1673047147,\"TEMPERATURE\":21.3,\"command\":166,\"retries\":9,\"TARGET_C\":24,\"VOLTAGE\":2.64,\"VOLTAGE_TS\":1673035499,\"EXERCISE_VALVE\":\"success\",\"VALVE_TS\":1673031994,\"DIAGNOSTICS\":0,\"DIAGNOSTICS_TS\":1673045930,\"LOW_POWER_MODE\":false}",
-        "payloadType": "json",
-        "x": 1010,
-        "y": 2480,
-        "wires": [
-            [
-                "04f1e09fc050dd94"
-            ]
-        ]
-    },
-    {
-        "id": "06437078cd06684c",
-        "type": "openThings-trv",
-        "z": "537eb81ac592d6ae",
-        "g": "0dc7ef642e108ea2",
-        "name": "eTRV",
-        "device": "71e70e5d03cfbecf",
-        "board": "88fbf5a17def056c",
-        "x": 1050,
-        "y": 1540,
-        "wires": [
-            [
-                "f97e4fd104d66acc",
-                "f155d23535a2e226"
-            ]
-        ]
-    },
-    {
-        "id": "9f72ca99c409ecf7",
-        "type": "openThings-trv",
-        "z": "537eb81ac592d6ae",
-        "g": "4c7c516e623f61fe",
-        "name": "eTRV",
-        "device": "4d9cd9aa20ea4eeb",
-        "board": "88fbf5a17def056c",
-        "x": 1070,
-        "y": 1980,
-        "wires": [
-            [
-                "45f505abf6949496",
-                "af2647e2212948a2"
-            ]
-        ]
-    },
-    {
-        "id": "fcfee4cd7f41bc55",
-        "type": "openThings-trv",
-        "z": "537eb81ac592d6ae",
-        "g": "11520a859a0fedeb",
-        "name": "eTRV",
-        "device": "cf09eae887391bc1",
-        "board": "88fbf5a17def056c",
-        "x": 1070,
-        "y": 2420,
-        "wires": [
-            [
-                "04f1e09fc050dd94",
-                "5d2f69626b6683da"
-            ]
-        ]
-    },
-    {
-        "id": "5afbdef9f808b931",
-        "type": "openThings-trv",
-        "z": "537eb81ac592d6ae",
-        "g": "b43999f1833a7f6c",
-        "name": "eTRV",
-        "device": "a438a26cd10184b3",
-        "board": "88fbf5a17def056c",
-        "x": 1050,
-        "y": 1780,
-        "wires": [
-            [
-                "3a38af998a677577",
-                "255f879cc51130b6"
-            ]
-        ]
-    },
-    {
-        "id": "5b273f4574e1e063",
-        "type": "openThings-trv",
-        "z": "537eb81ac592d6ae",
-        "g": "b866644ff66cac75",
-        "name": "eTRV",
-        "device": "cc25050701e608f8",
-        "board": "88fbf5a17def056c",
-        "x": 1050,
-        "y": 2200,
-        "wires": [
-            [
-                "0e30c1199ff35990",
-                "dda63ccf41a87347"
-            ]
-        ]
-    },
-    {
-        "id": "22f516cfc8a864eb",
-        "type": "inject",
-        "z": "537eb81ac592d6ae",
-        "g": "045aef6db868e9d5",
-        "name": "Set Temp {\"command\":244,\"data\":15}",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "{\"command\":244,\"data\":15}",
-        "payloadType": "json",
-        "x": 1870,
-        "y": 2100,
-        "wires": [
-            [
-                "f4c005a8c68ef5b1"
-            ]
-        ]
-    },
-    {
-        "id": "787bc97aae81112e",
-        "type": "inject",
-        "z": "537eb81ac592d6ae",
-        "g": "0dc7ef642e108ea2",
-        "name": "Demo Data",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "{\"deviceId\":3233,\"mfrId\":4,\"productId\":3,\"timestamp\":1673047147,\"TEMPERATURE\":21.3,\"command\":166,\"retries\":9,\"TARGET_C\":24,\"VOLTAGE\":2.64,\"VOLTAGE_TS\":1673035499,\"EXERCISE_VALVE\":\"success\",\"VALVE_TS\":1673031994,\"DIAGNOSTICS\":0,\"DIAGNOSTICS_TS\":1673045930,\"LOW_POWER_MODE\":true}",
-        "payloadType": "json",
-        "x": 1190,
-        "y": 1620,
-        "wires": [
-            [
-                "f97e4fd104d66acc"
-            ]
-        ]
     }
 ]
