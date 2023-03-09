@@ -10,7 +10,7 @@
     {
         "id": "061b272d346ebd03",
         "type": "tab",
-        "label": "Smart Monitor Plug (MIHO004)",
+        "label": "Smart Radiator Valve (MIHO013)",
         "disabled": false,
         "info": "",
         "env": []
@@ -43,42 +43,18 @@
                 "y": 120,
                 "wires": [
                     {
-                        "id": "9b3f97706e416b89"
+                        "id": "b2942f9633cb6c6b"
                     }
                 ]
             }
         ],
         "out": [
             {
-                "x": 940,
-                "y": 200,
+                "x": 1280,
+                "y": 180,
                 "wires": [
                     {
-                        "id": "e69c1c8256f84f5b",
-                        "port": 0
-                    },
-                    {
-                        "id": "e69c1c8256f84f5b",
-                        "port": 1
-                    },
-                    {
-                        "id": "e69c1c8256f84f5b",
-                        "port": 2
-                    },
-                    {
-                        "id": "e69c1c8256f84f5b",
-                        "port": 3
-                    },
-                    {
-                        "id": "e69c1c8256f84f5b",
-                        "port": 4
-                    },
-                    {
-                        "id": "e69c1c8256f84f5b",
-                        "port": 5
-                    },
-                    {
-                        "id": "9e25bcb4c2703785",
+                        "id": "53181c175b6515ff",
                         "port": 0
                     }
                 ]
@@ -100,34 +76,18 @@
                 "y": 180,
                 "wires": [
                     {
-                        "id": "3f74de5531bb36c1"
+                        "id": "3389ae28a8747889"
                     }
                 ]
             }
         ],
         "out": [
             {
-                "x": 880,
-                "y": 180,
+                "x": 1340,
+                "y": 200,
                 "wires": [
                     {
-                        "id": "bd35507599327640",
-                        "port": 0
-                    },
-                    {
-                        "id": "bd35507599327640",
-                        "port": 1
-                    },
-                    {
-                        "id": "bd35507599327640",
-                        "port": 2
-                    },
-                    {
-                        "id": "bd35507599327640",
-                        "port": 3
-                    },
-                    {
-                        "id": "60740ddd1ac044ac",
+                        "id": "936215286e2aab7a",
                         "port": 0
                     }
                 ]
@@ -149,91 +109,19 @@
                 "y": 120,
                 "wires": [
                     {
-                        "id": "1b26d96dfd7c0a9d"
+                        "id": "c9e1dddbb741fba5"
                     }
                 ]
             }
         ],
         "out": [
             {
-                "x": 900,
-                "y": 260,
+                "x": 1340,
+                "y": 240,
                 "wires": [
                     {
-                        "id": "a5c081218aa0a38b",
-                        "port": 1
-                    },
-                    {
-                        "id": "a5c081218aa0a38b",
+                        "id": "c05c3205643928c1",
                         "port": 0
-                    },
-                    {
-                        "id": "a5c081218aa0a38b",
-                        "port": 2
-                    },
-                    {
-                        "id": "a5c081218aa0a38b",
-                        "port": 3
-                    },
-                    {
-                        "id": "a5c081218aa0a38b",
-                        "port": 4
-                    },
-                    {
-                        "id": "a5c081218aa0a38b",
-                        "port": 5
-                    },
-                    {
-                        "id": "a5c081218aa0a38b",
-                        "port": 6
-                    },
-                    {
-                        "id": "a5c081218aa0a38b",
-                        "port": 7
-                    },
-                    {
-                        "id": "a5c081218aa0a38b",
-                        "port": 8
-                    },
-                    {
-                        "id": "a5c081218aa0a38b",
-                        "port": 9
-                    },
-                    {
-                        "id": "a5c081218aa0a38b",
-                        "port": 10
-                    },
-                    {
-                        "id": "a5c081218aa0a38b",
-                        "port": 11
-                    },
-                    {
-                        "id": "a5c081218aa0a38b",
-                        "port": 12
-                    },
-                    {
-                        "id": "a5c081218aa0a38b",
-                        "port": 13
-                    },
-                    {
-                        "id": "a5c081218aa0a38b",
-                        "port": 15
-                    },
-                    {
-                        "id": "a5c081218aa0a38b",
-                        "port": 14
-                    },
-                    {
-                        "id": "8aa18cb79c3162bc",
-                        "port": 0
-                    },
-                    {
-                        "id": "a5c081218aa0a38b",
-                        "port": 16
-                    },
-                    {
-                        "id": "a5c081218aa0a38b",
-                        "port": 17
                     }
                 ]
             }
@@ -241,26 +129,6 @@
         "env": [],
         "meta": {},
         "color": "#DDAA99"
-    },
-    {
-        "id": "616d9522544dbdb6",
-        "type": "group",
-        "z": "537eb81ac592d6ae",
-        "name": "",
-        "style": {
-            "label": true
-        },
-        "nodes": [
-            "e3cf621895e62eef",
-            "e0b4a5ede84fec43",
-            "aa286eb049368e95",
-            "eb64c277ce27959b",
-            "3ba2b2ec9a663b9e"
-        ],
-        "x": 34,
-        "y": 59,
-        "w": 412,
-        "h": 162
     },
     {
         "id": "57c9286e0d5bee84",
@@ -335,7 +203,7 @@
             "89732ff349aee7b8"
         ],
         "x": 54,
-        "y": 339,
+        "y": 959,
         "w": 1552,
         "h": 442
     },
@@ -362,8 +230,8 @@
             "7f6f8e312914436c",
             "16340f7714e67b65"
         ],
-        "x": 14,
-        "y": 59,
+        "x": 4,
+        "y": 39,
         "w": 712,
         "h": 397
     },
@@ -417,42 +285,17 @@
             "color": "#a4a4a4"
         },
         "nodes": [
-            "0e63b171b14873f1",
             "18636c74da0dfe6e",
             "241e684d32ce5b64",
             "7f9a36f0ba9deaa3",
-            "7d800d7548111c58",
-            "f155d23535a2e226"
+            "f155d23535a2e226",
+            "4a244a4bc7436312",
+            "805f901224d8a0c4"
         ],
-        "x": 1694,
-        "y": 79,
-        "w": 652,
-        "h": 162
-    },
-    {
-        "id": "f7d2523e9fcc649a",
-        "type": "group",
-        "z": "f5c07ac875e326d6",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "9965ef4959ba011f",
-            "9268589db08f7ec3",
-            "5afc17fcd76d53d5",
-            "3342db22e8247c46",
-            "8f48efda55f6ac61"
-        ],
-        "x": 804,
-        "y": 39,
-        "w": 602,
-        "h": 162
+        "x": 1774,
+        "y": 99,
+        "w": 592,
+        "h": 182
     },
     {
         "id": "466213e5a7838e65",
@@ -477,9 +320,7 @@
             "6229432f04945b55"
         ],
         "x": 794,
-        "y": 334,
-        "w": 652,
-        "h": 167
+        "y": 334
     },
     {
         "id": "bd6bb52ed4b9535c",
@@ -500,13 +341,10 @@
             "dadbe76ae213adcc",
             "3c57205d2a77b4a0",
             "1e380b75b8d61790",
-            "301bb66f90af5066",
             "517e661563658566"
         ],
         "x": 794,
-        "y": 174,
-        "w": 632,
-        "h": 147
+        "y": 179
     },
     {
         "id": "da1b9b77ab11a273",
@@ -533,9 +371,7 @@
             "f9b9be4b9e1cf0bc"
         ],
         "x": 14,
-        "y": 59,
-        "w": 712,
-        "h": 282
+        "y": 59
     },
     {
         "id": "7ad9c5f766ebd082",
@@ -552,15 +388,124 @@
         },
         "nodes": [
             "7d073ecada5747d4",
-            "048759ea643eacfb",
             "5ed8cbfcd963922f",
             "86a3f5373d16945c",
-            "09747f10f9a9bea7"
+            "09747f10f9a9bea7",
+            "772af1e9a0321b31"
         ],
-        "x": 1544,
-        "y": 59,
-        "w": 642,
+        "x": 1564,
+        "y": 99
+    },
+    {
+        "id": "f7d2523e9fcc649a",
+        "type": "group",
+        "z": "f5c07ac875e326d6",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "9965ef4959ba011f",
+            "5afc17fcd76d53d5",
+            "3342db22e8247c46",
+            "8f48efda55f6ac61",
+            "53b1e31e569b3b08"
+        ],
+        "x": 804,
+        "y": 39,
+        "w": 412,
         "h": 162
+    },
+    {
+        "id": "75710a4188d28a86",
+        "type": "group",
+        "z": "537eb81ac592d6ae",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "048759ea643eacfb",
+            "6a4a9705132f9175",
+            "88fa3c012b3a4d47",
+            "5373ffc4598fc724",
+            "a381d93238425f22",
+            "c2152f26c8074e8f"
+        ],
+        "x": 834,
+        "y": 99,
+        "w": 752,
+        "h": 222
+    },
+    {
+        "id": "bf9b9330f440c33a",
+        "type": "group",
+        "z": "537eb81ac592d6ae",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "e3cf621895e62eef",
+            "e0b4a5ede84fec43",
+            "aa286eb049368e95",
+            "eb64c277ce27959b",
+            "3ba2b2ec9a663b9e",
+            "b651e240251a63ec",
+            "31b096bb11767739"
+        ],
+        "x": 14,
+        "y": 59,
+        "w": 532,
+        "h": 202
+    },
+    {
+        "id": "be8e8de1061deea7",
+        "type": "group",
+        "z": "537eb81ac592d6ae",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "cf0cdb1ed18f7ed7",
+            "1e708fdbdb9831a0",
+            "aa6d11838c4cf4bf",
+            "502ccec7e8e38c72",
+            "3b91fab1361079d1",
+            "272889a66b307243",
+            "aa7d0fb3cf4ebfea",
+            "18bab721cd21cbf2",
+            "c95eee0532754c73",
+            "a9394215c6562fd7",
+            "bcb7a46f0ad8832d",
+            "e273f6d4c4b52b8e",
+            "bbc63ae0ea19d2fe"
+        ],
+        "x": 34,
+        "y": 419,
+        "w": 1622,
+        "h": 222
     },
     {
         "id": "f4c005a8c68ef5b1",
@@ -598,6 +543,42 @@
         ]
     },
     {
+        "id": "90853accac1ab854",
+        "type": "junction",
+        "z": "cdb62d5ce7ac8e79",
+        "x": 1020,
+        "y": 240,
+        "wires": [
+            [
+                "c05c3205643928c1"
+            ]
+        ]
+    },
+    {
+        "id": "ebdb6d0ae6b68d8d",
+        "type": "junction",
+        "z": "f075697e81a4e38d",
+        "x": 980,
+        "y": 160,
+        "wires": [
+            [
+                "53181c175b6515ff"
+            ]
+        ]
+    },
+    {
+        "id": "ba7d6c58e1538a80",
+        "type": "junction",
+        "z": "833a40a2676dab42",
+        "x": 1060,
+        "y": 200,
+        "wires": [
+            [
+                "936215286e2aab7a"
+            ]
+        ]
+    },
+    {
         "id": "88fbf5a17def056c",
         "type": "energenie-board",
         "name": "ENER314-RT",
@@ -629,15 +610,6 @@
         "product": "Adapter Plus",
         "deviceId": "5623",
         "control": "Control & Monitor"
-    },
-    {
-        "id": "cf09eae887391bc1",
-        "type": "openThings-device",
-        "name": "Radiator Valve:4168",
-        "productId": "3",
-        "product": "Radiator Valve",
-        "deviceId": "4168",
-        "control": "Control & Monitor (Cached)"
     },
     {
         "id": "8d7ee635c95c5781",
@@ -685,15 +657,6 @@
         "productId": "3",
         "product": "Radiator Valve",
         "deviceId": "5318",
-        "control": "Control & Monitor (Cached)"
-    },
-    {
-        "id": "a438a26cd10184b3",
-        "type": "openThings-device",
-        "name": "Radiator Valve:3449",
-        "productId": "3",
-        "product": "Radiator Valve",
-        "deviceId": "3449",
         "control": "Control & Monitor (Cached)"
     },
     {
@@ -778,6 +741,15 @@
         "control": "Control & Monitor (Cached)"
     },
     {
+        "id": "d774c54837acd05e",
+        "type": "openThings-device",
+        "name": "Radiator Valve:3449",
+        "productId": "3",
+        "product": "Radiator Valve",
+        "deviceId": "3449",
+        "control": "Control & Monitor (Cached)"
+    },
+    {
         "id": "e69c1c8256f84f5b",
         "type": "function",
         "z": "f075697e81a4e38d",
@@ -788,15 +760,27 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 580,
+        "x": 740,
         "y": 120,
         "wires": [
-            [],
-            [],
-            [],
-            [],
-            [],
-            []
+            [
+                "ebdb6d0ae6b68d8d"
+            ],
+            [
+                "ebdb6d0ae6b68d8d"
+            ],
+            [
+                "ebdb6d0ae6b68d8d"
+            ],
+            [
+                "ebdb6d0ae6b68d8d"
+            ],
+            [
+                "ebdb6d0ae6b68d8d"
+            ],
+            [
+                "ebdb6d0ae6b68d8d"
+            ]
         ]
     },
     {
@@ -810,10 +794,12 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 510,
+        "x": 670,
         "y": 200,
         "wires": [
-            []
+            [
+                "ebdb6d0ae6b68d8d"
+            ]
         ]
     },
     {
@@ -833,7 +819,7 @@
         "drop": false,
         "allowrate": false,
         "outputs": 1,
-        "x": 310,
+        "x": 470,
         "y": 200,
         "wires": [
             [
@@ -858,13 +844,61 @@
         "drop": false,
         "allowrate": false,
         "outputs": 1,
-        "x": 310,
+        "x": 470,
         "y": 120,
         "wires": [
             [
                 "e69c1c8256f84f5b",
                 "7fe860ac2a5bcb1c"
             ]
+        ]
+    },
+    {
+        "id": "b2942f9633cb6c6b",
+        "type": "delay",
+        "z": "f075697e81a4e38d",
+        "name": "",
+        "pauseType": "rate",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 230,
+        "y": 120,
+        "wires": [
+            [
+                "9b3f97706e416b89"
+            ]
+        ]
+    },
+    {
+        "id": "53181c175b6515ff",
+        "type": "delay",
+        "z": "f075697e81a4e38d",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "250",
+        "timeoutUnits": "milliseconds",
+        "rate": "3",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 1090,
+        "y": 160,
+        "wires": [
+            []
         ]
     },
     {
@@ -878,13 +912,21 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 600,
+        "x": 740,
         "y": 180,
         "wires": [
-            [],
-            [],
-            [],
-            []
+            [
+                "ba7d6c58e1538a80"
+            ],
+            [
+                "ba7d6c58e1538a80"
+            ],
+            [
+                "ba7d6c58e1538a80"
+            ],
+            [
+                "ba7d6c58e1538a80"
+            ]
         ]
     },
     {
@@ -898,10 +940,12 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 530,
+        "x": 670,
         "y": 260,
         "wires": [
-            []
+            [
+                "ba7d6c58e1538a80"
+            ]
         ]
     },
     {
@@ -921,7 +965,7 @@
         "drop": false,
         "allowrate": false,
         "outputs": 1,
-        "x": 330,
+        "x": 470,
         "y": 260,
         "wires": [
             [
@@ -946,7 +990,7 @@
         "drop": false,
         "allowrate": false,
         "outputs": 1,
-        "x": 330,
+        "x": 470,
         "y": 180,
         "wires": [
             [
@@ -956,37 +1000,121 @@
         ]
     },
     {
+        "id": "3389ae28a8747889",
+        "type": "delay",
+        "z": "833a40a2676dab42",
+        "name": "",
+        "pauseType": "rate",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 230,
+        "y": 180,
+        "wires": [
+            [
+                "3f74de5531bb36c1"
+            ]
+        ]
+    },
+    {
+        "id": "936215286e2aab7a",
+        "type": "delay",
+        "z": "833a40a2676dab42",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "250",
+        "timeoutUnits": "milliseconds",
+        "rate": "3",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 1170,
+        "y": 200,
+        "wires": [
+            []
+        ]
+    },
+    {
         "id": "a5c081218aa0a38b",
         "type": "function",
         "z": "cdb62d5ce7ac8e79",
         "name": "Create MQTT discovery messages",
-        "func": "// Rev 1. Richard Huish 2023\n// Designed for Home Assistant automatic MQTT Discovery\n// https://www.home-assistant.io/integrations/mqtt/#mqtt-discovery\n\n// Change this to match the IP of your Raspberry Pi with ENER314-RT, used in Home Assistant for proving user with hyperlink.\nvar CONFIGURATION_VAR = \"http://192.168.10.35:1880/\";\n\nvar MODEL_NAME = \"eTRV (MIHO013)\";\nvar SHARED_NAME_PREFIX = \"Energenie \";\n// var IDENTIFIER_NAME_PREFIX = \"Energenie MQTT Gateway\";\nvar IDENTIFIERS_PREFIX = \"energenie_mqtt_gateway_\";\n\n\nvar MANUFACTURER_NAME = \"Energenie (via MQTT Raspberry Pi with ENER314-RT)\";\nvar VIA_DEVICE_NAME = \"MQTT Raspberry Pi with ENER314-RT\";\nvar UNIQUE_ID_SUFFIX = \"_energenie_mqtt\";\nvar EXPIRE_AFTER = \"400\"; // eTRV reports its temperature at the SET_REPORTING_INTERVAL (default 5 minutes)\nvar STATE_TOPIC = \"energenie_gateway/energeniemqtt_\" + msg.payload.deviceId + \"/state\";\n\n// Code reuse to save typing it out for each config.\nvar AVAILABILITY = [\n    {\n        topic: \"energenie_gateway/bridge/state\",\n        payload_available: \"online\",\n        payload_not_available: \"offline\"\n    }\n];\nvar DEVICE = {\n    name: msg.payload.deviceId,\n    identifiers: IDENTIFIERS_PREFIX + msg.payload.deviceId,\n    configuration_url: CONFIGURATION_VAR,\n    manufacturer: MANUFACTURER_NAME,\n    model: MODEL_NAME,\n    via_device: VIA_DEVICE_NAME\n};\n\n// Control and eTRV\nvar config1 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        // entity_category: \"none\",\n        // expire_after: EXPIRE_AFTER, // never expire\n        // retain: true,\n        name: msg.payload.deviceId + \" Radiator\",\n        unique_id: msg.payload.deviceId + \"_trv\",\n        temperature_unit: \"C\",\n\n        //Limit the climate modes to just heat (no fan, cool, etc)\n        // If this would ever chnage then the forced \"heat\" mode in the pre-node would need to be removed.\n        // Could add an off mode, which closes the valve. But this is not how energenie did it on their app.\n        // modes: [\"off\",\"heat\"],\n        // modes: [\"heat\"],\n        \n        modes: \"heat\",\n        mode_state_topic: STATE_TOPIC,\n        mode_state_template: \"{{ value_json.mode }}\", // Fake mode manually added\n\n        // The MQTT topic on which to listen for the current temperature. (int) NOTE: The VALVE_STATE must be set to 'Auto' for this to work.\n        current_temperature_topic: STATE_TOPIC,\n        current_temperature_template: \"{{ value_json.TEMPERATURE }}\",\n\n        // MQTT topic to subscribe for changes in the target temperature\n        temperature_state_topic: STATE_TOPIC,\n        temperature_state_template: \"{{ value_json.TARGET_TEMP }}\",\n\n        // The MQTT topic to publish commands to change the target temperature.\n        temperature_command_topic: \"energenie_gateway/energeniemqtt_\" + msg.payload.deviceId + \"/command\",\n        temperature_command_template: '{ \"command\":244, \"data\":{{value}}}', // command = 244 is for setting the target temperature, so I DON'T need to edit the passed data back from MQTT\n\n        // Temp Range as per manual\n        max_temp: 30,\n        min_temp: -4\n\n    },\n    topic: \"homeassistant/climate/energeniemqtt_\" + msg.payload.deviceId + \"/trv/config\"\n};\n\nvar config2 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        entity_category: \"diagnostic\",\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Battery Voltage\",\n        unique_id: msg.payload.deviceId + \"/battery_voltages\",\n        state_topic: STATE_TOPIC,\n        value_template: \"{{ value_json.VOLTAGE }}\",\n        unit_of_measurement: \"V\",\n        device_class: \"voltage\",\n        state_class: \"measurement\"\n    },\n    topic: \"homeassistant/sensor/energeniemqtt_\" + msg.payload.deviceId + \"/battery_voltages/config\"\n};\n\nvar config3 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        entity_category: \"diagnostic\",\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Battery Level\",\n        unique_id: msg.payload.deviceId + \"/battery_level\",\n        state_topic: STATE_TOPIC,\n        // (($volt - $low) / ($high - $low)) * 100;\n        value_template: \"{{ (((value_json.VOLTAGE - 2.2) / (3.2 - 2.2)) * 100) | round(0) }}\", // 3.1V nominally with new batteries \n\n        unit_of_measurement: \"%\",\n        device_class: \"battery\",\n        state_class: \"measurement\"\n    },\n    topic: \"homeassistant/sensor/energeniemqtt_\" + msg.payload.deviceId + \"/battery_level/config\"\n};\n\nvar config4 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        entity_category: \"diagnostic\",\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Valve Exercised Issues\",\n        unique_id: msg.payload.deviceId + \"/valve_exercised\",\n        state_topic: STATE_TOPIC,\n        value_template: \"{{ value_json.EXERCISE_VALVE }}\",\n        device_class: \"problem\",\n        // state_class: \"measurement\",\n        // icon: \"mdi:flash\",\n        payload_on: \"fail\", //payload format to match JSON from sensor\n        payload_off: \"success\" //payload format to match JSON from sensor\n    },\n    topic: \"homeassistant/binary_sensor/energeniemqtt_\" + msg.payload.deviceId + \"/valve_exercised/config\"\n\n};\n\nvar config5 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        entity_category: \"diagnostic\",\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Last Timestamp\",\n        unique_id: msg.payload.deviceId + \"/last_timestamp\",\n        state_topic: STATE_TOPIC,\n        value_template: \"{{ value_json.timestamp | timestamp_local}}\", // Timestamp of last update\n        device_class: \"TIMESTAMP\"\n    },\n    topic: \"homeassistant/sensor/energeniemqtt_\" + msg.payload.deviceId + \"/last_timestamp/config\"\n};\n\nvar config6 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        entity_category: \"diagnostic\",\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Voltage Timestamp\",\n        unique_id: msg.payload.deviceId + \"/voltage_timestamp\",\n        state_topic: STATE_TOPIC,\n        value_template: \"{{ value_json.VOLTAGE_TS | timestamp_local}}\", // Timestamp of last voltage update\n        // unit_of_measurement: \"N/A\",\n        device_class: \"timestamp\",\n        // state_class: \"none\"\n    },\n    topic: \"homeassistant/sensor/energeniemqtt_\" + msg.payload.deviceId + \"/voltage_timestamp/config\"\n};\n\nvar config7 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Valve Timestamp\",\n        unique_id: msg.payload.deviceId + \"/valve_timestamp\",\n        state_topic: STATE_TOPIC,\n        value_template: \"{{ value_json.VALVE_TS | timestamp_local}}\", // Timestamp of last valve update\n        // unit_of_measurement: \"N/A\",\n        device_class: \"timestamp\",\n        // state_class: \"none\",\n        entity_category: \"diagnostic\"\n    },\n    topic: \"homeassistant/sensor/energeniemqtt_\" + msg.payload.deviceId + \"/valve_timestamp/config\"\n};\n\nvar config8 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Diagnostics Timestamp\",\n        unique_id: msg.payload.deviceId + \"/diagnostics_timestamp\",\n        state_topic: STATE_TOPIC,\n        value_template: \"{{ value_json.DIAGNOSTICS_TS | timestamp_local }}\", // Timestamp of last diagnostics update\n        // unit_of_measurement: \"N/A\",\n        device_class: \"timestamp\",\n        // state_class: \"none\",\n        entity_category: \"diagnostic\"\n    },\n    topic: \"homeassistant/sensor/energeniemqtt_\" + msg.payload.deviceId + \"/diagnostics_timestamp/config\"\n};\n\nvar config9 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        retain: false,\n        name: msg.payload.deviceId + \" Identify\",\n        unique_id: msg.payload.deviceId + \"/identify\",\n        command_topic: \"energenie_gateway/energeniemqtt_\" + msg.payload.deviceId + \"/command\",\n        payload_press: '{\"command\":191}',\n        entity_category: \"config\",\n        icon: \"mdi:home-search\"\n    },\n    topic: \"homeassistant/button/energeniemqtt_\" + msg.payload.deviceId + \"/identify/config\"\n};\n\nvar config10 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        retain: false,\n        name: msg.payload.deviceId + \" Calibrate\",\n        unique_id: msg.payload.deviceId + \"/calibrate\",\n        command_topic: \"energenie_gateway/energeniemqtt_\" + msg.payload.deviceId + \"/command\",\n        payload_press: '{\"command\":163}',\n        device_class: \"restart\",\n        entity_category: \"config\"\n    },\n    topic: \"homeassistant/button/energeniemqtt_\" + msg.payload.deviceId + \"/calibrate/config\"\n};\n\nvar config11 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        retain: false,\n        name: msg.payload.deviceId + \" Request Diagnostics\",\n        unique_id: msg.payload.deviceId + \"/request_diagnostics\",\n        command_topic: \"energenie_gateway/energeniemqtt_\" + msg.payload.deviceId + \"/command\",\n        payload_press: '{\"command\":166}',\n        device_class: \"restart\",\n        entity_category: \"config\",\n        icon: \"mdi:doctor\" \n    },\n    topic: \"homeassistant/button/energeniemqtt_\" + msg.payload.deviceId + \"/request_diagnostics/config\"\n};\n\n\nvar config12 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        retain: false,\n        name: msg.payload.deviceId + \" Request Voltage\",\n        unique_id: msg.payload.deviceId + \"/request_voltage\",\n        command_topic: \"energenie_gateway/energeniemqtt_\" + msg.payload.deviceId + \"/command\",\n        payload_press: '{\"command\":226}',\n        device_class: \"restart\",\n        entity_category: \"config\",\n        icon: \"mdi:flash-triangle\" \n    },\n    topic: \"homeassistant/button/energeniemqtt_\" + msg.payload.deviceId + \"/request_voltage/config\"\n};\n\nvar config13 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        retain: false, \n        name: msg.payload.deviceId + \" Valve State Controls\",\n        unique_id: msg.payload.deviceId + \"/valve_state_controls\",\n        command_topic: \"energenie_gateway/energeniemqtt_\" + msg.payload.deviceId + \"/command\",\n        // state_topic: STATE_TOPIC, //Cant get this to work\n        // value_template: \"{{ value_json.VALVE_STATE }}\", //Cant get this to work, turns out VALVE_STATE is not returned by the valve, so we have to remember what we last set it too!\n        options: [\"Open\", \"Closed\", \"Automatic\"],\n        entity_category: \"config\"\n        // payload_press: '{\"command\":226}',\n        // device_class: \"restart\",\n        // entity_category: \"config\",\n        // icon: \"mdi:flash-triangle\"\n    },\n    topic: \"homeassistant/select/energeniemqtt_\" + msg.payload.deviceId + \"/valve_state_contols/config\"\n};\n\nvar config14 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: false,\n        name: msg.payload.deviceId + \" Low Power Mode\",\n        unique_id: msg.payload.deviceId + \"/low_power_mode\",\n        state_topic: STATE_TOPIC,\n        optimistic: false,\n        command_topic: \"energenie_gateway/energeniemqtt_\" + msg.payload.deviceId + \"/command\",\n        value_template: \"{{value_json.LOW_POWER_MODE}}\",\n        device_class: \"switch\",\n        state_on: \"True\", //payload format to match JSON from sensor\n        state_off: \"False\", //payload format to match JSON from sensor\n        payload_on: '{ \"command\":164, \"data\":1 }',\n        payload_off: '{ \"command\":164, \"data\":0 }',\n        entity_category: \"config\",\n        icon: \"mdi:sprout\"\n    },\n    topic: \"homeassistant/switch/energeniemqtt_\" + msg.payload.deviceId + \"/low_power_mode/config\"\n\n};\n\nvar config15 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Low Power Mode State\",\n        unique_id: msg.payload.deviceId + \"/low_power_mode_state\",\n        state_topic: STATE_TOPIC,\n        value_template: \"{{ value_json.LOW_POWER_MODE }}\",\n        // device_class: \"problem\",\n        // state_class: \"measurement\",\n        icon: \"mdi:sprout\",\n        entity_category: \"diagnostic\",\n        payload_on: \"True\", //payload format to match JSON from sensor\n        payload_off: \"False\", //payload format to match JSON from sensor\n    },\n    topic: \"homeassistant/binary_sensor/energeniemqtt_\" + msg.payload.deviceId + \"/low_power_mode_state/config\"\n};\n\nvar config16 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Errors\",\n        unique_id: msg.payload.deviceId + \"/errors\",\n        state_topic: STATE_TOPIC,\n        value_template: \"{{ value_json.ERRORS }}\",\n        // device_class: \"problem\",\n        // state_class: \"measurement\",\n        // icon: \"mdi:sprout\",\n        entity_category: \"diagnostic\"\n    },\n    topic: \"homeassistant/sensor/energeniemqtt_\" + msg.payload.deviceId + \"/errors/config\"\n};\n\nvar config17 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Error Text\",\n        unique_id: msg.payload.deviceId + \"/error_text\",\n        state_topic: STATE_TOPIC,\n        value_template: \"{{ value_json.ERROR_TEXT }}\",\n        entity_category: \"diagnostic\"\n        // payload_press: '{\"command\":226}',\n        // device_class: \"restart\",\n        // entity_category: \"config\",\n        // icon: \"mdi:flash-triangle\"\n    },\n    topic: \"homeassistant/sensor/energeniemqtt_\" + msg.payload.deviceId + \"/error_text/config\"\n};\n\n\nvar config18 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: false,\n        name: msg.payload.deviceId + \" Reporting Interval\",\n        unique_id: msg.payload.deviceId + \"/reporting_interval\",\n        command_topic: \"energenie_gateway/energeniemqtt_\" + msg.payload.deviceId + \"/command\",\n        // state_topic: STATE_TOPIC, // Valve never returns this value, so you have to work optimistically.\n        min: 300,\n        max: 3600,\n        unit_of_measurement: \"s\",\n        command_template: '{ \"command\":210, \"data\":{{value}}}',\n        // device_class: \"restart\",\n        entity_category: \"config\",\n        icon: \"mdi:timer-edit-outline\"\n    },\n    topic: \"homeassistant/number/energeniemqtt_\" + msg.payload.deviceId + \"/set_reporting_interval/config\"\n};\n\nreturn [config1, config2, config3, config4, config5, config6, config7, config8, config9, config10, config11, config12, config13, config14, config15, config16, config17, config18]; \n\n\n// This one does not work!\n// turns out VALVE_STATE is not returned by the valve, so we have to remember what we last set it too!\n// var config14 = {\n//     payload: {\n//         // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n//         availability: AVAILABILITY,\n//         device: DEVICE,\n//         // expire_after: EXPIRE_AFTER, // never expire\n//         retain: true,\n//         name: msg.payload.deviceId + \" Valve State Info\",\n//         unique_id: msg.payload.deviceId + \"/valve_state_info\",\n//         state_topic: STATE_TOPIC,\n//         value_template: \"{{ value_json.VALVE_STATE }}\",\n//         // unit_of_measurement: \"N/A\",\n//         // device_class: \"none\",\n//         // state_class: \"none\",\n//         entity_category: \"diagnostic\"\n//         // icon: \"mdi:current-dc\"\n//     },\n//     topic: \"homeassistant/sensor/energeniemqtt_\" + msg.payload.deviceId + \"/valve_state_info/config\"\n// };\n\n\n// // Need to get working: https://www.home-assistant.io/integrations/device_trigger.mqtt/\n// var config10 = {\n//     payload: {\n//         // availability_mode: \"all\",\n//         availability: [\n//             {\n//                 topic: \"energenie_gateway/bridge/state\",\n//                 payload_available: \"online\",\n//                 payload_not_available: \"offline\"\n//             }\n//         ],\n//         device: {\n//             name: msg.payload.deviceId,\n//             identifiers: IDENTIFIERS_PREFIX + msg.payload.deviceId,\n//             configuration_url: CONFIGURATION_VAR,\n//             manufacturer: MANUFACTURER_NAME,\n//             model: MODEL_NAME,\n//             via_device: VIA_DEVICE_NAME\n//         },\n// //         // entity_category: \"none\",\n//         // expire_after: EXPIRE_AFTER, // never expire\n//         // retain: false,\n//         // name: msg.payload.deviceId + \" Identify\",\n//         // unique_id: msg.payload.deviceId + \"/identify\",\n//         // state_topic: STATE_TOPIC,\n//         // value_template: \"{{ value_json.EXERCISE_VALVE}}\",\n//         // entity_category: \"config\",\n//         // device_class: \"None\"\n//         // // state_class: \"measurement\",\n//         // // icon: \"mdi:flash\"\n//         automation_type: \n\n\n//     },\n//     topic: \"homeassistant/device_automation/energeniemqtt_\" + msg.payload.deviceId + \"/id_button/config\"\n\n// };",
+        "func": "// Rev 1. Richard Huish 2023\n// Designed for Home Assistant automatic MQTT Discovery\n// https://www.home-assistant.io/integrations/mqtt/#mqtt-discovery\n\n// Change this to match the IP of your Raspberry Pi with ENER314-RT, used in Home Assistant for proving user with hyperlink.\nvar CONFIGURATION_VAR = \"http://192.168.10.35:1880/\";\n\nvar MODEL_NAME = \"eTRV (MIHO013)\";\nvar SHARED_NAME_PREFIX = \"Energenie \";\n// var IDENTIFIER_NAME_PREFIX = \"Energenie MQTT Gateway\";\nvar IDENTIFIERS_PREFIX = \"energenie_mqtt_gateway_\";\n\n\nvar MANUFACTURER_NAME = \"Energenie (via MQTT Raspberry Pi with ENER314-RT)\";\nvar VIA_DEVICE_NAME = \"MQTT Raspberry Pi with ENER314-RT\";\nvar UNIQUE_ID_SUFFIX = \"_energenie_mqtt\";\nvar EXPIRE_AFTER = \"400\"; // eTRV reports its temperature at the SET_REPORTING_INTERVAL (default 5 minutes)\nvar STATE_TOPIC = \"energenie_gateway/energeniemqtt_\" + msg.payload.deviceId + \"/state\";\n\n// Code reuse to save typing it out for each config.\nvar AVAILABILITY = [\n    {\n        topic: \"energenie_gateway/bridge/state\",\n        payload_available: \"online\",\n        payload_not_available: \"offline\"\n    }\n];\nvar DEVICE = {\n    name: msg.payload.deviceId,\n    identifiers: IDENTIFIERS_PREFIX + msg.payload.deviceId,\n    configuration_url: CONFIGURATION_VAR,\n    manufacturer: MANUFACTURER_NAME,\n    model: MODEL_NAME,\n    via_device: VIA_DEVICE_NAME\n};\n\n// Control and eTRV\nvar config1 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        // entity_category: \"none\",\n        // expire_after: EXPIRE_AFTER, // never expire\n        // retain: true,\n        name: msg.payload.deviceId + \" Radiator\",\n        unique_id: msg.payload.deviceId + \"_trv\",\n        temperature_unit: \"C\",\n\n        //Limit the climate modes to just heat (no fan, cool, etc)\n        // If this would ever chnage then the forced \"heat\" mode in the pre-node would need to be removed.\n        // Could add an off mode, which closes the valve. But this is not how energenie did it on their app.\n        // modes: [\"off\",\"heat\"],\n        // modes: [\"heat\"],\n        \n        modes: \"heat\",\n        mode_state_topic: STATE_TOPIC,\n        mode_state_template: \"{{ value_json.mode }}\", // Fake mode manually added\n        optimistic: \"true\", // Enforce optimistic mode, to hide the 5 min delay for setpoint command delays from the frontend  \n        temp_step: \"0.5\", // Step size for temperature set point.\n        \n        // The MQTT topic on which to listen for the current temperature. (int) NOTE: The VALVE_STATE must be set to 'Auto' for this to work.\n        current_temperature_topic: STATE_TOPIC,\n        current_temperature_template: \"{{ value_json.TEMPERATURE }}\",\n\n        // MQTT topic to subscribe for changes in the target temperature\n        temperature_state_topic: STATE_TOPIC,\n        temperature_state_template: \"{{ value_json.TARGET_TEMP }}\",\n\n        // The MQTT topic to publish commands to change the target temperature.\n        temperature_command_topic: \"energenie_gateway/energeniemqtt_\" + msg.payload.deviceId + \"/set\",\n        temperature_command_template: '{ \"command\":244, \"data\":{{value}} }', // command = 244 is for setting the target temperature, so I DON'T need to edit the passed data back from MQTT\n\n        // Temp Range as per manual\n        max_temp: 30,\n        min_temp: -4\n\n    },\n    topic: \"homeassistant/climate/energeniemqtt_\" + msg.payload.deviceId + \"/trv/config\"\n};\n\nvar config2 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        entity_category: \"diagnostic\",\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Battery Voltage\",\n        unique_id: msg.payload.deviceId + \"/battery_voltages\",\n        state_topic: STATE_TOPIC,\n        value_template: \"{{ value_json.VOLTAGE }}\",\n        unit_of_measurement: \"V\",\n        device_class: \"voltage\",\n        state_class: \"measurement\"\n    },\n    topic: \"homeassistant/sensor/energeniemqtt_\" + msg.payload.deviceId + \"/battery_voltages/config\"\n};\n\nvar config3 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        entity_category: \"diagnostic\",\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Battery Level\",\n        unique_id: msg.payload.deviceId + \"/battery_level\",\n        state_topic: STATE_TOPIC,\n        // (($volt - $low) / ($high - $low)) * 100;\n        value_template: \"{{ (((value_json.VOLTAGE - 2.2) / (3.3 - 2.2)) * 100) | round(0) }}\", // 3.3V nominally with new batteries \n\n        unit_of_measurement: \"%\",\n        device_class: \"battery\",\n        state_class: \"measurement\"\n    },\n    topic: \"homeassistant/sensor/energeniemqtt_\" + msg.payload.deviceId + \"/battery_level/config\"\n};\n\nvar config4 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        entity_category: \"diagnostic\",\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Valve Exercised Issues\",\n        unique_id: msg.payload.deviceId + \"/valve_exercised\",\n        state_topic: STATE_TOPIC,\n        value_template: \"{{ value_json.EXERCISE_VALVE }}\",\n        device_class: \"problem\",\n        // state_class: \"measurement\",\n        // icon: \"mdi:flash\",\n        payload_on: \"fail\", //payload format to match JSON from sensor\n        payload_off: \"success\" //payload format to match JSON from sensor\n    },\n    topic: \"homeassistant/binary_sensor/energeniemqtt_\" + msg.payload.deviceId + \"/valve_exercised/config\"\n\n};\n\nvar config5 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        entity_category: \"diagnostic\",\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Last Timestamp\",\n        unique_id: msg.payload.deviceId + \"/last_timestamp\",\n        state_topic: STATE_TOPIC,\n        value_template: \"{{ value_json.timestamp | timestamp_local}}\", // Timestamp of last update\n        device_class: \"TIMESTAMP\"\n    },\n    topic: \"homeassistant/sensor/energeniemqtt_\" + msg.payload.deviceId + \"/last_timestamp/config\"\n};\n\nvar config6 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        entity_category: \"diagnostic\",\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Voltage Timestamp\",\n        unique_id: msg.payload.deviceId + \"/voltage_timestamp\",\n        state_topic: STATE_TOPIC,\n        value_template: \"{{ value_json.VOLTAGE_TS | timestamp_local}}\", // Timestamp of last voltage update\n        // unit_of_measurement: \"N/A\",\n        device_class: \"timestamp\",\n        // state_class: \"none\"\n    },\n    topic: \"homeassistant/sensor/energeniemqtt_\" + msg.payload.deviceId + \"/voltage_timestamp/config\"\n};\n\nvar config7 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Valve Timestamp\",\n        unique_id: msg.payload.deviceId + \"/valve_timestamp\",\n        state_topic: STATE_TOPIC,\n        value_template: \"{{ value_json.VALVE_TS | timestamp_local}}\", // Timestamp of last valve update\n        // unit_of_measurement: \"N/A\",\n        device_class: \"timestamp\",\n        // state_class: \"none\",\n        entity_category: \"diagnostic\"\n    },\n    topic: \"homeassistant/sensor/energeniemqtt_\" + msg.payload.deviceId + \"/valve_timestamp/config\"\n};\n\nvar config8 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Diagnostics Timestamp\",\n        unique_id: msg.payload.deviceId + \"/diagnostics_timestamp\",\n        state_topic: STATE_TOPIC,\n        value_template: \"{{ value_json.DIAGNOSTICS_TS | timestamp_local }}\", // Timestamp of last diagnostics update\n        // unit_of_measurement: \"N/A\",\n        device_class: \"timestamp\",\n        // state_class: \"none\",\n        entity_category: \"diagnostic\"\n    },\n    topic: \"homeassistant/sensor/energeniemqtt_\" + msg.payload.deviceId + \"/diagnostics_timestamp/config\"\n};\n\nvar config9 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        retain: false,\n        name: msg.payload.deviceId + \" Identify\",\n        unique_id: msg.payload.deviceId + \"/identify\",\n        command_topic: \"energenie_gateway/energeniemqtt_\" + msg.payload.deviceId + \"/set\",\n        payload_press: '{\"command\":191}',\n        entity_category: \"config\",\n        icon: \"mdi:home-search\"\n    },\n    topic: \"homeassistant/button/energeniemqtt_\" + msg.payload.deviceId + \"/identify/config\"\n};\n\nvar config10 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        retain: false,\n        name: msg.payload.deviceId + \" Calibrate\",\n        unique_id: msg.payload.deviceId + \"/calibrate\",\n        command_topic: \"energenie_gateway/energeniemqtt_\" + msg.payload.deviceId + \"/set\",\n        payload_press: '{\"command\":163}',\n        device_class: \"restart\",\n        entity_category: \"config\"\n    },\n    topic: \"homeassistant/button/energeniemqtt_\" + msg.payload.deviceId + \"/calibrate/config\"\n};\n\nvar config11 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        retain: false,\n        name: msg.payload.deviceId + \" Request Diagnostics\",\n        unique_id: msg.payload.deviceId + \"/request_diagnostics\",\n        command_topic: \"energenie_gateway/energeniemqtt_\" + msg.payload.deviceId + \"/set\",\n        payload_press: '{\"command\":166}',\n        device_class: \"restart\",\n        entity_category: \"config\",\n        icon: \"mdi:doctor\" \n    },\n    topic: \"homeassistant/button/energeniemqtt_\" + msg.payload.deviceId + \"/request_diagnostics/config\"\n};\n\n\nvar config12 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        retain: false,\n        name: msg.payload.deviceId + \" Request Voltage\",\n        unique_id: msg.payload.deviceId + \"/request_voltage\",\n        command_topic: \"energenie_gateway/energeniemqtt_\" + msg.payload.deviceId + \"/set\",\n        payload_press: '{\"command\":226}',\n        device_class: \"restart\",\n        entity_category: \"config\",\n        icon: \"mdi:flash-triangle\" \n    },\n    topic: \"homeassistant/button/energeniemqtt_\" + msg.payload.deviceId + \"/request_voltage/config\"\n};\n\nvar config13 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        retain: false, \n        name: msg.payload.deviceId + \" Valve State Controls\",\n        unique_id: msg.payload.deviceId + \"/valve_state_controls\",\n        command_topic: \"energenie_gateway/energeniemqtt_\" + msg.payload.deviceId + \"/set\",\n        // state_topic: STATE_TOPIC, //Cant get this to work\n        // value_template: \"{{ value_json.VALVE_STATE }}\", //Cant get this to work, turns out VALVE_STATE is not returned by the valve, so we have to remember what we last set it too!\n        options: [\"Open\", \"Closed\", \"Automatic\"],\n        entity_category: \"config\"\n        // payload_press: '{\"command\":226}',\n        // device_class: \"restart\",\n        // entity_category: \"config\",\n        // icon: \"mdi:flash-triangle\"\n    },\n    topic: \"homeassistant/select/energeniemqtt_\" + msg.payload.deviceId + \"/valve_state_contols/config\"\n};\n\nvar config14 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: false,\n        name: msg.payload.deviceId + \" Low Power Mode\",\n        unique_id: msg.payload.deviceId + \"/low_power_mode\",\n        state_topic: STATE_TOPIC,\n        optimistic: false,\n        command_topic: \"energenie_gateway/energeniemqtt_\" + msg.payload.deviceId + \"/command\",\n        value_template: \"{{value_json.LOW_POWER_MODE}}\",\n        device_class: \"switch\",\n        state_on: \"True\", //payload format to match JSON from sensor\n        state_off: \"False\", //payload format to match JSON from sensor\n        payload_on: '{ \"command\":164, \"data\":1 }',\n        payload_off: '{ \"command\":164, \"data\":0 }',\n        entity_category: \"config\",\n        icon: \"mdi:sprout\"\n    },\n    topic: \"homeassistant/switch/energeniemqtt_\" + msg.payload.deviceId + \"/low_power_mode/config\"\n\n};\n\nvar config15 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Low Power Mode State\",\n        unique_id: msg.payload.deviceId + \"/low_power_mode_state\",\n        state_topic: STATE_TOPIC,\n        value_template: \"{{ value_json.LOW_POWER_MODE }}\",\n        // device_class: \"problem\",\n        // state_class: \"measurement\",\n        icon: \"mdi:sprout\",\n        entity_category: \"diagnostic\",\n        payload_on: \"True\", //payload format to match JSON from sensor\n        payload_off: \"False\", //payload format to match JSON from sensor\n    },\n    topic: \"homeassistant/binary_sensor/energeniemqtt_\" + msg.payload.deviceId + \"/low_power_mode_state/config\"\n};\n\nvar config16 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Errors\",\n        unique_id: msg.payload.deviceId + \"/errors\",\n        state_topic: STATE_TOPIC,\n        value_template: \"{{ value_json.ERRORS }}\",\n        // device_class: \"problem\",\n        // state_class: \"measurement\",\n        // icon: \"mdi:sprout\",\n        entity_category: \"diagnostic\"\n    },\n    topic: \"homeassistant/sensor/energeniemqtt_\" + msg.payload.deviceId + \"/errors/config\"\n};\n\nvar config17 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: true,\n        name: msg.payload.deviceId + \" Error Text\",\n        unique_id: msg.payload.deviceId + \"/error_text\",\n        state_topic: STATE_TOPIC,\n        value_template: \"{{ value_json.ERROR_TEXT }}\",\n        entity_category: \"diagnostic\"\n        // payload_press: '{\"command\":226}',\n        // device_class: \"restart\",\n        // entity_category: \"config\",\n        // icon: \"mdi:flash-triangle\"\n    },\n    topic: \"homeassistant/sensor/energeniemqtt_\" + msg.payload.deviceId + \"/error_text/config\"\n};\n\n\nvar config18 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        // expire_after: EXPIRE_AFTER, // never expire\n        retain: false,\n        name: msg.payload.deviceId + \" Reporting Interval\",\n        unique_id: msg.payload.deviceId + \"/reporting_interval\",\n        command_topic: \"energenie_gateway/energeniemqtt_\" + msg.payload.deviceId + \"/set\",\n        // state_topic: STATE_TOPIC, // Valve never returns this value, so you have to work optimistically.\n        min: 300,\n        max: 3600,\n        unit_of_measurement: \"s\",\n        command_template: '{ \"command\":210, \"data\":{{value}}}',\n        // device_class: \"restart\",\n        entity_category: \"config\",\n        icon: \"mdi:timer-edit-outline\"\n    },\n    topic: \"homeassistant/number/energeniemqtt_\" + msg.payload.deviceId + \"/set_reporting_interval/config\"\n};\n\nreturn [config1, config2, config3, config4, config5, config6, config7, config8, config9, config10, config11, config12, config13, config14, config15, config16, config17, config18]; \n\n\n// This one does not work!\n// turns out VALVE_STATE is not returned by the valve, so we have to remember what we last set it too!\n// var config14 = {\n//     payload: {\n//         // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n//         availability: AVAILABILITY,\n//         device: DEVICE,\n//         // expire_after: EXPIRE_AFTER, // never expire\n//         retain: true,\n//         name: msg.payload.deviceId + \" Valve State Info\",\n//         unique_id: msg.payload.deviceId + \"/valve_state_info\",\n//         state_topic: STATE_TOPIC,\n//         value_template: \"{{ value_json.VALVE_STATE }}\",\n//         // unit_of_measurement: \"N/A\",\n//         // device_class: \"none\",\n//         // state_class: \"none\",\n//         entity_category: \"diagnostic\"\n//         // icon: \"mdi:current-dc\"\n//     },\n//     topic: \"homeassistant/sensor/energeniemqtt_\" + msg.payload.deviceId + \"/valve_state_info/config\"\n// };\n\n\n// // Need to get working: https://www.home-assistant.io/integrations/device_trigger.mqtt/\n// var config10 = {\n//     payload: {\n//         // availability_mode: \"all\",\n//         availability: [\n//             {\n//                 topic: \"energenie_gateway/bridge/state\",\n//                 payload_available: \"online\",\n//                 payload_not_available: \"offline\"\n//             }\n//         ],\n//         device: {\n//             name: msg.payload.deviceId,\n//             identifiers: IDENTIFIERS_PREFIX + msg.payload.deviceId,\n//             configuration_url: CONFIGURATION_VAR,\n//             manufacturer: MANUFACTURER_NAME,\n//             model: MODEL_NAME,\n//             via_device: VIA_DEVICE_NAME\n//         },\n// //         // entity_category: \"none\",\n//         // expire_after: EXPIRE_AFTER, // never expire\n//         // retain: false,\n//         // name: msg.payload.deviceId + \" Identify\",\n//         // unique_id: msg.payload.deviceId + \"/identify\",\n//         // state_topic: STATE_TOPIC,\n//         // value_template: \"{{ value_json.EXERCISE_VALVE}}\",\n//         // entity_category: \"config\",\n//         // device_class: \"None\"\n//         // // state_class: \"measurement\",\n//         // // icon: \"mdi:flash\"\n//         automation_type: \n\n\n//     },\n//     topic: \"homeassistant/device_automation/energeniemqtt_\" + msg.payload.deviceId + \"/id_button/config\"\n\n// };",
         "outputs": 18,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 440,
-        "y": 220,
+        "x": 700,
+        "y": 200,
         "wires": [
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            [],
-            []
+            [
+                "90853accac1ab854"
+            ],
+            [
+                "90853accac1ab854"
+            ],
+            [
+                "90853accac1ab854"
+            ],
+            [
+                "90853accac1ab854"
+            ],
+            [
+                "90853accac1ab854"
+            ],
+            [
+                "90853accac1ab854"
+            ],
+            [
+                "90853accac1ab854"
+            ],
+            [
+                "90853accac1ab854"
+            ],
+            [
+                "90853accac1ab854"
+            ],
+            [
+                "90853accac1ab854"
+            ],
+            [
+                "90853accac1ab854"
+            ],
+            [
+                "90853accac1ab854"
+            ],
+            [
+                "90853accac1ab854"
+            ],
+            [
+                "90853accac1ab854"
+            ],
+            [
+                "90853accac1ab854"
+            ],
+            [
+                "90853accac1ab854"
+            ],
+            [
+                "90853accac1ab854"
+            ],
+            [
+                "90853accac1ab854"
+            ]
         ]
     },
     {
@@ -1006,7 +1134,7 @@
         "drop": false,
         "allowrate": false,
         "outputs": 1,
-        "x": 370,
+        "x": 550,
         "y": 440,
         "wires": [
             [
@@ -1027,7 +1155,7 @@
         "targetType": "msg",
         "statusVal": "payload",
         "statusType": "auto",
-        "x": 420,
+        "x": 600,
         "y": 20,
         "wires": []
     },
@@ -1042,7 +1170,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 200,
+        "x": 380,
         "y": 120,
         "wires": [
             [
@@ -1063,10 +1191,60 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 550,
+        "x": 730,
         "y": 440,
         "wires": [
+            [
+                "90853accac1ab854"
+            ]
+        ]
+    },
+    {
+        "id": "c05c3205643928c1",
+        "type": "delay",
+        "z": "cdb62d5ce7ac8e79",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "250",
+        "timeoutUnits": "milliseconds",
+        "rate": "3",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 1150,
+        "y": 240,
+        "wires": [
             []
+        ]
+    },
+    {
+        "id": "c9e1dddbb741fba5",
+        "type": "delay",
+        "z": "cdb62d5ce7ac8e79",
+        "name": "",
+        "pauseType": "rate",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 190,
+        "y": 120,
+        "wires": [
+            [
+                "1b26d96dfd7c0a9d"
+            ]
         ]
     },
     {
@@ -1089,7 +1267,7 @@
         "switchNum": 1,
         "board": "88fbf5a17def056c",
         "x": 690,
-        "y": 520,
+        "y": 1140,
         "wires": [
             []
         ],
@@ -1114,7 +1292,7 @@
         "payload": "true",
         "payloadType": "bool",
         "x": 390,
-        "y": 480,
+        "y": 1100,
         "wires": [
             [
                 "db52f7a86ff3fedd"
@@ -1140,7 +1318,7 @@
         "payload": "false",
         "payloadType": "bool",
         "x": 390,
-        "y": 520,
+        "y": 1140,
         "wires": [
             [
                 "db52f7a86ff3fedd"
@@ -1157,7 +1335,7 @@
         "switchNum": "2",
         "board": "88fbf5a17def056c",
         "x": 690,
-        "y": 600,
+        "y": 1220,
         "wires": [
             []
         ],
@@ -1182,7 +1360,7 @@
         "payload": "true",
         "payloadType": "bool",
         "x": 390,
-        "y": 560,
+        "y": 1180,
         "wires": [
             [
                 "c46934dffc3bcb2d"
@@ -1208,7 +1386,7 @@
         "payload": "false",
         "payloadType": "bool",
         "x": 390,
-        "y": 600,
+        "y": 1220,
         "wires": [
             [
                 "c46934dffc3bcb2d"
@@ -1225,7 +1403,7 @@
         "switchNum": 1,
         "board": "88fbf5a17def056c",
         "x": 640,
-        "y": 740,
+        "y": 1360,
         "wires": [
             []
         ],
@@ -1250,7 +1428,7 @@
         "payload": "true",
         "payloadType": "bool",
         "x": 390,
-        "y": 700,
+        "y": 1320,
         "wires": [
             [
                 "4398775347ed8679"
@@ -1276,7 +1454,7 @@
         "payload": "false",
         "payloadType": "bool",
         "x": 390,
-        "y": 740,
+        "y": 1360,
         "wires": [
             [
                 "4398775347ed8679"
@@ -1296,7 +1474,7 @@
         "finalize": "",
         "libs": [],
         "x": 1440,
-        "y": 520,
+        "y": 1140,
         "wires": [
             [],
             [],
@@ -1317,7 +1495,7 @@
         "finalize": "",
         "libs": [],
         "x": 1390,
-        "y": 640,
+        "y": 1260,
         "wires": [
             []
         ]
@@ -1335,7 +1513,7 @@
         "finalize": "",
         "libs": [],
         "x": 1410,
-        "y": 600,
+        "y": 1220,
         "wires": [
             []
         ]
@@ -1353,7 +1531,7 @@
         "finalize": "",
         "libs": [],
         "x": 1390,
-        "y": 680,
+        "y": 1300,
         "wires": [
             []
         ]
@@ -1377,7 +1555,7 @@
         "allowrate": false,
         "outputs": 1,
         "x": 1170,
-        "y": 600,
+        "y": 1220,
         "wires": [
             [
                 "1f14589732fae5c6",
@@ -1404,7 +1582,7 @@
         "allowrate": false,
         "outputs": 1,
         "x": 1170,
-        "y": 520,
+        "y": 1140,
         "wires": [
             [
                 "d989ab87daa5443f",
@@ -1431,7 +1609,7 @@
         "allowrate": false,
         "outputs": 1,
         "x": 1170,
-        "y": 640,
+        "y": 1260,
         "wires": [
             [
                 "e0f4df05ab1bef7e",
@@ -1458,7 +1636,7 @@
         "allowrate": false,
         "outputs": 1,
         "x": 1170,
-        "y": 680,
+        "y": 1300,
         "wires": [
             [
                 "3b7b181075c1ef3b"
@@ -1473,14 +1651,14 @@
         "name": "Double Gang MiHome Light (MIHO009)",
         "info": "",
         "x": 230,
-        "y": 380,
+        "y": 1000,
         "wires": []
     },
     {
         "id": "e3cf621895e62eef",
         "type": "inject",
         "z": "537eb81ac592d6ae",
-        "g": "616d9522544dbdb6",
+        "g": "bf9b9330f440c33a",
         "name": "Action",
         "props": [
             {
@@ -1494,7 +1672,7 @@
         "topic": "",
         "payload": "true",
         "payloadType": "bool",
-        "x": 150,
+        "x": 130,
         "y": 140,
         "wires": [
             [
@@ -1506,7 +1684,7 @@
         "id": "e0b4a5ede84fec43",
         "type": "inject",
         "z": "537eb81ac592d6ae",
-        "g": "616d9522544dbdb6",
+        "g": "bf9b9330f440c33a",
         "name": "Action",
         "props": [
             {
@@ -1520,7 +1698,7 @@
         "topic": "",
         "payload": "true",
         "payloadType": "bool",
-        "x": 150,
+        "x": 130,
         "y": 180,
         "wires": [
             [
@@ -1532,9 +1710,9 @@
         "id": "aa286eb049368e95",
         "type": "shutdown",
         "z": "537eb81ac592d6ae",
-        "g": "616d9522544dbdb6",
+        "g": "bf9b9330f440c33a",
         "name": "",
-        "x": 340,
+        "x": 440,
         "y": 140,
         "wires": []
     },
@@ -1542,9 +1720,9 @@
         "id": "eb64c277ce27959b",
         "type": "restart",
         "z": "537eb81ac592d6ae",
-        "g": "616d9522544dbdb6",
+        "g": "bf9b9330f440c33a",
         "name": "",
-        "x": 350,
+        "x": 450,
         "y": 180,
         "wires": []
     },
@@ -1552,10 +1730,10 @@
         "id": "3ba2b2ec9a663b9e",
         "type": "comment",
         "z": "537eb81ac592d6ae",
-        "g": "616d9522544dbdb6",
+        "g": "bf9b9330f440c33a",
         "name": "Pi Power Control",
         "info": "",
-        "x": 140,
+        "x": 120,
         "y": 100,
         "wires": []
     },
@@ -1567,7 +1745,421 @@
         "name": "Incomplete",
         "info": "",
         "x": 520,
-        "y": 400,
+        "y": 1020,
+        "wires": []
+    },
+    {
+        "id": "048759ea643eacfb",
+        "type": "mqtt out",
+        "z": "537eb81ac592d6ae",
+        "g": "75710a4188d28a86",
+        "name": "Publish MQTT Messages",
+        "topic": "",
+        "qos": "2",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "8d7ee635c95c5781",
+        "x": 1450,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "6a4a9705132f9175",
+        "type": "link in",
+        "z": "537eb81ac592d6ae",
+        "g": "75710a4188d28a86",
+        "name": "MQTT Publish",
+        "links": [
+            "805f901224d8a0c4",
+            "53b1e31e569b3b08",
+            "772af1e9a0321b31",
+            "3b91fab1361079d1"
+        ],
+        "x": 895,
+        "y": 200,
+        "wires": [
+            [
+                "5373ffc4598fc724"
+            ]
+        ],
+        "outputLabels": [
+            "MQTT Publish"
+        ],
+        "icon": "node-red/bridge-dash.svg"
+    },
+    {
+        "id": "88fa3c012b3a4d47",
+        "type": "comment",
+        "z": "537eb81ac592d6ae",
+        "g": "75710a4188d28a86",
+        "name": "MQTT Publish",
+        "info": "",
+        "x": 930,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "5373ffc4598fc724",
+        "type": "delay",
+        "z": "537eb81ac592d6ae",
+        "g": "75710a4188d28a86",
+        "name": "",
+        "pauseType": "rate",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "5",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 1030,
+        "y": 200,
+        "wires": [
+            [
+                "a381d93238425f22",
+                "c2152f26c8074e8f"
+            ]
+        ]
+    },
+    {
+        "id": "a381d93238425f22",
+        "type": "delay",
+        "z": "537eb81ac592d6ae",
+        "g": "75710a4188d28a86",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "50",
+        "timeoutUnits": "milliseconds",
+        "rate": "5",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 1230,
+        "y": 200,
+        "wires": [
+            [
+                "048759ea643eacfb"
+            ]
+        ]
+    },
+    {
+        "id": "cf0cdb1ed18f7ed7",
+        "type": "function",
+        "z": "537eb81ac592d6ae",
+        "g": "be8e8de1061deea7",
+        "name": "Create MQTT discovery messages",
+        "func": "// Rev 1. Richard Huish 2023\n// Designed for Home Assistant automatic MQTT Discovery\n// https://www.home-assistant.io/integrations/mqtt/#mqtt-discovery\n\n// Change this to match the IP of your Raspberry Pi with ENER314-RT, used in Home Assistant for proving user with hyperlink.\nvar CONFIGURATION_VAR = \"http://192.168.10.35:1880/\";\n\nvar MODEL_NAME = \"ENER314-RT\";\nvar SHARED_NAME_PREFIX = \"Energenie \";\n// var IDENTIFIER_NAME_PREFIX = \"Energenie MQTT Gateway\";\nvar IDENTIFIERS_PREFIX = \"energenie_mqtt_gateway_\";\n\n\nvar MANUFACTURER_NAME = \"Energenie (via MQTT Raspberry Pi with ENER314-RT)\";\nvar VIA_DEVICE_NAME = \"Raspberry Pi\";\nvar UNIQUE_ID_SUFFIX = \"_energenie_mqtt\";\nvar EXPIRE_AFTER = \"400\"; // eTRV reports its temperature at the SET_REPORTING_INTERVAL (default 5 minutes)\nvar STATE_TOPIC = \"energenie_gateway/energeniemqtt_\" + \"energenie_gateway\" + \"/state\";\n\n// Code reuse to save typing it out for each config.\nvar AVAILABILITY = [\n    {\n        topic: \"energenie_gateway/bridge/state\",\n        payload_available: \"online\",\n        payload_not_available: \"offline\"\n    }\n];\nvar DEVICE = {\n    name: \"Energenie Gateway\",\n    identifiers: IDENTIFIERS_PREFIX + \"energenie_gateway\",\n    configuration_url: CONFIGURATION_VAR,\n    manufacturer: MANUFACTURER_NAME,\n    model: MODEL_NAME,\n    via_device: VIA_DEVICE_NAME\n};\n\n\nvar config1 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        retain: false,\n        name: \"Energenie Gateway\" + \" Restart\",\n        unique_id: \"energenie_gateway_1\" + \"/restart\",\n        command_topic: \"energenie_gateway/energeniemqtt_\" + \"energenie_gateway_1\" + \"/set\",\n        payload_press: '{\"energenie_gateway\":\"reboot\"}',\n        device_class: \"restart\"\n        // entity_category: \"control\",\n        // icon: \"mdi:doctor\"\n    },\n    topic: \"homeassistant/button/energeniemqtt_\" + \"energenie_gateway_1\" + \"/restart/config\"\n};\nvar config2 = {\n    payload: {\n        // availability_mode: \"all\",  // Commented out as we are using only one topic at the moment.\n        availability: AVAILABILITY,\n        device: DEVICE,\n        retain: false,\n        name: \"Energenie Gateway\" + \" shutdown\",\n        unique_id: \"energenie_gateway_1\" + \"/shutdown\",\n        command_topic: \"energenie_gateway/energeniemqtt_\" + \"energenie_gateway_2\" + \"/set\",\n        payload_press: '{\"energenie_gateway\":\"shutdown\"}',\n        // entity_category: \"control\",\n        icon: \"mdi:power\"\n    },\n    topic: \"homeassistant/button/energeniemqtt_\" + \"energenie_gateway_2\" + \"/restart/config\"\n};\n\nreturn [config1, config2]; \n",
+        "outputs": 2,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1100,
+        "y": 540,
+        "wires": [
+            [
+                "502ccec7e8e38c72"
+            ],
+            [
+                "502ccec7e8e38c72"
+            ]
+        ]
+    },
+    {
+        "id": "1e708fdbdb9831a0",
+        "type": "delay",
+        "z": "537eb81ac592d6ae",
+        "g": "be8e8de1061deea7",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "600",
+        "timeoutUnits": "milliseconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 1030,
+        "y": 600,
+        "wires": [
+            [
+                "aa6d11838c4cf4bf"
+            ]
+        ]
+    },
+    {
+        "id": "aa6d11838c4cf4bf",
+        "type": "function",
+        "z": "537eb81ac592d6ae",
+        "g": "be8e8de1061deea7",
+        "name": "Publish to all",
+        "func": "msg.topic = \"energenie_gateway/energeniemqtt_\" + \"energenie_gateway\" + \"/state\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1190,
+        "y": 600,
+        "wires": [
+            [
+                "502ccec7e8e38c72"
+            ]
+        ]
+    },
+    {
+        "id": "502ccec7e8e38c72",
+        "type": "delay",
+        "z": "537eb81ac592d6ae",
+        "g": "be8e8de1061deea7",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "250",
+        "timeoutUnits": "milliseconds",
+        "rate": "3",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 1450,
+        "y": 560,
+        "wires": [
+            [
+                "3b91fab1361079d1"
+            ]
+        ]
+    },
+    {
+        "id": "3b91fab1361079d1",
+        "type": "link out",
+        "z": "537eb81ac592d6ae",
+        "g": "be8e8de1061deea7",
+        "name": "link out 19",
+        "mode": "link",
+        "links": [
+            "6a4a9705132f9175"
+        ],
+        "x": 1615,
+        "y": 560,
+        "wires": []
+    },
+    {
+        "id": "272889a66b307243",
+        "type": "delay",
+        "z": "537eb81ac592d6ae",
+        "g": "be8e8de1061deea7",
+        "name": "",
+        "pauseType": "rate",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "minute",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": true,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 830,
+        "y": 560,
+        "wires": [
+            [
+                "cf0cdb1ed18f7ed7",
+                "1e708fdbdb9831a0"
+            ]
+        ]
+    },
+    {
+        "id": "aa7d0fb3cf4ebfea",
+        "type": "switch",
+        "z": "537eb81ac592d6ae",
+        "g": "be8e8de1061deea7",
+        "name": "Select option",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "cont",
+                "v": "reboot",
+                "vt": "str"
+            },
+            {
+                "t": "cont",
+                "v": "shutdown",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 450,
+        "y": 560,
+        "wires": [
+            [
+                "e273f6d4c4b52b8e"
+            ],
+            [
+                "bcb7a46f0ad8832d"
+            ]
+        ]
+    },
+    {
+        "id": "18bab721cd21cbf2",
+        "type": "mqtt in",
+        "z": "537eb81ac592d6ae",
+        "g": "be8e8de1061deea7",
+        "name": "",
+        "topic": "energenie_gateway/+/set",
+        "qos": "2",
+        "datatype": "auto",
+        "broker": "8d7ee635c95c5781",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 170,
+        "y": 560,
+        "wires": [
+            [
+                "aa7d0fb3cf4ebfea"
+            ]
+        ]
+    },
+    {
+        "id": "c95eee0532754c73",
+        "type": "comment",
+        "z": "537eb81ac592d6ae",
+        "g": "be8e8de1061deea7",
+        "name": "USER EDIT: MQTT gateway",
+        "info": "",
+        "x": 180,
+        "y": 520,
+        "wires": []
+    },
+    {
+        "id": "c2152f26c8074e8f",
+        "type": "link out",
+        "z": "537eb81ac592d6ae",
+        "g": "75710a4188d28a86",
+        "name": "link out 20",
+        "mode": "link",
+        "links": [
+            "a9394215c6562fd7"
+        ],
+        "x": 1185,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "a9394215c6562fd7",
+        "type": "link in",
+        "z": "537eb81ac592d6ae",
+        "g": "be8e8de1061deea7",
+        "name": "link in 4",
+        "links": [
+            "c2152f26c8074e8f"
+        ],
+        "x": 725,
+        "y": 560,
+        "wires": [
+            [
+                "272889a66b307243"
+            ]
+        ]
+    },
+    {
+        "id": "bcb7a46f0ad8832d",
+        "type": "link out",
+        "z": "537eb81ac592d6ae",
+        "g": "be8e8de1061deea7",
+        "name": "link out 21",
+        "mode": "link",
+        "links": [
+            "b651e240251a63ec"
+        ],
+        "x": 555,
+        "y": 580,
+        "wires": []
+    },
+    {
+        "id": "b651e240251a63ec",
+        "type": "link in",
+        "z": "537eb81ac592d6ae",
+        "g": "bf9b9330f440c33a",
+        "name": "link in 5",
+        "links": [
+            "bcb7a46f0ad8832d"
+        ],
+        "x": 295,
+        "y": 120,
+        "wires": [
+            [
+                "aa286eb049368e95"
+            ]
+        ]
+    },
+    {
+        "id": "e273f6d4c4b52b8e",
+        "type": "link out",
+        "z": "537eb81ac592d6ae",
+        "g": "be8e8de1061deea7",
+        "name": "link out 22",
+        "mode": "link",
+        "links": [
+            "31b096bb11767739"
+        ],
+        "x": 555,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "31b096bb11767739",
+        "type": "link in",
+        "z": "537eb81ac592d6ae",
+        "g": "bf9b9330f440c33a",
+        "name": "link in 6",
+        "links": [
+            "e273f6d4c4b52b8e"
+        ],
+        "x": 295,
+        "y": 220,
+        "wires": [
+            [
+                "eb64c277ce27959b"
+            ]
+        ]
+    },
+    {
+        "id": "bbc63ae0ea19d2fe",
+        "type": "comment",
+        "z": "537eb81ac592d6ae",
+        "g": "be8e8de1061deea7",
+        "name": "Gateway",
+        "info": "",
+        "x": 120,
+        "y": 460,
         "wires": []
     },
     {
@@ -1765,7 +2357,7 @@
         "type": "openThings-trv",
         "z": "061b272d346ebd03",
         "name": "eTRV",
-        "device": "a438a26cd10184b3",
+        "device": "d774c54837acd05e",
         "board": "88fbf5a17def056c",
         "x": 1250,
         "y": 420,
@@ -1848,8 +2440,8 @@
         "checkall": "true",
         "repair": false,
         "outputs": 12,
-        "x": 520,
-        "y": 340,
+        "x": 510,
+        "y": 320,
         "wires": [
             [
                 "06437078cd06684c"
@@ -1903,8 +2495,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 440,
-        "y": 160,
+        "x": 430,
+        "y": 140,
         "wires": []
     },
     {
@@ -1913,7 +2505,7 @@
         "z": "061b272d346ebd03",
         "g": "fa73fab3d77d8daa",
         "name": "",
-        "topic": "energenie_gateway/+/command",
+        "topic": "energenie_gateway/+/set",
         "qos": "2",
         "datatype": "auto-detect",
         "broker": "8d7ee635c95c5781",
@@ -1921,8 +2513,8 @@
         "rap": true,
         "rh": 0,
         "inputs": 0,
-        "x": 170,
-        "y": 180,
+        "x": 140,
+        "y": 160,
         "wires": [
             [
                 "7d792a741cd70d6c",
@@ -1970,8 +2562,8 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 220,
-        "y": 340,
+        "x": 210,
+        "y": 320,
         "wires": [
             [
                 "a380876d88962b29"
@@ -1985,8 +2577,8 @@
         "g": "fa73fab3d77d8daa",
         "name": "Incoming MQTT \"COMMAND\" messages",
         "info": "",
-        "x": 200,
-        "y": 140,
+        "x": 190,
+        "y": 120,
         "wires": []
     },
     {
@@ -1996,8 +2588,8 @@
         "g": "fa73fab3d77d8daa",
         "name": "Switch select eTRV",
         "info": "",
-        "x": 470,
-        "y": 220,
+        "x": 460,
+        "y": 200,
         "wires": []
     },
     {
@@ -2007,8 +2599,8 @@
         "g": "fa73fab3d77d8daa",
         "name": "USER EDIT: MQTT gateway",
         "info": "",
-        "x": 160,
-        "y": 100,
+        "x": 150,
+        "y": 80,
         "wires": []
     },
     {
@@ -2018,27 +2610,8 @@
         "g": "fa73fab3d77d8daa",
         "name": "USER EDIT: Edit switch node and add new as needed",
         "info": "",
-        "x": 500,
-        "y": 100,
-        "wires": []
-    },
-    {
-        "id": "0e63b171b14873f1",
-        "type": "mqtt out",
-        "z": "061b272d346ebd03",
-        "g": "e72e588ff1c8ae83",
-        "name": "Publish MQTT Messages",
-        "topic": "",
-        "qos": "2",
-        "retain": "true",
-        "respTopic": "",
-        "contentType": "",
-        "userProps": "",
-        "correl": "",
-        "expiry": "",
-        "broker": "8d7ee635c95c5781",
-        "x": 2210,
-        "y": 160,
+        "x": 490,
+        "y": 80,
         "wires": []
     },
     {
@@ -2047,11 +2620,12 @@
         "z": "061b272d346ebd03",
         "g": "e72e588ff1c8ae83",
         "name": "",
-        "x": 1910,
-        "y": 160,
+        "x": 1990,
+        "y": 180,
         "wires": [
             [
-                "0e63b171b14873f1"
+                "4a244a4bc7436312",
+                "805f901224d8a0c4"
             ]
         ]
     },
@@ -2062,8 +2636,8 @@
         "g": "e72e588ff1c8ae83",
         "name": "USER EDIT: Rasberry Pi IP in Sub-Flow",
         "info": "",
-        "x": 1950,
-        "y": 120,
+        "x": 2030,
+        "y": 140,
         "wires": []
     },
     {
@@ -2080,8 +2654,8 @@
         "targetType": "msg",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1870,
-        "y": 200,
+        "x": 1950,
+        "y": 240,
         "wires": []
     },
     {
@@ -2610,8 +3184,8 @@
             "43e6d8381ecb9331",
             "5cf2f55df6742476"
         ],
-        "x": 1735,
-        "y": 160,
+        "x": 1815,
+        "y": 180,
         "wires": [
             [
                 "18636c74da0dfe6e",
@@ -2763,6 +3337,64 @@
         "wires": []
     },
     {
+        "id": "4a244a4bc7436312",
+        "type": "debug",
+        "z": "061b272d346ebd03",
+        "g": "e72e588ff1c8ae83",
+        "name": "",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 2250,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "805f901224d8a0c4",
+        "type": "link out",
+        "z": "061b272d346ebd03",
+        "g": "e72e588ff1c8ae83",
+        "name": "link out 16",
+        "mode": "link",
+        "links": [
+            "6a4a9705132f9175"
+        ],
+        "x": 2175,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "4a94b1bbf51fec4b",
+        "type": "inject",
+        "z": "061b272d346ebd03",
+        "name": "4168",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "{\"deviceId\":4168,\"mfrId\":4,\"productId\":3,\"timestamp\":1678300956,\"TEMPERATURE\":19.7,\"command\":244,\"retries\":8,\"TARGET_TEMP\":9,\"mode\":\"heat\"}",
+        "payloadType": "json",
+        "x": 1630,
+        "y": 100,
+        "wires": [
+            [
+                "18636c74da0dfe6e",
+                "f155d23535a2e226"
+            ]
+        ]
+    },
+    {
         "id": "4d961fde847699bb",
         "type": "comment",
         "z": "f5c07ac875e326d6",
@@ -2773,50 +3405,6 @@
         "wires": []
     },
     {
-        "id": "9965ef4959ba011f",
-        "type": "subflow:833a40a2676dab42",
-        "z": "f5c07ac875e326d6",
-        "g": "f7d2523e9fcc649a",
-        "name": "",
-        "x": 1000,
-        "y": 120,
-        "wires": [
-            [
-                "9268589db08f7ec3"
-            ]
-        ]
-    },
-    {
-        "id": "9268589db08f7ec3",
-        "type": "mqtt out",
-        "z": "f5c07ac875e326d6",
-        "g": "f7d2523e9fcc649a",
-        "name": "Publish MQTT Messages",
-        "topic": "",
-        "qos": "2",
-        "retain": "true",
-        "respTopic": "",
-        "contentType": "",
-        "userProps": "",
-        "correl": "",
-        "expiry": "",
-        "broker": "8d7ee635c95c5781",
-        "x": 1270,
-        "y": 120,
-        "wires": []
-    },
-    {
-        "id": "5afc17fcd76d53d5",
-        "type": "comment",
-        "z": "f5c07ac875e326d6",
-        "g": "f7d2523e9fcc649a",
-        "name": "USER EDIT: Rasberry Pi IP in Sub-Flow",
-        "info": "",
-        "x": 1030,
-        "y": 80,
-        "wires": []
-    },
-    {
         "id": "66a0ca5aeaaee7fd",
         "type": "comment",
         "z": "f5c07ac875e326d6",
@@ -2824,24 +3412,6 @@
         "info": "",
         "x": 210,
         "y": 80,
-        "wires": []
-    },
-    {
-        "id": "3342db22e8247c46",
-        "type": "debug",
-        "z": "f5c07ac875e326d6",
-        "g": "f7d2523e9fcc649a",
-        "name": "",
-        "active": false,
-        "tosidebar": true,
-        "console": true,
-        "tostatus": true,
-        "complete": "payload",
-        "targetType": "msg",
-        "statusVal": "payload",
-        "statusType": "auto",
-        "x": 980,
-        "y": 160,
         "wires": []
     },
     {
@@ -2879,10 +3449,54 @@
         "name": "link out 13",
         "mode": "link",
         "links": [
-            "8f48efda55f6ac61"
+            "8f48efda55f6ac61",
+            "0ea8668ce87fa343"
         ],
         "x": 235,
         "y": 140,
+        "wires": []
+    },
+    {
+        "id": "9965ef4959ba011f",
+        "type": "subflow:833a40a2676dab42",
+        "z": "f5c07ac875e326d6",
+        "g": "f7d2523e9fcc649a",
+        "name": "",
+        "x": 1000,
+        "y": 120,
+        "wires": [
+            [
+                "53b1e31e569b3b08"
+            ]
+        ]
+    },
+    {
+        "id": "5afc17fcd76d53d5",
+        "type": "comment",
+        "z": "f5c07ac875e326d6",
+        "g": "f7d2523e9fcc649a",
+        "name": "USER EDIT: Rasberry Pi IP in Sub-Flow",
+        "info": "",
+        "x": 1030,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "3342db22e8247c46",
+        "type": "debug",
+        "z": "f5c07ac875e326d6",
+        "g": "f7d2523e9fcc649a",
+        "name": "",
+        "active": false,
+        "tosidebar": true,
+        "console": true,
+        "tostatus": true,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "payload",
+        "statusType": "auto",
+        "x": 980,
+        "y": 160,
         "wires": []
     },
     {
@@ -2902,6 +3516,20 @@
                 "3342db22e8247c46"
             ]
         ]
+    },
+    {
+        "id": "53b1e31e569b3b08",
+        "type": "link out",
+        "z": "f5c07ac875e326d6",
+        "g": "f7d2523e9fcc649a",
+        "name": "link out 17",
+        "mode": "link",
+        "links": [
+            "6a4a9705132f9175"
+        ],
+        "x": 1175,
+        "y": 120,
+        "wires": []
     },
     {
         "id": "38a4b9e675ef9b0f",
@@ -3066,32 +3694,13 @@
         "z": "f9b614b65347025c",
         "g": "7ad9c5f766ebd082",
         "name": "",
-        "x": 1760,
-        "y": 140,
+        "x": 1780,
+        "y": 180,
         "wires": [
             [
-                "048759ea643eacfb"
+                "772af1e9a0321b31"
             ]
         ]
-    },
-    {
-        "id": "048759ea643eacfb",
-        "type": "mqtt out",
-        "z": "f9b614b65347025c",
-        "g": "7ad9c5f766ebd082",
-        "name": "Publish MQTT Messages",
-        "topic": "",
-        "qos": "2",
-        "retain": "true",
-        "respTopic": "",
-        "contentType": "",
-        "userProps": "",
-        "correl": "",
-        "expiry": "",
-        "broker": "8d7ee635c95c5781",
-        "x": 2050,
-        "y": 140,
-        "wires": []
     },
     {
         "id": "5ed8cbfcd963922f",
@@ -3100,8 +3709,8 @@
         "g": "7ad9c5f766ebd082",
         "name": "USER EDIT: Rasberry Pi IP in Sub-Flow",
         "info": "",
-        "x": 1770,
-        "y": 100,
+        "x": 1790,
+        "y": 140,
         "wires": []
     },
     {
@@ -3368,8 +3977,8 @@
             "517e661563658566",
             "6229432f04945b55"
         ],
-        "x": 1585,
-        "y": 140,
+        "x": 1605,
+        "y": 180,
         "wires": [
             [
                 "7d073ecada5747d4",
@@ -3405,7 +4014,21 @@
         "targetType": "msg",
         "statusVal": "payload",
         "statusType": "auto",
-        "x": 1700,
+        "x": 1720,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "772af1e9a0321b31",
+        "type": "link out",
+        "z": "f9b614b65347025c",
+        "g": "7ad9c5f766ebd082",
+        "name": "link out 18",
+        "mode": "link",
+        "links": [
+            "6a4a9705132f9175"
+        ],
+        "x": 2015,
         "y": 180,
         "wires": []
     }
